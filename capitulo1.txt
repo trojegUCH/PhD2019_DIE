@@ -3,7 +3,15 @@
 \subsection{Breve consideración histórica de la institución con referencia a su misión}
 \label{historia}
 
-La Universidad de Chile es una institución de educación superior de carácter nacional y pública, que asume con compromiso y vocación de excelencia la formación de personas y la contribución al desarrollo espiritual y material de la Nación. Construyendo liderazgo en el desarrollo innovador de las ciencias y las tecnologías, las humanidades y las artes, a través de sus funciones de docencia, creación y extensión, con especial énfasis en la investigación y el postgrado. Promueve el ejercicio de una ciudadanía preparada, crítica, con conciencia social y responsabilidad ética, de acuerdo a los valores de tolerancia, pluralismo y equidad, independencia intelectual y libertad de pensamiento. Así como también del respeto, promoción y preservación de la diversidad en todos los ámbitos de su quehacer.
+La Universidad de Chile es una institución de educación superior de carácter nacional y pública,
+que asume con compromiso y vocación de excelencia la formación de personas y la contribución
+al desarrollo espiritual y material de la Nación. Construyendo liderazgo en el desarrollo innovador
+de las ciencias y las tecnologías, las humanidades y las artes, a través de sus funciones de docencia,
+creación y extensión, con especial énfasis en la investigación y el postgrado. Promueve el ejercicio
+de una ciudadanía preparada, crítica, con conciencia social y responsabilidad ética, de acuerdo a los
+valores de tolerancia, pluralismo y equidad, independencia intelectual y libertad de pensamiento.
+Así como también del respeto, promoción y preservación de la diversidad en todos los ámbitos de
+su quehacer.
 
 \begin{figure}[ht!]
 \centering
@@ -11,38 +19,95 @@ La Universidad de Chile es una institución de educación superior de carácter 
 \caption{Casa central de la Universidad de Chile}
 \end{figure}
 
-Es la más antigua del país (data de 1842) y una de las de mayor prestigio y tradición de América Latina, como lo prueban múltiples reconocimientos nacionales e internacionales. En el plano nacional, la Universidad de Chile recibe en términos relativos el mayor número de estudiantes con los mejores puntajes de ingreso al sistema de educación superior, cuenta con un cuerpo académico de excelencia, con una alta productividad en el campo científico y de la creación artística y cultural, y está permanentemente vinculada a la reflexión y solución de los problemas nacionales.
+Es la más antigua del país (data de 1842) y una de las de mayor prestigio y tradición de América
+Latina, como lo prueban múltiples reconocimientos nacionales e internacionales. En el plano
+nacional, la Universidad de Chile recibe en términos relativos el mayor número de estudiantes con
+los mejores puntajes de ingreso al sistema de educación superior, cuenta con un cuerpo académico
+de excelencia, con una alta productividad en el campo científico y de la creación artística y cultural,
+y está permanentemente vinculada a la reflexión y solución de los problemas nacionales.
 
-Desde una perspectiva de regulación externa de la calidad, la Universidad participó en la primera experiencia voluntaria de acreditación institucional en Chile (año 2004), habiendo sido acreditada por la Comisión Nacional de Acreditación de Pregrado, (CNAP), en todas las áreas consideradas (gestión estratégica, docencia de pregrado, investigación y creación, docencia de postgrado, vinculación con el medio e infraestructura) y por el máximo período considerado para estos efectos por el organismo citado (siete años). \trg{En el año 2018, la Universidad de Chile se sometió a su tercer proceso de acreditación ante la Comisión Nacional de Acreditación (CNA), con el objetivo de mantener la acreditación por siete años en todas sus áreas, como fue el caso de los procesos 2004 y 2011.}
-% Durante el año 2011 la Universidad se sometió a un segundo proceso de acreditación ante la Comisión Nacional de Acreditación (CNA), manteniendo los siete años en todas las áreas consideradas. 
-En lo internacional, mantiene activas relaciones de intercambio científico, pedagógico, cultural y artístico con destacadas universidades \trg{de América, Europa, Asia, Oceanía y África, reflejados en los más de <.#convenios_instituciones#.> convenios con cerca de <#numero_instituciones#> en el mundo, lo que implica un alto flujo de movilidad académica.}
-%del continente americano, Europa y otros continentes y ocupa una
-\trg{La calidad de la Universidad de Chile se refleja en la} alta posición a nivel latinoamericano en rankings universitarios \trg{internacionales} tales como \trg{el Ranking de Shangai (Academic Ranking of World Universities - ARWU), el SCImago Research Group, de España, y el Quacquarelli Symonds (QS), de Inglaterra, y América Economía.}
-%el del Jiao Tong Institute de la Universidad de Shanghai, y el del SCImago Research Group, de España.
+Desde una perspectiva de regulación externa de la calidad, la Universidad participó en la
+primera experiencia voluntaria de acreditación institucional en Chile (año 2004), habiendo sido
+acreditada por la Comisión Nacional de Acreditación de Pregrado, (CNAP), en todas las áreas
+consideradas (gestión estratégica, docencia de pregrado, investigación y creación, docencia de
+postgrado, vinculación con el medio e infraestructura) y por el máximo período considerado
+para estos efectos por el organismo citado (siete años). Durante el año 2011 la Universidad
+se sometió a un segundo proceso de acreditación ante la Comisión Nacional de Acreditación
+(CNA), manteniendo los siete años en todas las áreas consideradas. En lo internacional, mantiene
+activas relaciones de intercambio científico, pedagógico, cultural y artístico con destacadas
+universidades del continente americano, Europa y otros continentes y ocupa una alta posición
+a nivel latinoamericano en rankings universitarios tales como el del Jiao Tong Institute de la
+Universidad de Shanghai, y el del SCImago Research Group, de España.
 
-Los orígenes de la Universidad de Chile se encuentran en las primeras universidades conventuales que se fundan en el país durante el siglo XVII, en el período colonial, y que reciben autorización real y pontificia para otorgar títulos de bachiller, licenciado, maestro y doctor en filosofía y teología. Más tarde, en 1738, se crea una universidad real, docente y de claustro, a la que se llama de San Felipe, en honor del rey Felipe V, con Facultades de leyes, teología, medicina y matemáticas. Con motivo de la independencia del imperio español, esta institución se adapta progresivamente a las nuevas circunstancias de la vida republicana y pasa a llamarse Universidad del Estado de Chile, luego de la República de Chile, y finalmente, Universidad de Chile. En 1842 se dicta una ley orgánica de acuerdo a la cual la Universidad de Chile recibe la función de superintendencia de todos los niveles de la enseñanza del país. Asimismo, se le encarga propagar la afición por los estudios superiores, promover la investigación y la divulgación científica y literaria y servir de auxiliar a los trabajos de las diversas dependencias de la administración del Estado. Cinco Facultades académicas forman entonces la universidad: Humanidades y Filosofía, Ciencias \trg{Físicas y Matemáticas}
-%Matemáticas y Físicas
-, Leyes y Ciencias Políticas, Medicina, y Teología. Estas Facultades tenían una función eminentemente científica, puesto que la labor docente de la Universidad quedaba radicada en el Instituto Nacional, fundado en 1811 e inaugurado el 10 de agosto de 1813.  El 9 de enero de 1879 se dictó un nuevo estatuto que transformó a la Universidad en una institución de finalidad docente.
+Los orígenes de la Universidad de Chile se encuentran en las primeras universidades
+conventuales que se fundan en el país durante el siglo XVII, en el período colonial, y que reciben
+autorización real y pontificia para otorgar títulos de bachiller, licenciado, maestro y doctor en
+filosofía y teología. Más tarde, en 1738, se crea una universidad real, docente y de claustro,
+a la que se llama de San Felipe, en honor del rey Felipe V, con Facultades de leyes, teología,
+medicina y matemáticas. Con motivo de la independencia del imperio español, esta institución
+se adapta progresivamente a las nuevas circunstancias de la vida republicana y pasa a llamarse
+Universidad del Estado de Chile, luego de la República de Chile, y finalmente, Universidad de
+Chile. En 1842 se dicta una ley orgánica de acuerdo a la cual la Universidad de Chile recibe la
+función de superintendencia de todos los niveles de la enseñanza del país. Asimismo, se le encarga
+propagar la afición por los estudios superiores, promover la investigación y la divulgación científica
+y literaria y servir de auxiliar a los trabajos de las diversas dependencias de la administración del
+Estado. Cinco Facultades académicas forman entonces la universidad: Humanidades y Filosofía,
+Ciencias Matemáticas y Físicas, Leyes y Ciencias Políticas, Medicina, y Teología. Estas Facultades
+tenían una función eminentemente científica, puesto que la labor docente de la Universidad quedaba
+radicada en el Instituto Nacional, fundado en 1811 e inaugurado el 10 de agosto de 1813. 
+El 9 de enero de 1879 se dictó un nuevo estatuto
+que transformó a la Universidad en una institución de finalidad docente.
 
-En 1931 se dicta una nueva ley orgánica que consagra la doble función científica y docente de la Universidad. A partir de entonces, y durante treinta años, se mantiene un crecimiento sostenido de la Corporación. Crece el número de sus facultades e institutos, de sus centros de investigación y de sus carreras y programas académicos. Las actividades de extensión reciben también un fuerte impulso, creándose la Orquesta Sinfónica de Chile y el Teatro Experimental de la Universidad, en 1941; el Museo de Arte Popular Americano, en 1943; el Coro Universitario y el Ballet Nacional, en 1945; y el Museo de Arte Contemporáneo, en 1947. Asimismo, se inicia la radiotelefonía universitaria, y se realizan las Escuelas Internacionales de Temporada, que atraen a profesores y estudiantes de todo el continente y llevan los contenidos de la ciencia y la cultura al gran público. La realización de escuelas de temporada en provincia es el primer paso para la fundación de los centros universitarios regionales, que luego se convierten en las distintas sedes que llega a tener la Universidad en las principales ciudades del país. De estas sedes derivarán, más tarde, diversas universidades autónomas.
+En 1931 se dicta una nueva ley orgánica que consagra la doble función científica y docente de
+la Universidad. A partir de entonces, y durante treinta años, se mantiene un crecimiento sostenido
+de la Corporación. Crece el número de sus facultades e institutos, de sus centros de investigación
+y de sus carreras y programas académicos. Las actividades de extensión reciben también un fuerte
+impulso, creándose la Orquesta Sinfónica de Chile y el Teatro Experimental de la Universidad, en
+1941; el Museo de Arte Popular Americano, en 1943; el Coro Universitario y el Ballet Nacional,
+en 1945; y el Museo de Arte Contemporáneo, en 1947. Asimismo, se inicia la radiotelefonía
+universitaria, y se realizan las Escuelas Internacionales de Temporada, que atraen a profesores y
+estudiantes de todo el continente y llevan los contenidos de la ciencia y la cultura al gran público.
+La realización de escuelas de temporada en provincia es el primer paso para la fundación de los
+centros universitarios regionales, que luego se convierten en las distintas sedes que llega a tener
+la Universidad en las principales ciudades del país. De estas sedes derivarán, más tarde, diversas
+universidades autónomas.
 
-Junto con formar profesionales y graduados, la Universidad de Chile ha cumplido a lo largo de su historia una labor de \trg{suma} importancia a nivel nacional, a la vez que se ha constituido en uno de los principales centros de creación científica y artística y de irradiación cultural de América Latina. La primera de las grandes tareas que emprende fue la organización de un sistema nacional de educación, en el siglo XIX. En el siglo XX contribuye decisivamente a ampliar a todo el país la cobertura de la atención primaria en salud, a superar el problema de la desnutrición infantil, a la construcción de grandes obras de infraestructura productiva y energética, al estudio de los materiales de construcción y al desarrollo de la ingeniería sismorresistente, con lo que se aminoran en gran medida los efectos de los terremotos, y al desarrollo productivo exportador, especialmente en las áreas silvoagropecuarias y minera, entre otras grandes tareas. En lo internacional, es reconocida su acción en prácticamente todas las áreas.
+Junto con formar profesionales y graduados, la Universidad de Chile ha cumplido a lo largo
+de su historia una labor de primera importancia a nivel nacional, a la vez que se ha constituido en
+uno de los principales centros de creación científica y artística y de irradiación cultural de América
+Latina. La primera de las grandes tareas que emprende fue la organización de un sistema nacional
+de educación, en el siglo XIX. En el siglo XX contribuye decisivamente a ampliar a todo el país
+la cobertura de la atención primaria en salud, a superar el problema de la desnutrición infantil,
+a la construcción de grandes obras de infraestructura productiva y energética, al estudio de los
+materiales de construcción y al desarrollo de la ingeniería sismorresistente, con lo que se aminoran
+en gran medida los efectos de los terremotos, y al desarrollo productivo exportador, especialmente
+en las áreas silvoagropecuarias y minera, entre otras grandes tareas. En lo internacional, es
+reconocida su acción en prácticamente todas las áreas.
 
-En la Universidad de Chile han sido formados la mayor parte de los Presidentes de la República, incluyendo a Manuel Montt Torres, Federico Errázuriz Zañartu, Domingo Santa María, Federico Errázuriz Echaurren, Germán Riesco, Pedro Montt, Ramón Barros Luco, Juan Luis Sanfuentes, Arturo Alessandri Palma, Emiliano Figueroa, Juan Esteban Montero, Pedro Aguirre Cerda, Gabriel González Videla, Jorge Alessandri Rodríguez, Salvador Allende Gossens, Patricio Aylwin Azócar, Eduardo Frei Ruiz-Tagle, Ricardo Lagos Escobar y Michelle Bachelet Jeria. La mayor parte de los ganadores de premios nacionales en las menciones de ciencias, humanidades y artes son ex-alumnos de esta casa de estudios (<.#premios_nacionales_exalmunos_UCH#.> Premios Nacionales). 
-%, que representan el <.#porcentaje_premios_UCH_del_total#.>\% del total). 
-Gabriela Mistral, receptora del Premio Nobel de Literatura (1945), y Pablo Neruda,  receptor del Premio Nobel de Literatura (1971), fueron miembros de la Universidad de Chile.
+En la actualidad, y para desarrollar sus actividades, la Universidad de Chile se organiza en
+14 facultades, 4 institutos interdisciplinarios y tres centros. Las Facultades son: Arquitectura y
+Urbanismo; Artes; Ciencias; Ciencias Agronómicas; Ciencias Físicas y Matemáticas; Ciencias
+Forestales y Conservación de la Naturaleza; Ciencias Químicas y Farmacéuticas; Ciencias Sociales;
+Ciencias Veterinarias y Pecuarias; Derecho; Economía y Negocios; Filosofía y Humanidades;
+Medicina; y Odontología. Los Institutos son: Instituto de Asuntos Públicos (INAP); Instituto
+de Estudios Internacionales (IEI); Instituto de Nutrición y Tecnología de los Alimentos (INTA)
+e Instituto de Comunicación e Imagen (ICEI). Deben destacarse también el Hospital Clínico
+José Joaquín Aguirre, el Liceo Experimental Manuel de Salas, una gran institucionalidad cultural
+(Orquesta Sinfónica, Ballet Nacional, Coro de la Universidad de Chile, Teatro Nacional, Museo de
+Arte Contemporáneo, Museo de Arte Popular Americano, Archivo Andrés Bello y otros), la Radio
+de la Universidad de Chile y muchas otras instancias que se encuentran adscritas a Facultades e
+Institutos.
 
-En la actualidad, y para desarrollar sus actividades, la Universidad de Chile se organiza en 14 facultades, 4 institutos interdisciplinarios y tres centros. Las Facultades son: Arquitectura y Urbanismo; Artes; Ciencias; Ciencias Agronómicas; Ciencias Físicas y Matemáticas; Ciencias Forestales y Conservación de la Naturaleza; Ciencias Químicas y Farmacéuticas; Ciencias Sociales; Ciencias Veterinarias y Pecuarias; Derecho; Economía y Negocios; Filosofía y Humanidades; Medicina; y Odontología. Los Institutos son: Instituto de Asuntos Públicos (INAP); Instituto de Estudios Internacionales (IEI); Instituto de Nutrición y Tecnología de los Alimentos (INTA) e Instituto de Comunicación e Imagen (ICEI). Deben destacarse también el Hospital Clínico José Joaquín Aguirre, el Liceo Experimental Manuel de Salas, una gran institucionalidad cultural (Orquesta Sinfónica, Ballet Nacional, Coro de la Universidad de Chile, Teatro Nacional, Museo de Arte Contemporáneo, Museo de Arte Popular Americano, Archivo Andrés Bello y otros), la Radio de la Universidad de Chile y muchas otras instancias que se encuentran adscritas a Facultades e Institutos.
+La Universidad de Chile cuenta con una matrícula superior a <#estudiantes_pregrado_uchile#> mil estudiantes de pregrado
+distribuidos en <#programas_estudio#> programas de estudio, los cuales incluyen <#carreras_profesionales#> carreras profesionales y 
+<#licenciaturas_terminales#> licenciaturas terminales. Además ofrece más de un centenar de programas de especialización en
+diversas áreas.
 
-\trg{Sumándose a los 676.000 metros cuadrados construidos (casi 44.000 m$^2$ de salas de clases), existen proyectos por un total de 112.442 m$^2$ y nuevos proyectos que agregarán 50.645 m$^2$ a la infraestructura de la Universidad. Destaca el proyecto académico Laguna Carén, con 1.200 hectáreas de extensión y 3.000 m$^2$ para centros de investigación; y el proyecto Polideportivo, que con 9.000 m$^2$ es el mayor proyecto de infraestructura deportiva de la Universidad.}
-
-\trg{Asimismo, se destaca la labor de co-tutela que tiene la Universidad de Chile con las recientemente formadas Universidad de O'Higgins y Universidad de Aysén.}
-
-La Universidad de Chile cuenta con una matrícula superior a <#estudiantes_pregrado_uchile#> mil estudiantes de pregrado distribuidos en <#programas_estudio#> programas de estudio, los cuales incluyen <#carreras_profesionales#> carreras profesionales y  <#licenciaturas_terminales#> licenciaturas terminales. Además ofrece más de un centenar de programas de especialización en diversas áreas.
-
-En el período comprendido entre los años 2002 y <#ano_estadistica_cupo#> la oferta de vacantes regulares (vía PSU) ha aumentado desde los 4.000 a los <.#cupo_anual#.> cupos anuales, y la oferta global de vacantes ha crecido por sobre los <.#vacantes_global#.> cupos anuales (para todas las vías de ingreso). En el año <#ano_estadistica_cupo#>, para un total de <.#cupo_anual#.> vacantes regulares, se registró un total de <.#postulaciones_pregrado_UCH#.> postulaciones \trg{pregrado} a la Universidad de Chile.
-
-\trg{Cabe destacar que todos los programas de pregrado han innovado en sus estructuras curriculares o están en proceso de ello. Más aún, entre 2014 y 2018 se han creado 6 nuevos programas de postgrado.} 
+En el período comprendido entre los años 2002 y <#ano_estadistica_cupo#> la oferta de vacantes regulares (vía
+PSU) ha aumentado desde los 4.000 a los <.#cupo_anual#.> cupos anuales, y la oferta global de vacantes ha
+crecido por sobre los <.#vacantes_global#.> cupos anuales (para todas las vías de ingreso). En el año <#ano_estadistica_cupo#>, para un
+total de <.#cupo_anual#.> vacantes regulares, se registró un total de <.#postulaciones_pregrado_UCH#.> postulaciones a la Universidad de
+Chile.
 
 % En el año <#ano_estadistica_matricula#>, el <.#porcentaje_matriculados_UCH#.>\% de los estudiantes que alcanzaron puntajes nacionales se matricularon
 % en la Universidad de Chile; de igual forma, de entre todos los puntajes nacionales, el <.#porcentaje_colegio_municipal#.>\% de los
@@ -51,30 +116,63 @@ En el período comprendido entre los años 2002 y <#ano_estadistica_cupo#> la of
 % positiva que tienen los estudiantes y sus familias de la Universidad de Chile, como de la diversidad
 % de éstos y la interacción de la Universidad con el medio social dado su carácter nacional y estatal.
 
-Junto a este énfasis por la excelencia de los alumnos que ingresan, la Universidad de Chile se esfuerza por fomentar la equidad. Concretamente, ha instituido la Beca de Equidad Universidad de Chile que cubre la diferencia entre el arancel real y el arancel de referencia y que hasta ahora era financiada por estos estudiantes a través de un crédito otorgado por el Fondo Solidario de Crédito Universitario. Considerando que los estudiantes de los dos primeros quintiles de ingreso reciben del MINEDUC una beca para financiar el arancel de referencia, la Beca de Equidad Universidad de Chile significa, en los hechos, gratuidad de aranceles para los estudiantes más vulnerables. \trg{En ese sentido, para <#ano_estadistica_gratuidad#> un <.#porcentaje_gratuidad#.>\% de la matrícula de pregrado ingresó con gratuidad a la Universidad de Chile (<.#estudiantes_gratuidad#.> estudiantes), mientras que <.#estudiantes_beca_interna#.> han recibido becas internas y externas para financiamiento de arancel total o parcial.}
-
-\trg{La Universidad de Chile ha potenciado la igualdad de género en la institución, y desde el 2013 existe la Oficina de Igualdad de Oportunidades de Género (dependiente de la Vicerrectoría de Extensión y Comunicaciones), que actualmente se transformó en la Dirección de Igualdad de Género, dependiendo directamente de la Rectoría. Además, la participación femenina ha ido en aumento en los últimos años, llegando a un <.#porcentaje_mujeres_pregrado#.>\% de los nuevos matriculados para el <#ano_mujeres_pregrado#> en pregrado.} 
-\trg{El decreto Universitario N$^\circ$~0027663 [\ref{dec27663}] de 5 de noviembre de 2008 incorporó la variable de género en grados académicos y títulos profesionales de la Universidad de Chile.}
+Junto a este énfasis por la excelencia de los alumnos que ingresan, la Universidad de Chile se
+esfuerza por fomentar la equidad. Concretamente, ha instituido la Beca de Equidad Universidad de
+Chile que cubre la diferencia entre el arancel real y el arancel de referencia y que hasta ahora era
+financiada por estos estudiantes a través de un crédito otorgado por el Fondo Solidario de Crédito
+Universitario. Considerando que los estudiantes de los dos primeros quintiles de ingreso reciben
+del MINEDUC una beca para financiar el arancel de referencia, la Beca de Equidad Universidad
+de Chile significa, en los hechos, gratuidad de aranceles para los estudiantes más vulnerables.
 
 % Dado que la Universidad de Chile es la institución de educación superior que matricula la
 % mayor cantidad de alumnos dentro de los <.#mejores_puntajes_PSU#.> mejores puntajes en la PSU, es la que obtiene el
 % mayor Aporte Fiscal Indirecto (AFI) del sistema educacional chileno.
 
-El sistema de postgrado y postítulo de esta institución es el más grande y complejo del país, compuesto por <.#programas_doctorado_UCH#.> programas de doctorado, <.#programas_magister_UCH#.> programas de magíster, <.#programas_titulo_prof_UCH#.> programas de título profesional especialista y <.#programas_postitulo_UCH#.> cursos de especialización de postítulo, con cerca de <.#estudiantes_post#.> estudiantes, todos estos valores vigentes hasta el año <#ano_estadistica_post#>. \trg{Destaca que para el <#ano_estadistica_extranjeros#>, un <.#porcentaje_extranjeros#.>\% de las postulaciones a programas de postgrados correspondían a extranjeros, de los cuales un <.#porcentaje_latinos#.>\% provenían de países latinoamericanos.}
+El sistema de postgrado y postítulo de esta institución es el más grande y complejo del país,
+compuesto por <.#programas_doctorado_UCH#.> programas de doctorado, <.#programas_magister_UCH#.> programas de magíster, <.#programas_titulo_prof_UCH#.> programas de título
+profesional especialista y <.#programas_postitulo_UCH#.> cursos de especialización de postítulo, con cerca de <.#estudiantes_post#.> estudiantes,
+todos estos valores vigentes hasta el año <#ano_estadistica_post#>.
 
+A nivel de investigación, en el Concurso FONDECYT Regular en el período <#ano_inferior_estadistica_FONDECYT#>-<#ano_superior_estadistica_FONDECYT#> la
+Universidad de Chile se adjudicó <.#proyectos_FONDECYT_reg_adjudicados_UCH#.> proyectos, lo que corresponde al <.#porcentaje_del_total#.>\% del total nacional.
+En el año <#ano_ejemplo_FONDECYT_reg_UCH#> este concurso adjudicó a la Universidad de Chile fondos por US\$<.#fondos_dolares_FONDECYT_reg_UCH#.> millones
+(\$<.#fondos_pesos_FONDECYT_reg_UCH#.> millones equivalentes en pesos chilenos). A nivel del Concurso FONDECYT de Iniciación <#ano_ejemplo_FONDECYT_reg_UCH#>, la
+Universidad de Chile se adjudicó <.#proyectos_FONDECYT_ini_adjudicados_UCH#.> de <.#proyectos_FONDECYT_ini_total#.> proyectos (<.#porcentaje_proy_ini_del_total#.>\% del total) por un monto de \$<.#fondos_pesos_FONDECYT_ini_UCH#.>
+millones, concentrando un <.#porcentaje_fondos_ini_del_total#.>\% del total de fondos asignados a nivel nacional (\$<.#fondos_pesos_FONDECYT_ini_total#.> millones). En
+cuanto al Concurso FONDECYT de Postdoctorado <#ano_FONDECYT_postdoc#>, esta casa de estudios se adjudicó <.#proyectos_FONDECYT_postdoc_adjudicados_UCH#.>
+de un total de <.#proyectos_FONDECYT_postdoc_total#.> proyectos seleccionados (<.#porcentaje_proy_postdoc_del_total#.>\% del total) y \$<.#fondos_pesos_FONDECYT_postdoc_UCH#.> millones de un total de
+\$<.#fondos_pesos_FONDECYT_postdoc_total#.> millones, correspondiente al <.#porcentaje_fondos_postdoc_del_total#.>\% del total de recursos asignados en este concurso.
 
-A nivel de investigación, en el Concurso FONDECYT Regular en el período <#ano_inferior_estadistica_FONDECYT#>-<#ano_superior_estadistica_FONDECYT#> la Universidad de Chile se adjudicó <.#proyectos_FONDECYT_reg_adjudicados_UCH#.> proyectos, lo que corresponde al <.#porcentaje_del_total#.>\% del total nacional. En el \trg{concurso <#ano_ejemplo_FONDECYT_reg_UCH#>, la Universidad de Chile se adjudicó <.#proyectos_FONDECYT_ejemplo#.> proyectos, con}
-%año <#ano_ejemplo_FONDECYT_reg_UCH#> este concurso adjudicó a la Universidad de Chile 
-fondos por \trg{\$<.#fondos_pesos_FONDECYT_reg_UCH#.> millones de pesos chilenos (US\$<.#fondos_dolares_FONDECYT_reg_UCH#.> millones equivalentes en dólares americanos).}
-%US\$<.#fondos_dolares_FONDECYT_reg_UCH#.> millones (\$<.#fondos_pesos_FONDECYT_reg_UCH#.> millones equivalentes en pesos chilenos).
-A nivel del Concurso FONDECYT de Iniciación <#ano_ejemplo_FONDECYT_ini_UCH#>, la Universidad de Chile se adjudicó <.#proyectos_FONDECYT_ini_adjudicados_UCH#.> de <.#proyectos_FONDECYT_ini_total#.> proyectos (<.#porcentaje_proy_ini_del_total#.>\% del total) por un monto de \$<.#fondos_pesos_FONDECYT_ini_UCH#.> millones, concentrando un <.#porcentaje_fondos_ini_del_total#.>\% del total de fondos asignados a nivel nacional (\$<.#fondos_pesos_FONDECYT_ini_total#.> millones). En cuanto al Concurso FONDECYT de Postdoctorado <#ano_FONDECYT_postdoc#>, esta casa de estudios se adjudicó <.#proyectos_FONDECYT_postdoc_adjudicados_UCH#.> de un total de <.#proyectos_FONDECYT_postdoc_total#.> proyectos seleccionados (<.#porcentaje_proy_postdoc_del_total#.>\% del total) y \$<.#fondos_pesos_FONDECYT_postdoc_UCH#.> millones de un total de \$<.#fondos_pesos_FONDECYT_postdoc_total#.> millones, correspondiente al <.#porcentaje_fondos_postdoc_del_total#.>\% del total de recursos asignados en este concurso.
+Por otra parte es destacable mencionar que en el período <#ano_inferior_estadistica_publicaciones#>-<#ano_superior_estadistica_publicaciones#> los académicos de la
+Universidad de Chile tuvieron <.#total_publicaciones_UCH#.> publicaciones ISI<@comentario_publicaciones_total_UCH@>.
 
-Por otra parte es destacable mencionar que en el período <#ano_inferior_estadistica_publicaciones#>-<#ano_superior_estadistica_publicaciones#> los académicos de la Universidad de Chile tuvieron <.#total_publicaciones_UCH#.> publicaciones ISI\trg{, en que más del <.#porcentaje_1ercuartil_UCH#.>\% pertenecen al primer cuartil}<@comentario_publicaciones_total_UCH@>.
+En la Universidad de Chile han sido formados la mayor parte de los Presidentes de la
+República, incluyendo a Manuel Montt Torres, Federico Errázuriz Zañartu, Domingo Santa María,
+Federico Errázuriz Echaurren, Germán Riesco, Pedro Montt, Ramón Barros Luco, Juan Luis
+Sanfuentes, Arturo Alessandri Palma, Emiliano Figueroa, Juan Esteban Montero, Pedro Aguirre
+Cerda, Gabriel González Videla, Jorge Alessandri Rodríguez, Salvador Allende Gossens, Patricio
+Aylwin Azócar, Eduardo Frei Ruiz-Tagle, Ricardo Lagos Escobar y Michelle Bachelet Jeria. La
+mayor parte de los ganadores de premios nacionales en las menciones de ciencias, humanidades y
+artes son ex-alumnos de esta casa de estudios (<.#premios_nacionales_exalmunos_UCH#.> Premios Nacionales).
+%, que representan el <.#porcentaje_premios_UCH_del_total#.>\% del total).
+Gabriela Mistral, receptora del Premio Nobel de Literatura (1945), y Pablo Neruda, 
+receptor del Premio Nobel de Literatura (1971), fueron miembros de la Universidad de Chile.
 
-Actualmente la Universidad se rige por un nuevo Estatuto que modifica el DFL N$^{\circ}$ 153 de 1981, dando lugar a una nueva institucionalidad: el Rector es la máxima autoridad unipersonal y representante legal, quien es elegido por los pares académicos por un período de cuatro años; el Senado Universitario, órgano colegiado con funciones normativas y de lineamientos estratégicos, compuesto por 36 miembros (27 académicos, 7 estudiantes y 2 representantes del personal de colaboración) elegidos por sus pares; el Consejo Universitario, órgano colegiado de carácter ejecutivo, compuesto por el Rector quien lo preside, el Prorrector, los Decanos, y dos miembros designados por el Presidente de la República; el Consejo de Evaluación, a cargo de la superintendencia de los procesos de evaluación, calificación y autoevaluación a nivel institucional e individual, integrado por 5 profesores de la más alta jerarquía académica, quienes son propuestos por el Rector y nombrados por el Senado Universitario; el Prorrector, quien asesora al Rector en materias de orden académico, económico-administrativo, jurídico y estudiantil, quien lo reemplaza en caso de ausencia y coordina la 5 Vicerrectorías: (i) Asuntos Académicos, (ii) Asuntos Económicos, (iii) Asuntos Estudiantiles y Comunitarios, (iv) Investigación y Desarrollo, y (v) Extensión y Comunicaciones.
-
-%%%%%%%%%%%
-%% FACULTAD
+Actualmente la Universidad se rige por un nuevo Estatuto que modifica el DFL N$^{\circ}$ 153 de
+1981, dando lugar a una nueva institucionalidad: el Rector es la máxima autoridad unipersonal
+y representante legal, quien es elegido por los pares académicos por un período de cuatro
+años; el Senado Universitario, órgano colegiado con funciones normativas y de lineamientos
+estratégicos, compuesto por 36 miembros (27 académicos, 7 estudiantes y 2 representantes del
+personal de colaboración) elegidos por sus pares; el Consejo Universitario, órgano colegiado
+de carácter ejecutivo, compuesto por el Rector quien lo preside, el Prorrector, los Decanos,
+y dos miembros designados por el Presidente de la República; el Consejo de Evaluación, a
+cargo de la superintendencia de los procesos de evaluación, calificación y autoevaluación a nivel
+institucional e individual, integrado por 5 profesores de la más alta jerarquía académica, quienes
+son propuestos por el Rector y nombrados por el Senado Universitario; el Prorrector, quien asesora
+al Rector en materias de orden académico, económico-administrativo, jurídico y estudiantil, quien
+lo reemplaza en caso de ausencia y coordina la 5 Vicerrectorías: (i) Asuntos Académicos, (ii)
+Asuntos Económicos, (iii) Asuntos Estudiantiles y Comunitarios, (iv) Investigación y Desarrollo,
+y (v) Extensión y Comunicaciones.
 
 \section{Facultad de Ciencias Físicas y Matemáticas}
 
@@ -86,30 +184,63 @@ Actualmente la Universidad se rige por un nuevo Estatuto que modifica el DFL N$^
 
 \subsection{Reseña Histórica}
 
-La Facultad de Ciencias Físicas y Matemáticas (FCFM) es tan antigua como la propia Universidad de Chile, ya que ambas se crearon en el año 1842, bajo el gobierno del Presidente Manuel Bulnes.
+La Facultad de Ciencias Físicas y Matemáticas (FCFM) es tan antigua como la propia Universidad
+de Chile, ya que ambas se crearon en el año 1842, bajo el gobierno del Presidente Manuel Bulnes.
 
-En ese entonces, Andrés Bello, quien fuera el primer Rector de la Universidad, le pidió al ingeniero español, Andrés Antonio Gorbea que dirigiera esta nueva Facultad. Nueve años después, en 1853, se organizó la enseñanza de la ingeniería propiamente tal impartiendo las especialidades de Ingeniero Geógrafo, Ingeniero de Minas, Ingeniero de Puentes y Caminos, y también Arquitectura (carrera que se independizó en 1946).
+En ese entonces, Andrés Bello, quien fuera el primer Rector de la Universidad, le pidió al
+ingeniero español, Andrés Antonio Gorbea que dirigiera esta nueva Facultad. Nueve años después,
+en 1853, se organizó la enseñanza de la ingeniería propiamente tal impartiendo las especialidades de
+Ingeniero Geógrafo, Ingeniero de Minas, Ingeniero de Puentes y Caminos, y también Arquitectura
+(carrera que se independizó en 1946).
 
-En 1911 comenzó la construcción de un nuevo edificio para la Facultad, ubicado en Santiago, en la calle Benavente 850 -actual Beauchef-. La inauguración se realizó el 8 de abril de 1922, ante la presencia de ministros de Estado, embajadores y el entonces Presidente de la República, Arturo Alessandri Palma.
+En 1911 comenzó la construcción de un nuevo edificio para la Facultad, ubicado en Santiago,
+en la calle Benavente 850 -actual Beauchef-. La inauguración se realizó el 8 de abril de 1922, ante
+la presencia de ministros de Estado, embajadores y el entonces Presidente de la República, Arturo
+Alessandri Palma.
 
-Con la creación de la Corporación de Fomento de la Producción (CORFO) en 1939 y de grandes empresas públicas en los años 40, la Facultad debió adaptar las Escuelas de Ingeniería a la nueva realidad tecnológica nacional.
+Con la creación de la Corporación de Fomento de la Producción (CORFO) en 1939 y de
+grandes empresas públicas en los años 40, la Facultad debió adaptar las Escuelas de Ingeniería a la
+nueva realidad tecnológica nacional.
 
-Durante la segunda mitad del siglo XX, la FCFM continuó consolidando su liderazgo en la formación de ingenieros y científicos, contribuyendo al desarrollo del país en áreas como la electrificación, el agua potable, obras civiles de gran envergadura, el transporte y las telecomunicaciones.
+Durante la segunda mitad del siglo XX, la FCFM continuó consolidando su liderazgo
+en la formación de ingenieros y científicos, contribuyendo al desarrollo del país en áreas
+como la electrificación, el agua potable, obras civiles de gran envergadura, el transporte y las
+telecomunicaciones.
 
-Como una forma de responder a los desafíos, a partir de los años 60 y hasta la década del 90 se empezaron a crear nuevas carreras como Ingeniería Civil en Matemáticas, en Computación, en Materiales y, finalmente, en Biotecnología.
+Como una forma de responder a los desafíos, a partir de los años 60 y hasta la década del 90
+se empezaron a crear nuevas carreras como Ingeniería Civil en Matemáticas, en Computación, en
+Materiales y, finalmente, en Biotecnología.
 
-Con la llegada del siglo XXI, la Escuela de Ingeniería y Ciencias realizó cambios curriculares con el objetivo de apoyar la innovación en la enseñanza y el aprendizaje. Para el diseño de estos cambios, la Facultad adoptó metodologías originadas en el Massachusetts Institute of Technology (MIT) que fueron incorporadas por las más prestigiosas escuelas de ingeniería del mundo. Dicho método se conoce como iniciativa CDIO\footnote{Obtenido de \url{http://www.cdio.cl}}, denominada de esta manera para hacer énfasis en las competencias de concebir, diseñar, implementar y operar sistemas de ingeniería.
+Con la llegada del siglo XXI, la Escuela de Ingeniería y Ciencias realizó cambios curriculares
+con el objetivo de apoyar la innovación en la enseñanza y el aprendizaje. Para el diseño de estos
+cambios, la Facultad adoptó metodologías originadas en el Massachusetts Institute of Technology
+(MIT) que fueron incorporadas por las más prestigiosas escuelas de ingeniería del mundo. Dicho
+método se conoce como iniciativa CDIO\footnote{Obtenido de \url{http://www.cdio.cl}}, denominada de esta manera para hacer énfasis en las
+competencias de concebir, diseñar, implementar y operar sistemas de ingeniería.
 
-En 2011 y como un reflejo de los 170 años de tradición y excelencia, la FCFM comenzó la construcción del proyecto de infraestructura más importante desarrollado en los últimos 100 años, que se ubica en Beauchef 851, el que se describe en mayor detalle en la Sección \ref{infra_fcfm} ``Infraestructura de la FCFM''. 
+En 2011 y como un reflejo de los 170 años de tradición y excelencia, la FCFM comenzó
+la construcción del proyecto de infraestructura más importante desarrollado en los últimos 100
+años, que se ubica en Beauchef 851, el que se describe en mayor detalle en la Sección \ref{infra_fcfm}
+``Infraestructura de la FCFM''.
 
-\trg{En temáticas de equidad de género, la FCFM creó en 2018 la Dirección de Diversidad y Género, buscando convertir a la facultad en líder en integración de diversidad y género en Ciencias, Tecnología, Ingeniería y Matemáticas, a partir de una política institucional, generación de conocimiento y prácticas equitativas. En este contexto, el 2018 el ingreso de mujeres representa el <.#procentaje_mujeres_FCFM#.>\% de los nuevos alumnos de pregrado, lo que implica un crecimiento de un <.#crecimiento_mujeres_FCFM#.>\% desde 2013.}
-
-En la actualidad la Facultad presta importantes servicios de asesoría a organismos, empresas y corporaciones estatales y privadas en todas las ramas de la ingeniería y la ciencia. Asimismo continúa innovando y creando soluciones y requerimientos tecnológicos para enfrentar nuevos escenarios. Dentro de esto, la facultad está trabajando en su nuevo Plan estratégico enmarcado en el desarrollo del proyecto Ingeniería 2030 [\ref{fcfm_plan_2030}]. En el desarrollo del mismo se han realizado seminarios, análisis y estudios tendientes a redefinir tanto las carreras como los programas de postgrado y la articulación entre ellos.
+En la actualidad la Facultad presta importantes servicios de asesoría a organismos, empresas
+y corporaciones estatales y privadas en todas las ramas de la ingeniería y la ciencia. Asimismo
+continúa innovando y creando soluciones y requerimientos tecnológicos para enfrentar nuevos
+escenarios.Dentro de esto, la facultad está trabajando en su nuevo Plan estratégico enmarcado en
+el desarrollo del proyecto Ingeniería 2030 [\ref{fcfm_plan_2030}]. En el desarrollo del mismo se han realizado
+seminarios, análisis y estudios tendientes a redefinir tanto las carreras como los programas de
+postgrado y la articulación entre ellos.
 
 \subsection{Estructura Orgánica de la FCFM}
 \label{estruct_org_fcfm}
 
-La estructura Orgánica de la FCFM que se ilustra en la Figura \ref{ograma_fcfm} está compuesta por el Decano, Vicedecano, Consejo de Facultad, Dirección Académica y de Investigación, Dirección Económica y Administrativa, División Jurídica, Escuela de Ingeniería y Ciencias, Escuela de Postgrado, 13 Departamentos, y Centros de Investigación y de Servicios. El Reglamento General de Facultades, Decreto Universitario Exento N$\circ$ 906 de 27 de enero de 2009 [\ref{reg_gen_fac}], describe entre otros puntos las funciones de las autoridades unipersonales, consejos y departamentos, como se resume a continuación.
+La estructura Orgánica de la FCFM que se ilustra en la Figura \ref{ograma_fcfm} está compuesta por el Decano,
+Vicedecano, Consejo de Facultad, Dirección Académica y de Investigación, Dirección Económica
+y Administrativa, División Jurídica, Escuela de Ingeniería y Ciencias, Escuela de Postgrado, 13
+Departamentos, y Centros de Investigación y de Servicios. El Reglamento General de Facultades,
+Decreto Universitario Exento N$\circ$ 906 de 27 de enero de 2009 [\ref{reg_gen_fac}], describe entre otros puntos
+las funciones de las autoridades unipersonales, consejos y departamentos, como se resume a
+continuación.
 
 \begin{figure}[ht!]
 \centering
@@ -118,23 +249,55 @@ La estructura Orgánica de la FCFM que se ilustra en la Figura \ref{ograma_fcfm}
 \label{ograma_fcfm}
 \end{figure}
 
-El \textbf{Decano} es la máxima autoridad de la respectiva Facultad y le corresponde la dirección de ésta, en el contexto de los lineamientos y estrategias emanados de los Órganos Superiores de la Universidad, sin perjuicio de las atribuciones que el Estatuto Universitario le confiere al Consejo de Facultad. El Decano debe ser Profesor Titular y es elegido por los académicos de la Facultad. Dura cuatro años en el ejercicio de sus funciones, pudiendo ser elegido por un segundo período consecutivo. Entre otras funciones, el Decano preside el Consejo de Facultad, propone al Consejo de Facultad el presupuesto anual de financiamiento y \trg{rinde su ejecución}
-%darle cuenta de su ejecución
-, propone al Rector, para su nombramiento, las personas que ocuparán los cargos o desempeñarán las funciones, según sea el caso, de Vicedecano, Directores de Escuelas, Centros y direcciones de asesoría integral, aprobados por el Consejo de Facultad; ejerce la potestad disciplinaria sobre las personas que integren la Facultad, conforme a la normativa vigente; autoriza y ejecuta los gastos que sean necesarios para el buen funcionamiento académico y administrativo de la Facultad.
+El \textbf{Decano} es la máxima autoridad de la respectiva Facultad y le corresponde la dirección
+de ésta, en el contexto de los lineamientos y estrategias emanados de los Órganos Superiores
+de la Universidad, sin perjuicio de las atribuciones que el Estatuto Universitario le confiere al
+Consejo de Facultad. El Decano debe ser Profesor Titular y es elegido por los académicos de la
+Facultad. Dura cuatro años en el ejercicio de sus funciones, pudiendo ser elegido por un segundo
+período consecutivo. Entre otras funciones, el Decano preside el Consejo de Facultad, propone
+al Consejo de Facultad el presupuesto anual de financiamiento y darle cuenta de su ejecución,
+propone al Rector, para su nombramiento, las personas que ocuparán los cargos o desempeñarán
+las funciones, según sea el caso, de Vicedecano, Directores de Escuelas, Centros y direcciones de
+asesoría integral, aprobados por el Consejo de Facultad; ejerce la potestad disciplinaria sobre las
+personas que integren la Facultad, conforme a la normativa vigente; autoriza y ejecuta los gastos
+que sean necesarios para el buen funcionamiento académico y administrativo de la Facultad.
 
-El \textbf{Vicedecano} es el Ministro de Fe de la Facultad y el subrogante legal del Decano; dependen de él los organismos de apoyo y asesoría integral establecidos en el artículo 4$^{\circ}$ y le corresponde desempeñar las demás funciones que el Decano expresamente le delegue.
+El \textbf{Vicedecano} es el Ministro de Fe de la Facultad y el subrogante legal del Decano; dependen
+de él los organismos de apoyo y asesoría integral establecidos en el artículo 4$^{\circ}$ y le corresponde
+desempeñar las demás funciones que el Decano expresamente le delegue.
 
-El \textbf{Consejo de Facultad} es presidido por el Decano, al que le corresponderá definir las políticas de desarrollo académico e institucional en el contexto de los lineamientos y estrategias emanados del Senado Universitario, con las atribuciones, funciones y responsabilidad que señala la reglamentación vigente. Además del Decano, que lo preside, el Consejo de Facultad está integrado por los Directores de los Departamento y Escuelas. Corresponde igualmente que lo integren los Directores de los Institutos de Facultad y los Directores de aquellos Centros que tengan carácter de permanentes. También lo integran académicos elegidos (6 en el caso de la FCFM), quienes duran dos años en sus funciones, pudiendo ser elegidos sólo por un segundo período consecutivo. Asisten al Consejo, con derecho a voz, representantes de las organizaciones gremiales, más representativas de académicos, estudiantes y personal de colaboración de la correspondiente Facultad, nombrados mediante los procedimientos que dichas organizaciones acuerden. También asiste el Vicedecano en calidad de Secretario y Ministro de Fe, solo con derecho a voz. Las atribuciones del Consejo de Facultad que están descritas en el Reglamento General de Facultades son, entre otras:
+El \textbf{Consejo de Facultad} es presidido por el Decano, al que le corresponderá definir las
+políticas de desarrollo académico e institucional en el contexto de los lineamientos y estrategias
+emanados del Senado Universitario, con las atribuciones, funciones y responsabilidad que señala la
+reglamentación vigente. Además del Decano, que lo preside, el Consejo de Facultad está integrado
+por los Directores de los Departamento y Escuelas. Corresponde igualmente que lo integren los
+Directores de los Institutos de Facultad y los Directores de aquellos Centros que tengan carácter de
+permanentes. También lo integran académicos elegidos (6 en el caso de la FCFM), quienes duran
+dos años en sus funciones, pudiendo ser elegidos sólo por un segundo período consecutivo. Asisten
+al Consejo, con derecho a voz, representantes de las organizaciones gremiales, más representativas
+de académicos, estudiantes y personal de colaboración de la correspondiente Facultad, nombrados
+mediante los procedimientos que dichas organizaciones acuerden. También asiste el Vicedecano
+en calidad de Secretario y Ministro de Fe, solo con derecho a voz. Las atribuciones del Consejo de
+Facultad que están descritas en el Reglamento General de Facultades son, entre otras:
 
 \begin{enumerate}
-\item Aprobar las propuestas de políticas de admisión de alumnos de pre y postgrado propuestas por las respectivas Escuelas para ser presentadas al Rector.
+\item Aprobar las propuestas de políticas de admisión de alumnos de pre y postgrado propuestas
+por las respectivas Escuelas para ser presentadas al Rector.
 \item Aprobar el presupuesto anual de Facultad propuesto por el Decano.
 \item Aprobar el Informe semestral y cuenta anual presentada por el Decano.
 \end{enumerate}
 
-La \textbf{Secretaría de Estudios} es una unidad dependiente del Vicedecano, que se encarga de cautelar el cumplimiento de la normativa vigente en el desarrollo de los programas, siendo responsable de gestionar el proceso de graduación y titulación de los estudiantes de Pregrado y Postgrado, certificar sus situaciones académicas, y gestionar el proceso de matrícula.
+La \textbf{Secretaría de Estudios} es una unidad dependiente del Vicedecano, que se encarga de
+cautelar el cumplimiento de la normativa vigente en el desarrollo de los programas, siendo
+responsable de gestionar el proceso de graduación y titulación de los estudiantes de Pregrado y
+Postgrado, certificar sus situaciones académicas, y gestionar el proceso de matrícula.
 
-La \textbf{Dirección Económica y Administrativa (DEA)} tiene a su cargo la gestión financiera de la Facultad. Cada Unidad dispone de una organización administrativa local, de manera que la gestión financiera se realiza esencialmente en forma descentralizada, pero bajo control contable y del cumplimiento de la normativa vigente de la Dirección Económica y Administrativa. El organigrama de esta Dirección y su relación con los Departamentos es el que se muestra en la Figura \ref{ograma_dea_fcfm}.
+La \textbf{Dirección Económica y Administrativa (DEA)} tiene a su cargo la gestión financiera de
+la Facultad. Cada Unidad dispone de una organización administrativa local, de manera que la
+gestión financiera se realiza esencialmente en forma descentralizada, pero bajo control contable
+y del cumplimiento de la normativa vigente de la Dirección Económica y Administrativa. El
+organigrama de esta Dirección y su relación con los Departamentos es el que se muestra en la
+Figura \ref{ograma_dea_fcfm}.
 
 \begin{figure}[ht!]
 \centering
@@ -143,17 +306,26 @@ La \textbf{Dirección Económica y Administrativa (DEA)} tiene a su cargo la ges
 \label{ograma_dea_fcfm}
 \end{figure}
 
-La \textbf{Dirección Académica y de Investigación} tiene como misión contribuir, incentivar y apoyar el desarrollo académico y la labor de investigación científica, tecnológica y de I\&D en y entre las unidades académicas. Su propósito es, además, fomentar las actividades multidisciplinarias. Entre sus prioridades institucionales se cuentan:
+La \textbf{Dirección Académica y de Investigación} tiene como misión contribuir, incentivar y
+apoyar el desarrollo académico y la labor de investigación científica, tecnológica y de I\&D
+en y entre las unidades académicas. Su propósito es, además, fomentar las actividades
+multidisciplinarias. Entre sus prioridades institucionales se cuentan:
 
 \begin{itemize}
-\item Reforzar y transparentar la sistematización de la información en el área de investigación y desarrollo facilitando y potenciando enfoques multidisciplinarios.
+\item Reforzar y transparentar la sistematización de la información en el área de investigación y
+desarrollo facilitando y potenciando enfoques multidisciplinarios.
 \item Apoyar a asesorar en el desarrollo académico a los Departamentos.
-\item Contribuir a mantener el liderazgo en ciencia y tecnología, enfatizando la investigación como parte fundamental de la labor académica.
+\item Contribuir a mantener el liderazgo en ciencia y tecnología, enfatizando la investigación como
+parte fundamental de la labor académica.
 \end{itemize}
 
-La \textbf{Escuela de Ingeniería y Ciencias} tiene a su cargo la administración central de los planes de estudio de pregrado y la coordinación de la enseñanza que imparten los departamentos académicos de la Facultad.
+La \textbf{Escuela de Ingeniería y Ciencias} tiene a su cargo la administración central de los planes de
+estudio de pregrado y la coordinación de la enseñanza que imparten los departamentos académicos
+de la Facultad.
 
-La \textbf{Escuela de Postgrado} está encargada de organizar, administrar y coordinar los <#programas_magister_FCFM#> programas de Magíster, <#programas_doctorado_FCFM#> programas de Doctorado y los Diplomas de Postítulo ofrecidos por la Facultad.
+La \textbf{Escuela de Postgrado} está encargada de organizar, administrar y coordinar los <#programas_magister_FCFM#>
+programas de Magíster, <#programas_doctorado_FCFM#> programas de Doctorado y los Diplomas de Postítulo ofrecidos por
+la Facultad.
 
 Los \textbf{Departamentos} que conforman la FCFM corresponden a:
 
@@ -175,7 +347,9 @@ La FCFM actualmente cuenta con <#centros_investigacion_FCFM#> centros de investi
 % más del <.#porcentaje_JC_en_CI_FCFM#.>\% del cuerpo académico de jornada completa, 
 <.#postdoctorantes_en_CI_FCFM#.> post-doctorantes.
 % y <.#doctorado_en_CI_FCFM#.> tesistas de doctorado. 
-Cada uno es líder en su disciplina en el país y en ellos se realiza la mayor actividad de vinculación con el sector productivo y la sociedad, con énfasis en la creación de conocimiento, desarrollo y transferencia tecnológica. Estos son:
+Cada uno es líder en su disciplina en el país y en ellos se realiza la mayor actividad
+de vinculación con el sector productivo y la sociedad, con énfasis en la creación de conocimiento,
+desarrollo y transferencia tecnológica. Estos son:
 
 \begin{itemize}
 \item Centro de Modelamiento Matemático (CMM)
@@ -184,9 +358,9 @@ Cada uno es líder en su disciplina en el país y en ellos se realiza la mayor a
 \item Instituto Sistemas Complejos de Ingeniería (ISCI)
 \item Centro de Investigaciones en Energía Solar (SERC-Chile)
 \item Centro de Ciencia del Clima y la Resiliencia (CR2)
-\item Centro de \trg{Excelencia} Astrofísica y Tecnologías Afines (CATA)
-%\item Instituto Milenio de Astrofísica (MAS)
-\item Centro de Biotecnología y Bioingeniería \trg{(CeBiB)}
+\item Centro de Astrofísica y Tecnologías Afines (CATA)
+\item Instituto Milenio de Astrofísica (MAS)
+\item Centro de Biotecnología y Bioingeniería
 \item Centro de Energía (CE)
 \item Instituto Milenio para la Investigación de las Imperfecciones de Mercado y Política Pública (MIPP)
 \end{itemize}
@@ -195,18 +369,32 @@ Cada uno es líder en su disciplina en el país y en ellos se realiza la mayor a
 
 \subsubsection{Oferta de títulos y grados de la FCFM}
 
-La FCFM cuenta con una amplia oferta de título y grados. En pregrado, se ofrecen <#carreras_profesionales_FCFM#> carreras profesionales que corresponden a Ingeniería Civil, Ingeniería Civil de Minas, Ingeniería Civil en Biotecnología, Ingeniería Civil en Computación, Ingeniería Civil Eléctrica, Ingeniería Civil Industrial, Ingeniería Civil Matemática, Ingeniería Civil Mecánica, Ingeniería Civil Química y Geología; y <#licenciaturas_FCFM#> licenciaturas\trg{, que corresponden a Licenciatura} en Astronomía, Física y Geofísica.
+La FCFM cuenta con una amplia oferta de título y grados. En pregrado, se ofrecen <#carreras_profesionales_FCFM#> carreras
+profesionales que corresponden a Ingeniería Civil, Ingeniería Civil de Minas, Ingeniería Civil
+en Biotecnología, Ingeniería Civil en Computación, Ingeniería Civil Eléctrica, Ingeniería Civil
+Industrial, Ingeniería Civil Matemática, Ingeniería Civil Mecánica, Ingeniería Civil Química y
+Geología; y <#licenciaturas_FCFM#> Licenciaturas en Astronomía, Física y Geofísica.
 
-Además, cuenta con <#programas_magister_FCFM#> programas de magíster en Astronomía, Computación, Física, Geofísica, Geología, Ingeniería Eléctrica, \trg{Matemáticas Aplicadas,} Ingeniería Geotécnica, Ingeniería Química, Ingeniería Sísmica, Ingeniería Mecánica, Metalurgia Extractiva, Recursos y Medioambiente Hídrico, Transporte, Economía Aplicada, Gestión de Operaciones, Gestión y Dirección de Empresas, Gestión y Políticas Públicas, Gestión para la Globalización, Ingeniería de Negocios con Tecnologías de la Información, Ingeniería en Redes de Comunicaciones, Meteorología y Climatología, Minería, Tecnologías de la Información.
+Además, cuenta con <#programas_magister_FCFM#> programas de magíster en Astronomía, Computación, Física,
+Geofísica, Geología, Ingeniería Eléctrica, Ingeniería Geotécnica, Ingeniería Química, Ingeniería
+Sísmica, Ingeniería Mecánica, Metalurgia Extractiva, Recursos y Medioambiente Hídrico,
+Transporte, Economía Aplicada, Gestión de Operaciones, Gestión y Dirección de Empresas,
+Gestión y Políticas Públicas, Gestión para la Globalización, Ingeniería de Negocios con
+Tecnologías de la Información, Ingeniería en Redes de Comunicaciones, Meteorología y
+Climatología, Minería, Tecnologías de la Información.
 
-Por último, la FCFM ofrece <#programas_doctorado_FCFM#> programas de doctorado correspondientes a Astronomía, Computación, Física, Geología, Ciencia de los Materiales, Fluidodinámica, Ingeniería Química y Biotecnología, Modelación Matemática, Ingeniería de Minas, Ingeniería Eléctrica, Sistemas de Ingeniería.
+Por último, la FCFM ofrece <#programas_doctorado_FCFM#> programas de doctorado correspondientes a Astronomía,
+Computación, Física, Geología, Ciencia de los Materiales, Fluidodinámica, Ingeniería Química,
+Modelación Matemática, Ingeniería de Minas, Ingeniería Eléctrica, Sistemas de Ingeniería.
 
 \subsubsection{Infraestructura de la FCFM} \label{infra_fcfm}
 
-%Campus Beauchef 
-El Campus Beauchef de la Universidad de Chile alberga los edificios, laboratorios, aulas, infraestructura deportiva y áreas verdes de la FCFM. Ubicado en la comuna de Santiago, sus dependencias comprenden dos manzanas, encuadradas entre las calles Blanco Encalada, Plaza Ercilla, Tupper y Club Hípico, separadas entre sí por la calle Beauchef, donde \trg{la entrada principal se encuentra en Beauchef 850.}
-%se encuentra su entrada principal en Beauchef 850.
-El mapa del Campus Beauchef se muestra en la Figura \ref{map_fcfm}.
+Campus Beauchef El Campus Beauchef de la Universidad de Chile alberga los edificios,
+laboratorios, aulas, infraestructura deportiva y áreas verdes de la FCFM. Ubicado en la comuna
+de Santiago, sus dependencias comprenden dos manzanas, encuadradas entre las calles Blanco
+Encalada, Plaza Ercilla, Tupper y Club Hípico, separadas entre sí por la calle Beauchef, donde se
+encuentra su entrada principal en Beauchef 850. El mapa del Campus Beauchef se muestra en la
+Figura \ref{map_fcfm}.
 
 \begin{figure}[ht!]
 \centering
@@ -215,26 +403,68 @@ El mapa del Campus Beauchef se muestra en la Figura \ref{map_fcfm}.
 \label{map_fcfm}
 \end{figure}
 
-El Campus cuenta con 24 edificios, que suman 80.000 m$^2$ de superficie construida, sobre un terreno de 36.000 m$^2$ donde se albergan más de <.#laboratorios_FCFM#.> laboratorios con fines docentes y de investigación.
+El Campus Beauchef cuenta con 24 edificios, que suman 80.000 m$^2$ de superficie construida,
+sobre un terreno de 36.000 m$^2$ donde se albergan más de 85 laboratorios con fines docentes y de
+investigación.
 
-La FCFM posee numerosos jardines que incluyen decenas de valiosas especies nativas y foráneas, las cuales constituyen un interesante jardín botánico que adorna y da vida al Campus Beauchef.
+La FCFM posee numerosos jardines que incluyen decenas de valiosas especies nativas y
+foráneas, las cuales constituyen un interesante jardín botánico que adorna y da vida al Campus
+Beauchef.
 
-Los alumnos cuentan con una amplia sala con computadores centralizada, a la que se suman las salas de computación disponibles en los Departamentos de Computación, Química y Biotecnología, Mecánica, Civil, Eléctrica, Matemática, Geofísica, Geología y Astronomía. Además, la Facultad cuenta con redes de comunicación de alta velocidad: fibra óptica y WiFi, a disposición de todos los estudiantes, con acceso libre a Internet.
+Los alumnos cuentan con una amplia sala con computadores centralizada, a la que se suman las
+salas de computación disponibles en los Departamentos de Computación, Química y Biotecnología,
+Mecánica, Civil, Eléctrica, Matemática, Geofísica, Geología y Astronomía.
+Además, la Facultad cuenta con redes de comunicación de alta velocidad: fibra óptica y WiFi,
+a disposición de todos los estudiantes, con acceso libre a Internet.
 
-La FCFM posee más de 70 salas de clases, auditorios implementados con sofisticados equipos para video conferencia, además de salas multimedia, y cómodas salas de estudio. 
-%En marzo de 2014 se instalaron modernas pizarras de acero porcelanizado, que es el material más moderno y efectivo que existe en la actualidad para este tipo de trabajos, en 13 salas de Beauchef 850 y 8 salas de Beauchef 851. Éstas fueron traídas desde EE.UU. y buscan darle más versatilidad a la enseñanza en la Facultad. 
-La FCFM cuenta con un Sistema de Bibliotecas formado por la Biblioteca Central y 7 Bibliotecas Departamentales (Astronomía, Civil, Física, Geofísica, Geología, Industrias y Matemáticas), con las más modernas tecnologías que permiten el acceso local y remoto a las colecciones. Los otros Departamentos (Eléctrica, Mecánica, Química y Biotecnología, Minas) decidieron tener un manejo centralizado de los volúmenes a través de la biblioteca central. El sistema cuenta con un acervo bibliográfico de más de 185.000 volúmenes de libros, y acceso en línea a: más de 52.000 revistas electrónicas y 150 bases de datos bibliográficas multidisciplinarias y especializadas (con acceso a más de 2,2 millones de publicaciones en permanente actualización). Para la realización de actividades deportivas la FCFM cuenta con múltiples espacios, que corresponden a:
+La FCFM posee más de 70 salas de clases, auditorios implementados con sofisticados equipos
+para video conferencia, además de salas multimedia, y cómodas salas de estudio. En marzo de
+2014 se instalaron modernas pizarras de acero porcelanizado, que es el material más moderno y
+efectivo que existe en la actualidad para este tipo de trabajos, en 13 salas de Beauchef 850 y 8 salas
+de Beauchef 851. Éstas fueron traídas desde EE.UU. y buscan darle más versatilidad a la enseñanza
+en la Facultad.
+La FCFM cuenta con un Sistema de Bibliotecas formado por la Biblioteca Central y
+7 Bibliotecas Departamentales (Astronomía, Civil, Física, Geofísica, Geología, Industrias y
+Matemáticas), con las más modernas tecnologías que permiten el acceso local y remoto a las
+colecciones. Los otros Departamentos (Eléctrica, Mecánica, Química y Biotecnología, Minas)
+decidieron tener un manejo centralizado de los volúmenes a través de la biblioteca central. El
+sistema cuenta con un acervo bibliográfico de más de 185.000 volúmenes de libros, y acceso en
+línea a: más de 52.000 revistas electrónicas y 150 bases de datos bibliográficas multidisciplinarias
+y especializadas (con acceso a más de 2,2 millones de publicaciones en permanente actualización).
+Para la realización de actividades deportivas la FCFM cuenta con múltiples espacios, que
+corresponden a:
 
 \begin{itemize}
-\item Multicancha: Se encuentra al aire libre en el patio principal del campus Beauchef. En ella se practica baby fútbol, voleibol y otros deportes en equipo.
-\item Gimnasio, ubicado en Beauchef 851, está completamente equipado con piscina \trg{temperada}, canchas de baloncesto, vóleibol, tenis, racquetball y salas para actividades de musculación, preparación física, gimnasia aeróbica y tai-chi, entre otras. 
-\item Gimnasio Polideportivo Domeyko: Se emplaza en Almirante Latorre 730 y es un amplio espacio que cuenta con equipamiento deportivo de primer nivel. Allí se practican deportes como básquetbol, voleibol, tenis de mesa, gimnasia artística, judo, kárate y taekwondo, entre otros.
+\item Multicancha: Se encuentra al aire libre en el patio principal del campus Beauchef. En ella se
+practica baby fútbol, voleibol y otros deportes en equipo.
+\item Gimnasio, hubicado en Beauchef 851, está completamente
+equipado con piscina, canchas de baloncesto, voleibol, tennis, racquetball y 
+salas para actividades de musculación, preparación física, gimnasia aeróbica y taichí,
+entre otras. 
+\item Gimnasio Polideportivo Domeyko: Se emplaza en Almirante Latorre 730 y es un amplio
+espacio que cuenta con equipamiento deportivo de primer nivel. Allí se practican deportes
+como básquetbol, voleibol, tenis de mesa, gimnasia artística, judo, kárate y taekwondo, entre
+otros.
 \end{itemize}
 
-Además, la Facultad tiene convenios para utilizar las instalaciones del Club de Tenis Santiago, el Estadio Macul, el Estadio de Fútbol del Banco del Estado, la Piscina de la Universidad de Chile, y otras dependencias deportivas de nuestra institución como el Refugio Cordillerano de Farellones. El campus es complementado por instalaciones que lo rodean como el casino, ubicado en Blanco Encalada 2085, y el Centro de Estudiantes de Ingeniería, en Tupper 2140. La Facultad, además, cuenta con dependencias fuera del Campus Beauchef, incluyendo el Departamento de Ingeniería Industrial, ubicado en Avda. República 701; los laboratorios de Ingeniería Mecánica, en Blanco Encalada 2743; y el Departamento de Astronomía, en el cerro Calán, comuna de Las Condes, a los pies de la cordillera de Los Andes.
-%Actualmente se encuentran plenamente operativas las instalaciones del campus Beauchef 851.
+Además, la Facultad tiene convenios para utilizar las instalaciones del Club de Tenis Santiago,
+el Estadio Macul, el Estadio de Fútbol del Banco del Estado, la Piscina de la Universidad de Chile,
+y otras dependencias deportivas de nuestra institución como el Refugio Cordillerano de Farellones.
+El campus es complementado por instalaciones que lo rodean como el casino, ubicado en Blanco
+Encalada 2085, y el Centro de Estudiantes de Ingeniería, en Tupper 2140.
+La Facultad, además, cuenta con dependencias fuera del campus Beauchef, incluyendo el
+Departamento de Ingeniería Industrial, ubicado en Avda. República 701; los laboratorios de
+Ingeniería Mecánica, en Blanco Encalada 2743; y el Departamento de Astronomía, en el cerro
+Calán, comuna de Las Condes, a los pies de la cordillera de Los Andes. Actualmente se encuentran
+plenamente operativas las instalaciones del campus Beauchef 851.
 
-Beauchef 851 es la más extensa ampliación en infraestructura del campus de la FCFM desde su inauguración, hace más de un siglo. Este conjunto de edificaciones, emplazado en la manzana poniente del campus, aumentó en un 50\% la infraestructura actual, y marca un hito arquitectónico entre los espacios destinados a educación superior en Chile (ver Figura \ref{b851}). La edificación cuenta con cerca de 50.000 m$^2$ construidos, distribuidos en siete pisos sobre superficie y seis subterráneos. Allí se ubican salas de clases, laboratorios, oficinas, auditorios, espacios deportivos y de recreación, y estacionamientos.
+Beauchef 851 es la más extensa ampliación en infraestructura del campus de la
+FCFM desde su inauguración, hace más de un siglo. Este conjunto de edificaciones, emplazado
+en la manzana poniente del campus, aumentó en un 50\% la infraestructura actual, y marca un hito
+arquitectónico entre los espacios destinados a educación superior en Chile (ver Figura \ref{b851}). La
+edificación cuenta con cerca de 50.000 m$^2$ construidos, distribuidos en siete pisos sobre superficie
+y seis subterráneos. Allí se ubican salas de clases, laboratorios, oficinas, auditorios, espacios
+deportivos y de recreación, y estacionamientos.
 
 \begin{figure}[ht!]
 \centering
@@ -243,15 +473,22 @@ Beauchef 851 es la más extensa ampliación en infraestructura del campus de la 
 \label{b851}
 \end{figure}
 
-Uno de los sellos distintivos de Beauchef 851 es la eficiencia energética incorporada en su diseño, construcción y operación, lo que permitirá certificarlo bajo los exigentes estándares LEED ante el Consejo de Edificios Verdes de Estados Unidos (USGBC).
+Uno de los sellos distintivos de Beauchef 851 es la eficiencia energética incorporada en su
+diseño, construcción y operación, lo que permitirá certificarlo bajo los exigentes estándares LEED
+ante el Consejo de Edificios Verdes de Estados Unidos (USGBC).
 
 \subsubsection{Planta Docente de la FCFM}
 
-La FCFM cuenta con <.#JC_total#.> académicos de jornada completa (<@fecha_estadisticas_acad_FCFM@>) dedicados a la investigación y/o innovación tecnológica para Chile y el mundo. También cuenta con %más de 
+La FCFM cuenta con <.#JC_total#.> académicos de jornada completa (<@fecha_estadisticas_acad_FCFM@>) dedicados a la
+investigación y/o innovación tecnológica para Chile y el mundo. También cuenta con más de
 <.#academicos_JP_FCFM#.> profesores con jornada parcial en contacto permanente con la industria.
 
-En cuanto a los académicos de jornada completa, el <.#porcentaje_JC_con_doctorado_FCFM#.>\% de éstos posee el título de doctor en el área donde hace clases e investigación y muchas veces incluyen a estudiantes dentro de sus investigaciones, lo que aporta enormemente a su formación. Entre el total de académicos – tanto jornada completa como parcial - el <.#porcentaje_acad_JCyJP_con_postgrado_FCFM#.>\% posee algún tipo de postgrado. Además, la FCFM cuenta con %más de 
-<.#postdocs_FCFM#.> investigadores de postdoctorado. Éstos y otros números se pueden ver en la Tabla \ref{jor_vs_grados}.
+En cuanto a los académicos de jornada completa, el <.#porcentaje_acad_con_doctorado_FCFM#.>\% de éstos posee el título de doctor
+en el área donde hace clases e investigación y muchas veces incluyen a estudiantes dentro de sus
+investigaciones, lo que aporta enormemente a su formación.
+Entre el total de académicos – tanto jornada completa como parcial - casi el <.#porcentaje_acad_JCyJP_con_postgrado_FCFM#.>\% posee algún
+tipo de postgrado. Además, la FCFM cuenta con más de <.#postdocs_FCFM#.> investigadores de postdoctorado. Éstos
+y otros números se pueden ver en la Tabla \ref{jor_vs_grados}.
 
 % Tabla 1.1
 \begin{table}[ht!]
@@ -268,10 +505,17 @@ Por Hora         & <.#PH_licenciados#.> & <.#PH_magister#.> & <.#PH_doctorado#.>
 \end{tabular}
 \end{table}
 
-Los docentes del Plan Común, en gran parte, están adscritos a Departamentos de la FCFM, principalmente a los Departamentos de Ingeniería Matemática, Física, Ingeniería Industrial, Ciencias de la Computación y Ciencias de los Materiales. En el año <#ano_estadisticas_plan_comun_FCFM#>, de los <.#total_docentes_plan_comun#.> docentes del Plan Común, <.#doctorados_plan_comun#.> tenían grado de Doctor, <.#magister_plan_comun#.> Magíster y <.#titulados_licenciados_plan_comun#.> titulados y licenciados. De ese total de docentes, <.#jornada_completa_plan_comun#.> estaban a jornada completa y <.#contrata_por_hora_plan_comun#.> eran contratados por hora. Los académicos e investigadores de la FCFM publicaron <.#cantidad_articulos_ISI_FCFM#.> artículos científicos en revistas ISI durante el año <#ano_estadistica_publicaciones_FCFM#>. 
+Los docentes del Plan Común, en gran parte, están adscritos a Departamentos de la FCFM,
+principalmente a los Departamentos de Ingeniería Matemática, Física, Ingeniería Industrial,
+Ciencias de la Computación y Ciencias de los Materiales. En el año <#ano_estadisticas_plan_comun_FCFM#>, de los <.#total_docentes_plan_comun#.> docentes
+del Plan Común, <.#doctorados_plan_comun#.> tenían grado de Doctor, <.#magister_plan_comun#.> Magíster y <.#titulados_licenciados_plan_comun#.> titulados y licenciados. De ese total
+de docentes, <.#jornada_completa_plan_comun#.> estaban a jornada completa y <.#contrata_por_hora_plan_comun#.> eran contratados por hora.
+Los académicos e investigadores de la FCFM publicaron <.#cantidad_articulos_ISI_FCFM#.> artículos científicos en revistas
+ISI durante el año <#ano_estadistica_publicaciones_FCFM#>. 
 % El <.#porcentaje_con_factor_impacto_Q1#.>\% de las publicaciones ISI originadas en la Facultad tienen un factor de impacto Q1.
 
-Desde el punto de vista de la jerarquización académica, la planta docente de la Facultad se encuentra compuesta como se muestra en la Tabla \ref{jer_vs_grado}.
+Desde el punto de vista de la jerarquización académica, la planta docente de la Facultad se
+encuentra compuesta como se muestra en la Tabla \ref{jer_vs_grado}.
 
 % Tabla 1.2
 \begin{table}[hb!]
@@ -293,7 +537,10 @@ No Evaluado     & <.#NE_licenciados#.>    & <.#NE_magister#.>    & <.#NE_doctora
 \end{tabular}
 \end{table}
 
-Otro factor importante en la formación de ingenieros y científicos es la presencia tanto de académicos jóvenes como aquellos con más experiencia. Por esto, en la FCFM se han contratado a cada vez más académicos jóvenes y esto puede demostrarse con la información entregada en la Figura \ref{etario}, donde cerca del <.#porcentaje_menores_de_50#.>\% de los académicos son menores de 50 años.
+Otro factor importante en la formación de ingenieros y científicos es la presencia tanto de
+académicos jóvenes como aquellos con más experiencia. Por esto, en la FCFM se han contratado
+a cada vez más académicos jóvenes y esto puede demostrarse con la información entregada en la
+Figura \ref{etario}, donde cerca del <.#porcentaje_menores_de_50#.>\% de los académicos son menores de 50 años.
 
 \begin{figure}[ht!]
 \centering
@@ -304,7 +551,11 @@ Otro factor importante en la formación de ingenieros y científicos es la prese
 
 \subsubsection{Perfil de los estudiantes de la FCFM}\label{prefil_fcfm}
 
-%Así, los jóvenes que se unen a esta Facultad se incorporan a una institución viva, que se actualiza y renueva constantemente, difundiendo conocimientos y estableciendo estándares para la docencia y la investigación en ingeniería y ciencias afines, formación que es reconocida a nivel nacional e internacional.
+A la Escuela de Ingeniería y Ciencias ingresaron 695 alumnos (ingreso regular) el año 2014. Así,
+los jóvenes que se unen a esta Facultad se incorporan a una institución viva, que se actualiza y
+renueva constantemente, difundiendo conocimientos y estableciendo estándares para la docencia
+y la investigación en ingeniería y ciencias afines, formación que es reconocida a nivel nacional e
+internacional.
 
 %La principal vía de admisión es a través de la Prueba de Selección Universitaria (PSU) según
 %las ponderaciones indicadas en la Tabla \ref{psu}.
@@ -350,10 +601,12 @@ Otro factor importante en la formación de ingenieros y científicos es la prese
 %\end{tabular}
 %\end{table}
 
-A la Escuela de Ingeniería y Ciencias ingresaron <.#ingreso_pregrado#.> alumnos (ingreso regular) el año <#ano_ingreso_pregrado#>.
-Los estudiantes que ingresan a la FCFM son parte del <.#top_x_porciento_de_rendimiento_FCFM#.>\% superior de rendimiento en la PSU. El puntaje de cierre de ingreso para el proceso <#ano_PSU_FCFM#> \trg{fue de} %se encuentra por sobre los 
-<.#puntaje_minimo_de_ingreso#.> puntos, mientras que \trg{el máximo puntaje fue de} %los máximos puntajes ingresados llegan hasta los
-<.#puntaje_maximo_de_ingreso#.> puntos. La Figura \ref{puntajes_psu} muestran los puntajes PSU máximo, mínimo y promedio de ingreso al Plan Común en los últimos años.
+
+Los estudiantes que
+ingresan a la FCFM son parte del <.#top_x_porciento_de_rendimiento_FCFM#.>\% superior de rendimiento en la PSU. El puntaje de cierre de
+ingreso se encuentra por sobre los <#puntaje_minimo_de_ingreso#> puntos, mientras que los máximos puntajes ingresados llegan
+hasta los <#puntaje_maximo_de_ingreso#> puntos. La Figura \ref{puntajes_psu} muestran los puntajes PSU máximo, mínimo y promedio de
+ingreso al Plan Común en los últimos años.
 
 \begin{figure}[ht!]
 \centering
@@ -402,48 +655,113 @@ Los estudiantes que ingresan a la FCFM son parte del <.#top_x_porciento_de_rendi
 
 \subsection{Descripción de la unidad y su proceso de enseñanza-aprendizaje}
 
-La FCFM comenzó hace más de diez años, de forma pionera, una revisión profunda de sus currículos de carreras y programas, de los contenidos de sus asignaturas y de sus métodos docentes. Este rediseño se ha enmarcado dentro del modelo desarrollado por la Iniciativa CDIO (Concibe, Diseña, Implementa y Opera), que agrupa alrededor de un centenar de escuelas de ingeniería en el mundo, que trabajan en conjunto para mejorar su enseñanza. La Escuela de Ingeniería y Ciencias de la FCFM es responsable de liderar la región latinoamericana de CDIO.
+La FCFM comenzó hace más de diez años, de forma pionera, una revisión profunda de sus
+currículos de carreras y programas, de los contenidos de sus asignaturas y de sus métodos docentes.
+Este rediseño se ha enmarcado dentro del modelo desarrollado por la Iniciativa CDIO (Concibe,
+Diseña, Implementa y Opera), que agrupa alrededor de un centenar de escuelas de ingeniería en el
+mundo, que trabajan en conjunto para mejorar su enseñanza. La Escuela de Ingeniería y Ciencias
+de la FCFM es responsable de liderar la región latinoamericana de CDIO.
 
-La experiencia adquirida en la aplicación del nuevo plan de estudios, iniciado en 2007, ha demostrado la importancia de que los cambios curriculares vayan acompañados de cambios en las metodologías de enseñanza-aprendizaje, que coloquen al estudiante al centro del proceso educativo. Esto coincide con la disponibilidad creciente de tecnología, tanto para el profesor como para los alumnos. A menudo, esta tecnología ha venido a reforzar los métodos expositivos tradicionales, que mantienen al alumno en un rol pasivo (por ejemplo, a través el uso de PowerPoint), pero esa misma tecnología tiene también la potencialidad de generar múltiples oportunidades de Aprendizaje Activo. Bajo este concepto, que es uno de los estándares de CDIO, se agrupan todos los métodos docentes que involucran activamente al alumno en la sala de clases y en la construcción de su aprendizaje.
+La experiencia adquirida en la aplicación del nuevo plan de estudios, iniciado en 2007, ha
+demostrado la importancia de que los cambios curriculares vayan acompañados de cambios en las
+metodologías de enseñanza-aprendizaje, que coloquen al estudiante al centro del proceso educativo.
+Esto coincide con la disponibilidad creciente de tecnología, tanto para el profesor como para los
+alumnos. A menudo, esta tecnología ha venido a reforzar los métodos expositivos tradicionales, que
+mantienen al alumno en un rol pasivo (por ejemplo, a través el uso de PowerPoint), pero esa misma
+tecnología tiene también la potencialidad de generar múltiples oportunidades de Aprendizaje
+Activo. Bajo este concepto, que es uno de los estándares de CDIO, se agrupan todos los métodos
+docentes que involucran activamente al alumno en la sala de clases y en la construcción de su
+aprendizaje.
 
-%A partir de noviembre 2013, el Área de Desarrollo Docente (ADD) de la FCFM se encuentra %ejecutando el proyecto MECESUP UCH1305 denominado ``Fortalecimiento de la capacidad de %innovación en la enseñanza y aprendizaje en la FCFM''. Este proyecto tiene por objetivo general %instalar e impulsar la utilización de métodos de aprendizaje activo de los estudiantes de pregrado de %la FCFM, fortaleciendo para ello la capacidad de la unidad de mejoramiento docente para apoyar %a los profesores en la adopción y uso de métodos docentes innovadores, centrados en el alumno, %que incorporen las prácticas actuales más adecuadas a nuestras carreras y estudiantes; además se %considera la habilitación de espacios apropiados para la implementación de estos métodos. Cabe %destacar que con la reforma curricular de los años 2007-2009 se definió un nuevo perfil de egreso, %y se construyeron programas de cursos dentro de un modelo de docencia para introducir un sistema %curricular basado en competencias. Se incluyeron estrategias didácticas para generar aprendizajes %activos en los estudiantes. El ADD de la FCFM ha apoyado el nuevo diseño curricular y su %implementación, incluyendo capacitación de los docentes en las nuevas metodologías.
+%A partir de noviembre 2013, el Área de Desarrollo Docente (ADD) de la FCFM se encuentra
+%ejecutando el proyecto MECESUP UCH1305 denominado ``Fortalecimiento de la capacidad de
+%innovación en la enseñanza y aprendizaje en la FCFM''. Este proyecto tiene por objetivo general
+%instalar e impulsar la utilización de métodos de aprendizaje activo de los estudiantes de pregrado de
+%la FCFM, fortaleciendo para ello la capacidad de la unidad de mejoramiento docente para apoyar
+%a los profesores en la adopción y uso de métodos docentes innovadores, centrados en el alumno,
+%que incorporen las prácticas actuales más adecuadas a nuestras carreras y estudiantes; además se
+%considera la habilitación de espacios apropiados para la implementación de estos métodos. Cabe
+%destacar que con la reforma curricular de los años 2007-2009 se definió un nuevo perfil de egreso,
+%y se construyeron programas de cursos dentro de un modelo de docencia para introducir un sistema
+%curricular basado en competencias. Se incluyeron estrategias didácticas para generar aprendizajes
+%activos en los estudiantes. El ADD de la FCFM ha apoyado el nuevo diseño curricular y su
+%implementación, incluyendo capacitación de los docentes en las nuevas metodologías.
 
 \subsubsection{Habilidades de comunicación oral y escrita en español}
 
-En el caso del idioma español, desde el año 2010 se hace un diagnóstico en primer año del Plan Común llamado Prueba de Competencias Discursivas de Comprensión y de Escritura (CODICE). \trg{La prueba} CODICE tiene como propósitos aportar información a las unidades académicas sobre el desempeño de los estudiantes de primer año en Lectura y Escritura, y obtener datos para hacer estudios de validez predictiva sobre este instrumento, como herramienta complementaria a la Prueba de Selección Universitaria.
+En el caso del idioma español, desde el año 2010 se hace un diagnóstico en primer año del Plan
+Común llamado Prueba de Competencias Discursivas de Comprensión y de Escritura (CODICE).
+CODICE tiene como propósitos aportar información a las unidades académicas sobre el desempeño
+de los estudiantes de primer año en Lectura y Escritura, y obtener datos para hacer estudios
+de validez predictiva sobre este instrumento, como herramienta complementaria a la Prueba de
+Selección Universitaria.
 
-El proyecto MECESUP UCH1302 tiene como propósito desarrollar ``Estrategias para mejorar las habilidades de lecto-escritura de los estudiantes de 1er y 2do año de la Universidad de Chile, a partir de los resultados de la prueba CODICE''. Este programa apunta a la nivelación de las competencias de entrada que sean deficitarias.
+El proyecto MECESUP UCH1302 tiene como propósito desarrollar ``Estrategias para mejorar
+las habilidades de lecto-escritura de los estudiantes de 1er y 2do año de la Universidad de Chile,
+a partir de los resultados de la prueba CODICE''. Este programa apunta a la nivelación de las
+competencias de entrada que sean deficitarias.
 
-Diversos diagnósticos, en base tanto a opiniones de académicos, egresados y empleadores, como a través de la prueba CODICE, coinciden en que nuestros estudiantes requieren desarrollar de mejor manera sus habilidades de comunicación. Para esto, se formó un equipo, con el apoyo de un proyecto FADOP (Fondo de Apoyo a la Docencia de Pregrado) de la Universidad de Chile, que formuló una estrategia con un enfoque similar al de la ética: combinando el apoyo de expertos con el trabajo de los profesores en algunas asignaturas. El plan trazado está en proceso de implementación.
+Diversos diagnósticos, en base tanto a opiniones de académicos, egresados y empleadores,
+como a través de la prueba CODICE, coinciden en que nuestros estudiantes requieren desarrollar
+de mejor manera sus habilidades de comunicación. Para esto, se formó un equipo, con el apoyo de
+un proyecto FADOP (Fondo de Apoyo a la Docencia de Pregrado) de la Universidad de Chile, que
+formuló una estrategia con un enfoque similar al de la ética: combinando el apoyo de expertos
+con el trabajo de los profesores en algunas asignaturas. El plan trazado está en proceso de
+implementación.
 
 \subsubsection{Habilidades de comunicación oral y escrita en inglés}
 
-Las competencias comunicativas en el idioma inglés forman parte fundamental del perfil de egreso de los estudiantes de la carrera de Ingeniería Civil Eléctrica (ICE) y de la FCFM en general. Atendiendo a esta necesidad, la Facultad creó el Área de \trg{Idiomas (que adicionalmente enseña francés y español para extranjeros)}, cuyo propósito es que los estudiantes logren desenvolverse comunicacionalmente de manera efectiva en forma oral y escrita en esta lengua, en temáticas generales de la vida diaria. El Programa de Inglés rediseñado el 2007 consta de cinco niveles, dicta 225 horas totales de docencia directa del programa, con un enfoque primordialmente comunicativo, en los cuales los cursos no exceden los 20 estudiantes. Adicionalmente, desde el año 2012, se ha integrado al Programa de Inglés el sistema Duolingo\footnote{\url{https://es.duolingo.com/}} que consiste en una plataforma web, gratuita, en donde el estudiante realiza ejercicios diversos y va avanzando cuando cumple los requisitos de cada etapa. Para aquellos estudiantes con dificultades estructurales para aprender idiomas se implementó un programa tutorial, que cuenta con un proceso de postulación, previa recomendación de sus profesores. La metodología utilizada consiste en conversación de pares, preguntas y respuestas entre compañero y profesor, juegos de roles, conversaciones grupales y actividades lúdicas, además de las prácticas personales con el sistema Duolingo.
+Las competencias comunicativas en el idioma inglés forman parte fundamental del perfil de egreso
+de los estudiantes de la carrera de Ingeniería Civil Eléctrica (ICE) y de la FCFM en general.
+Atendiendo a esta necesidad, la Facultad creó el Área de Inglés, cuyo propósito es que los
+estudiantes logren desenvolverse comunicacionalmente de manera efectiva en forma oral y escrita
+en esta lengua, en temáticas generales de la vida diaria. El Programa de Inglés rediseñado el
+2007 consta de cinco niveles, dicta 225 horas totales de docencia directa del programa, con un
+enfoque primordialmente comunicativo, en los cuales los cursos no exceden los 20 estudiantes.
+Adicionalmente, desde el año 2012, se ha integrado al Programa de Inglés el sistema Duolingo\footnote{\url{https://es.duolingo.com/}}
+que consiste en una plataforma web, gratuita, en donde el estudiante realiza ejercicios diversos
+y va avanzando cuando cumple los requisitos de cada etapa. Para aquellos estudiantes con
+dificultades estructurales para aprender idiomas se implementó un programa tutorial, que cuenta
+con un proceso de postulación, previa recomendación de sus profesores. La metodología utilizada
+consiste en conversación de pares, preguntas y respuestas entre compañero y profesor, juegos de
+roles, conversaciones grupales y actividades lúdicas, además de las prácticas personales con el
+sistema Duolingo.
 
-\trg{Para titularse, los estudiantes deben aprobar el programa de inglés, para lo cual}% Para aprobar el programa de inglés los estudiantes 
-\trg{rinden el test TOEFL ITP (International Testing Program), en que se espera que tengan al menos 543 puntos, equivalente al nivel B2 del marco común europeo de lenguas. En este nivel, el estudiante puede entender las ideas principales de textos complejos sobre temas tanto concretos como abstractos, incluyendo discusiones técnicas en su campo de especialización; puede interactuar con cierta fluidez y espontaneidad; y puede producir texto claro y detallado sobre una amplia gama de temas y explicar un punto de vista sobre un tema de actualidad.}
-% deben obtener un puntaje igual o superior a 75\% en el test de Michigan, \trg{rendido en el nivel 5 de inglés, y} que es equivalente a 513 puntos del Test de TOEFL, lo cual los deja capacitados para:
+Para aprobar el programa de inglés los estudiantes deben obtener un puntaje igual o superior
+a 75\% en el test de Michigan, que es equivalente a 513 puntos del Test de TOEFL, lo cual los deja
+capacitados para:
 
-\iffalse
 \begin{itemize}
-\item Inferir información a partir de textos auditivos extensos y variados.
-\item Debatir y argumentar sobre diferentes tópicos con mayor fluidez, claridad y precisión.
-\item \trg{Realizar} presentaciones.% de tópicos más profundos de la vida diaria como son los sentimientos, música, hábitos de sueño, etc.
-\item Analizar textos de mayor complejidad sobre tópicos abstractos.
-\item Reconocer términos y expresiones más coloquiales dentro de un texto \trg{auditivo y escrito}.
+\item Inferir información a partir de textos auditivos extensos y variados
+\item Debatir y argumentar sobre diferentes tópicos con mayor fluidez, claridad y precisión
+\item Hacer presentaciones de tópicos más profundos de la vida diaria como son los sentimientos,
+música, hábitos de sueño, etc.
+\item Analizar textos de mayor complejidad sobre tópicos abstractos
+\item Reconocer términos y expresiones más coloquiales dentro de un texto
 \end{itemize}
-\fi
-
 
 \section{Departamento de Ingeniería Eléctrica}
 
-El Departamento de Ingeniería Civil Eléctrica (DIE) es el encargado de coordinar y administrar los programas de Magíster y Doctorado de Ingeniería Eléctrica, así como la carrera de Ingeniería Civil Eléctrica en el ciclo posterior al Plan Común, hasta la graduación o titulación. 
+El Departamento de Ingeniería Civil Eléctrica (DIE) es el encargado de coordinar y administrar los
+programas de Magíster y Doctorado de Ingeniería Eléctrica, así como la carrera de Ingeniería Civil
+Eléctrica en el ciclo posterior al Plan Común, hasta la graduación o titulación.
 
-En diciembre de 1945 se decide en el Consejo de la FCFM que todos los ingenieros titulados en la FCFM llevarán el título genérico de Ingeniero Civil en el caso de todas las carreras de ingeniería impartidas por la Facultad. Siguiendo los importantes desarrollos que estaba experimentando el país con la creación de CORFO y ENDESA, en 1946 se establecieron cuatro carreras que compartían un Plan Común de tres años de duración. Entre ellas estuvo la Ingeniería Mecánica Electricista.
+En diciembre de 1945 se decide en el Consejo de la FCFM que todos los ingenieros titulados en la
+FCFM llevarán el título genérico de Ingeniero Civil en el caso de todas las carreras de ingeniería
+impartidas por la Facultad. Siguiendo los importantes desarrollos que estaba experimentando
+el país con la creación de CORFO y ENDESA, en 1946 se establecieron cuatro carreras que
+compartían un Plan Común de tres años de duración. Entre ellas estuvo la Ingeniería Mecánica
+Electricista.
 
-En junio de 1949 la Comisión de Docencia recomendó cambiar el nombre de las carreras Ingeniería Mecánica Industrial e Ingeniería Mecánica Electricista por los de Ingeniería Civil Industrial e Ingeniería Civil Electricista, respectivamente. Este cambio fue solicitado al Consejo Universitario en abril de 1950.
+En junio de 1949 la Comisión de Docencia recomendó cambiar el nombre de las carreras
+Ingeniería Mecánica Industrial e Ingeniería Mecánica Electricista por los de Ingeniería Civil
+Industrial e Ingeniería Civil Electricista, respectivamente. Este cambio fue solicitado al Consejo
+Universitario en abril de 1950.
 
-En enero de 1957 fue inaugurado, por la FCFM de la Universidad de Chile en conjunto con la Empresa Nacional de Electricidad Sociedad Anónima ENDESA, el Instituto de Investigaciones y Ensayos Eléctricos (IIEE). En 1965 se convirtió en el Departamento de Electricidad y en 1981 se constituyó como Departamento de Ingeniería Eléctrica. 
+En enero de 1957 fue inaugurado, por la FCFM de la Universidad de Chile en conjunto con la
+Empresa Nacional de Electricidad Sociedad Anónima ENDESA, el Instituto de Investigaciones y
+Ensayos Eléctricos (IIEE). En 1965 se convirtió en el Departamento de Electricidad y en 1981 se
+constituyó como Departamento de Ingeniería Eléctrica.
 
 \begin{figure}[ht!]
 \centering
@@ -452,19 +770,52 @@ En enero de 1957 fue inaugurado, por la FCFM de la Universidad de Chile en conju
 \label{hist_die}
 \end{figure}
 
-El IIEE fue constituido por el Laboratorio de Alta Tensión, el Laboratorio de Electrotecnia y el Laboratorio de Electrónica y Telecomunicaciones. Luego de tres años, se incluyó el Laboratorio de Computadores y Control Automático.
+El IIEE fue constituido por el Laboratorio de Alta Tensión, el Laboratorio de Electrotecnia y
+el Laboratorio de Electrónica y Telecomunicaciones. Luego de tres años, se incluyó el Laboratorio
+de Computadores y Control Automático.
 
-En el período 1968 – 1969 en la Facultad se llevaron a cabo cambios y creaciones de gran importancia, aprovechando un período que, en parte, fue motivado por la influencia global que tuvieron los eventos estudiantiles ocurridos en Francia durante ese período. En este período se realizó en la Facultad una substancial reforma docente. Se revisaron los planes de estudio y los programas de los cursos y se instauró un sistema semestral, en vez del sistema anual.
+En el período 1968 – 1969 en la Facultad se llevaron a cabo cambios y creaciones de gran
+importancia, aprovechando un período que, en parte, fue motivado por la influencia global que
+tuvieron los eventos estudiantiles ocurridos en Francia durante ese período. En este período se
+realizó en la Facultad una substancial reforma docente. Se revisaron los planes de estudio y los
+programas de los cursos y se instauró un sistema semestral, en vez del sistema anual.
 
-En 1969, con apoyo de la Organización de Estados Americanos OEA, se creó el primer programa de Magíster en Ingeniería Eléctrica. El Departamento había sido declarado Centro de Excelencia por la OEA. Por una parte, esto permitió contratar profesores de Estados Unidos y Europa; por otra, varios alumnos extranjeros pudieron seguir el programa y obtener el grado de magíster. En el año 1985, en concordancia con una evolución y expansión de las áreas del departamento, se crea el actual programa de Magíster en Ciencias de la Ingeniería, Mención Eléctrica.
+En 1969, con apoyo de la Organización de Estados Americanos OEA, se creó el primer
+programa de Magíster en Ingeniería Eléctrica. El Departamento había sido declarado Centro de
+Excelencia por la OEA. Por una parte, esto permitió contratar profesores de Estados Unidos y
+Europa; por otra, varios alumnos extranjeros pudieron seguir el programa y obtener el grado
+de magíster. En el año 1985, en concordancia con una evolución y expansión de las áreas del
+departamento, se crea el actual programa de Magíster en Ciencias de la Ingeniería, Mención
+Eléctrica.
 
-En 2005, se creó el programa de Doctorado en Ingeniería Eléctrica del que se han graduado <.#graduados_doctorado#.> doctores y que actualmente cuenta con <.#activos_doctorado#.> alumnos.
+En 2005, se creó el programa de Doctorado en Ingeniería Eléctrica del que se han graduado
+32 doctores y que actualmente cuenta con 53 alumnos.
 
-El año 2006 se inició un profundo proceso de Reforma Curricular de las distintas especialidades de las carreras de Ingeniería Civil, implementándose a partir de los ingresados el año 2007 al Plan Común de Ingeniería y a partir de 2009 para la especialidad de Ingeniería Eléctrica. El Decreto Universitario N$^\circ$~0025028 [\ref{dec25028}] de 10 de octubre de 2008 de la Universidad de Chile, estableció el nuevo plan de estudios para la licenciatura en Ciencias de la Ingeniería, mención Eléctrica, y para la carrera de Ingeniería Civil Eléctrica. Este mismo decreto establece el cambio de nombre de la carrera de Ingeniería Civil Electricista, pasando a llamarse Ingeniería Civil Eléctrica.
+El año 2006 se inició un profundo proceso de Reforma Curricular de las distintas
+especialidades de las carreras de Ingeniería Civil, implementándose a partir de los ingresados el año
+2007 al Plan Común de Ingeniería y a partir de 2009 para la especialidad de Ingeniería Eléctrica.
+El Decreto Universitario N$^\circ$~0025028 [\ref{dec25028}] de 10 de octubre de 2008 de la Universidad de Chile,
+estableció el nuevo plan de estudios para la licenciatura en Ciencias de la Ingeniería, mención
+Eléctrica, y para la carrera de Ingeniería Civil Eléctrica. Este mismo decreto establece el cambio
+de nombre de la carrera de Ingeniería Civil Electricista, pasando a llamarse Ingeniería Civil
+Eléctrica.
 
-Para la Reforma Curricular del 2007-2009 se realizó la elaboración de programas de cursos de la carrera, proponiendo nuevas metodologías docentes, unificando criterios de evaluación y malla de requisitos, e incluyendo en estos nuevos programas de curso las competencias profesionales y genéricas de la carrera. Se implementaron estrategias metodológicas de aprendizaje y enseñanza en varios cursos de la carrera. 
+Para la Reforma Curricular del 2007-2009 se realizó la elaboración de programas de cursos de
+la carrera, proponiendo nuevas metodologías docentes, unificando criterios de evaluación y malla
+de requisitos, e incluyendo en estos nuevos programas de curso las competencias profesionales y
+genéricas de la carrera. Se implementaron estrategias metodológicas de aprendizaje y enseñanza
+en varios cursos de la carrera.
 
-En el año 2007 la carrera Ingeniería Civil Electricista se sometió por primera vez a un proceso de acreditación ante la Comisión Nacional de Acreditación (CNAP), donde fue acreditada por el máximo de 7 años. En el último proceso del año 2015, la carrera de Ingeniería Civil Eléctrica fue acreditada nuevamente por el máximo de 7 años, que culminan el 23 de enero de 2022. Por su parte, el Programa de Magíster en Ciencias de la Ingeniería Mención Eléctrica se encuentra acreditado por un período de 7 años que finalizan el 22 de abril de 2023. A su vez el programa de Doctorado se encuentra acreditado por un período de 8 años hasta el 09 de noviembre de 2019.
+El decreto Universitario N$^\circ$~0027663 [\ref{dec27663}] de 5 de noviembre de 2008 incorporó la variable de
+género en grados académicos y títulos profesionales de la Universidad de Chile.
+
+En el año 2007 la carrera Ingeniería Civil Electricista se sometió por primera vez a un proceso
+de acreditación ante la Comisión Nacional de Acreditación (CNAP), donde fue acreditada por el
+máximo de 7 años. En el último proceso del año 2015, la carrera de Ingeniería Civil Eléctrica fue
+acreditada nuevamente por el máximo de 7 años, que culminan el 23 de enero de 2022. Por su parte,
+el Programa de Magíster en Ciencias de la Ingeniería Mención Eléctrica, se encuentra acreditado
+por un período de 6 años que finalizan el 21 de abril de 2016. A su vez el programa de Doctorado
+se encuentra acreditado por un período de 8 años hasta el 09 de noviembre de 2019.
 
 Entre los logros históricos del DIE se encuentran:
 \begin{itemize}
@@ -481,12 +832,11 @@ Entre los logros históricos del DIE se encuentran:
 \item En 2009 se creó el programa de Magíster en Ingeniería de Redes de Comunicaciones. 
 \item En marzo de 2009 se crea el Centro Avanzado de Tecnología para la Minería (AMTC).
 \item En junio de 2009 nace el Centro de Energía (CE).
-\item En 2010 diseñó, construyó y puso en marcha la primera micro-red inteligente con Energías Renovables No Convencionales (ERNC) \trg{del país, ubicada en la comunidad de Huatacondo, Región de Tarapacá}.
+\item En 2010 diseñó, construyó y puso en marcha la primera micro-red inteligente con Energías Renovables No Convencionales (ERNC).
 \item En 2014 se crea ECODIE, unidad de Educación Continua del DIE.
 \item En 2015 se crea la primera plataforma solar del país instalada en Atacama.
-\item En 2017 se lanza \trg{SUCHAI (Satellite of the University of Chile for Aerospace Investigation),} el primer satélite \trg{diseñado y ensamblado en Chile} al espacio. %chileno al espacio.
+\item En 2017 se lanza el primer satélite chileno al espacio.
 \item En 2017 programa de doble doctorado en Ingeniería Eléctrica U. de Chile y U. de Nottingham tiene su primer graduado.
-\item \trg{En 2018 se realiza una demostración de la tecnología 5G, estableciendo un récord de trasferencia de datos en Sudamérica de 24,7 Gbps.}
 
 \end{itemize}
 
@@ -495,7 +845,8 @@ Entre los logros históricos del DIE se encuentran:
 \subsubsection{Infraestructura del DIE}
 
 El DIE cuenta con un edificio de 8 pisos de propiedad institucional (6 sobre suelo y 2
-subterráneos), donde se encuentran 6 salas de clases, oficinas administrativas y de los académicos del departamento, salas de reuniones, laboratorios docentes y de investigación, un taller metalmecánico y una moderna sala de computadores.
+subterráneos), donde se encuentran 6 salas de clases, oficinas administrativas y de los académicos
+del departamento, salas de reuniones, laboratorios docentes y de investigación, un taller metalmecánico y una moderna sala de computadores.
 
 \begin{figure}[ht!]
 \centering
@@ -504,9 +855,24 @@ subterráneos), donde se encuentran 6 salas de clases, oficinas administrativas 
 \label{edif_ET}
 \end{figure}
 
-El DIE posee una infraestructura para labores docentes y experimentales de excelencia, lo que permite un adecuado desarrollo de sus actividades de formación e investigación. Cuenta hoy día con la infraestructura más importante del país en la especialidad con alrededor de 7.000 m$^2$. Esto incluye el edificio de Electrotecnologías, remodelado el año 2003, donde se dispone de 8 laboratorios docentes de pregrado de ICE. Además, existen 15 laboratorios de investigación en el departamento. Académicos y estudiantes trabajan conjuntamente en la resolución de problemas complejos utilizando tecnologías de punta. Estas actividades cuentan con financiamiento gubernamental de CONICYT, CORFO y MILENIO, así como también de organizaciones internacionales y de aportes empresariales. El funcionamiento de los laboratorios de investigación, así como la compra de equipamiento menor y mayor, se financia adecuadamente con los proyectos de investigación dirigidos por los académicos del DIE.
+El DIE posee una infraestructura para labores docentes y experimentales de excelencia, lo
+que permite un adecuado desarrollo de sus actividades de formación e investigación. Cuenta
+hoy día con la infraestructura más importante del país en la especialidad con alrededor de
+7.000 m$^2$. Esto incluye el edificio de Electrotecnologías, remodelado el año 2003, donde
+se dispone de 8 laboratorios docentes de pregrado de ICE. Además, existen 15 laboratorios
+de investigación en el departamento. Académicos y estudiantes trabajan conjuntamente en la
+resolución de problemas complejos utilizando tecnologías de punta. Estas actividades cuentan
+con financiamiento gubernamental de CONICYT, CORFO y MILENIO, así como también de
+organizaciones internacionales y de aportes empresariales. El funcionamiento de los laboratorios
+de investigación, así como la compra de equipamiento menor y mayor, se financia adecuadamente
+con los proyectos de investigación dirigidos por los académicos del DIE.
 
-La Tabla \ref{labs_die} muestra que a través de fondos concursables e inversiones de Facultad y DIE se han creado 6 laboratorios nuevos a partir del año 2008, con una inversión total de \$<.#laboratorioDIE.total_inversion#.>. Cabe destacar que el Laboratorio de Ondas Milimétricas y Sub-milimétricas es parte de una colaboración entre el DIE y el DAS, y se encuentra físicamente en este último. Además el laboratorio es liderado por el Dr. Patricio Mena (académico del DIE) en conjunto con el Dr. Leonardo Bronfman (académico del DAS).
+La Tabla \ref{labs_die} muestra que a través de fondos concursables e inversiones de Facultad y DIE
+se han creado 6 laboratorios nuevos a partir del año 2008, con una inversión total de
+\$<.#laboratorioDIE.total_inversion#.>. Cabe destacar que el Laboratorio de Ondas Milimétricas y Sub-milimétricas
+es parte de una colaboración entre el DIE y el DAS, y se encuentra físicamente en este último.
+Además el laboratorio es liderado por el Dr. Patricio Mena (académico del DIE) en conjunto con el
+Dr. Leonardo Bronfman (académico del DAS).
 
 \begin{table}[t!]
 \centering
@@ -571,9 +937,14 @@ N$^\circ$~Licenciados o titulados 	& 15 \\ %<.#docentes_con_titulo(1)#.>  & <.#d
 
 \subsubsection{Perfil de los estudiantes del DIE}
 
-El DIE recibe a sus alumnos provenientes del Plan Común de la FCFM, cuyo perfil se encuentra detallado en la Sección \ref{prefil_fcfm} ``Perfil de los estudiantes de la FCFM''.
+El DIE recibe a sus alumnos provenientes del Plan Común de la FCFM, cuyo perfil se
+encuentra detallado en la Sección \ref{prefil_fcfm} ``Perfil de los estudiantes de la FCFM''.
 
-Una de las principales fortalezas de los alumnos que ingresan a estudiar la carrera de Ingeniería Civil Eléctrica, es su alto nivel académico. La Figura \ref{puntajes_psu_ice} muestra los promedios ponderados PSU para estudiantes del Plan Común y de Ingeniería Civil Eléctrica. Se observa que los puntajes obtenidos por los estudiantes de ICE, se encuentran por encima del promedio del Plan Común de la Facultad.
+Una de las principales fortalezas de los alumnos que ingresan a estudiar la carrera de Ingeniería
+Civil Eléctrica, es su alto nivel académico. La Figura \ref{puntajes_psu_ice} muestra los promedios ponderados PSU
+para estudiantes del Plan Común y de Ingeniería Civil Eléctrica. Se observa que los puntajes
+obtenidos por los estudiantes de ICE, se encuentran por encima del promedio del Plan Común de
+la Facultad.
 
 \begin{figure}[ht]
 \centering
@@ -602,13 +973,40 @@ Una de las principales fortalezas de los alumnos que ingresan a estudiar la carr
 
 \subsection{Descripción de la unidad académica}
 
-El esquema docente en la FCFM, basado en un Plan Común inicial, está diseñado para lograr que nuestros estudiantes alcancen un muy buen nivel base en Matemáticas y Física, permitiendo un máximo aprovechamiento de las temáticas tratadas con posterioridad. La gran fortaleza del Plan Común consiste en entregar herramientas para una adecuada adaptación de los educandos a los veloces cambios en el conocimiento. Por otro lado, los estudiantes deciden finalmente su especialidad, de manera informada y fundada, al cabo de 4 semestres de permanencia en la Facultad. La FCFM ofrece 10 diferentes carreras profesionales y 3 licenciaturas, a las que acceden nuestros estudiantes posteriormente a su aprobación del Plan Común, entre ellas Ingeniería Civil Eléctrica. El año 2007 comenzó la más profunda reforma curricular de la carrera de Ingeniería Civil Eléctrica de los últimos 40 años. Para esto se definió un nuevo perfil de egreso basado en competencias que se desarrollan a lo largo de la carrera y que fueron agrupadas en competencias profesionales (técnicas) y competencias genéricas, las cuales se encuentran publicadas en la página web del DIE\footnote{\url{http://www.die.cl}}. El perfil de egreso antiguo se basaba en los contenidos de las materias para declarar las habilidades requeridas por el profesional que egresaba. Para el nuevo plan de estudio, la definición de perfil de egreso se centra en las habilidades para aprender y utilizar los contenidos, lo cual se define como las competencias. En particular se utilizó la metodología CDIO. Las competencias del nuevo perfil se diseñaron tomando en cuenta los adelantos en la disciplina, los propósitos y misión de la institución, y se validó con empresarios externos.
+El esquema docente en la FCFM, basado en un Plan Común inicial, está diseñado para lograr
+que nuestros estudiantes alcancen un muy buen nivel base en Matemáticas y Física, permitiendo
+un máximo aprovechamiento de las temáticas tratadas con posterioridad. La gran fortaleza del
+Plan Común consiste en entregar herramientas para una adecuada adaptación de los educandos
+a los veloces cambios en el conocimiento. Por otro lado, los estudiantes deciden finalmente
+su especialidad, de manera informada y fundada, al cabo de 4 semestres de permanencia en la
+Facultad. La FCFM ofrece 10 diferentes carreras profesionales y 3 licenciaturas, a las que acceden
+nuestros estudiantes posteriormente a su aprobación del Plan Común, entre ellas Ingeniería Civil
+Eléctrica (ICE). El año 2007 comenzó la más profunda reforma curricular de la carrera de Ingeniería
+Civil Eléctrica de los últimos 40 años. Para esto se definió un nuevo perfil de egreso basado en
+competencias que se desarrollan a lo largo de la carrera y que fueron agrupadas en competencias
+profesionales (técnicas) y competencias genéricas, las cuales se encuentran publicadas en la página
+web del DIE\footnote{\url{http://www.die.cl}}. El perfil de egreso antiguo se basaba en los contenidos de las materias para declarar
+las habilidades requeridas por el profesional que egresaba. Para el nuevo plan de estudio, la
+definición de perfil de egreso se centra en las habilidades para aprender y utilizar los contenidos,
+lo cual se define como las competencias. En particular se utilizó la metodología CDIO. Las
+competencias del nuevo perfil se diseñaron tomando en cuenta los adelantos en la disciplina, los
+propósitos y misión de la institución, y se validó con empresarios externos.
 
 \section{<@programa@>}
 
 \subsection{Breve historia del Programa}
 
-Desde sus orígenes, la Universidad de Chile ha hecho contribuciones de primera importancia a la formación del pensamiento crítico y al desarrollo de la nación. En docencia de postgrado se revela una tradición que comienza en el año 1947 con la creación del primer doctorado en Filosofía de la Facultad de Filosofía y Educación, y que se extiende hasta hoy con el sistema de postgrado y postítulo más grande y complejo del país, compuesto por 36 programas de doctorado, 118 programas de magíster, 75 programas de título profesional especialista y 27 cursos de especialización de postítulo. El Departamento de Ingeniería Eléctrica es un fiel exponente de esto, en donde destaca hoy en día el Doctorado en el área tecnológica con más años de acreditación en la Universidad de Chile (8 años)5. Una fortaleza importante radica en la reglamentación existente que cubre políticas institucionales de desarrollo del postgrado, estándares, calidad exigida a los profesores y estudiantes, exigencias de investigación.
+Desde sus orígenes, la Universidad de Chile ha hecho contribuciones de primera importancia a
+la formación del pensamiento crítico y al desarrollo de la nación. En docencia de postgrado
+se revela una tradición que comienza en el año 1947 con la creación del primer doctorado en
+Filosofía de la Facultad de Filosofía y Educación, y que se extiende hasta hoy con el sistema
+de postgrado y postítulo más grande y complejo del país, compuesto por 36 programas de
+doctorado, 118 programas de magíster, 75 programas de título profesional especialista y 27 cursos
+de especialización de postítulo. El Departamento de Ingeniería Eléctrica es un fiel exponente de
+esto, en donde destaca hoy en día el Doctorado en el área tecnológica con más años de acreditación
+en la Universidad de Chile (8 años)5. Una fortaleza importante radica en la reglamentación existente
+que cubre políticas institucionales de desarrollo del postgrado, estándares, calidad exigida a los
+profesores y estudiantes, exigencias de investigación.
 
 % En el año 1985, en concordancia con una evolución y expansión de las áreas del departamento,
 % se crea el actual programa de Magíster en Ciencias de la Ingeniería, Mención Eléctrica [A.4]. No
@@ -622,15 +1020,23 @@ Desde sus orígenes, la Universidad de Chile ha hecho contribuciones de primera 
 
 En el 2010, el programa de <@programa@> nace para atender la urgente necesidad que durante la primera década de nuestro siglo aquejaba a la industria de las telecomunicaciones en Chile, a saber, la falta de profesionales con especialización en tecnologías IP que tuvieran una formación neutra y un conocimiento agnóstico a lo que ofrecían los proveedores de tecnología.
 
-Fue en una continuidad natural del postítulo en Internetworking, también de nuestra Universidad, que formó cerca de 200 profesionales realizaron el desarrollo de sus habilidades prácticas con los laboratorios del Departamento de Ingeniería Electrica de la Facultad de Ciencias Físicas y Matemáticas. La proyección de los ex-alumnos de este postítulo requerían un complemento que les permitiera ampliar sus conocimientos de Internetworking, fundamentalmente en Routing, Switching IP y Telefonía tanto circuital como de paquetes IP, y poder ejercer su profesión en los operadores de telecomunicaciones que por esa fecha se perfilaban como convergentes tanto en tecnologías (circuitos y paquetes) como en servicios (telefonía y datos).
+Fue en una continuidad natural del postítulo en Internetworking, también de nuestra universidad, que formó cerca de 200 profesionales realizaron el desarrollo de sus habilidades prácticas con los laboratorios del Departamento de Ingeniería Electrica de la Facultad de Ciencias Físicas y Matemáticas. La proyección de los ex-alumnos de este postítulo requerían un complemento que les permitiera ampliar sus conocimientos de Internetworking, fundamentalmente en Routing, Switching IP y Telefonía tanto circuital como de paquetes IP, y poder ejercer su profesión en los operadores de telecomunicaciones que por esa fecha se perfilaban como convergentes tanto en tecnologías (circuitos y paquetes) como en servicios (telefonía y datos).
 
-Es en ese contexto en que el programa se dicta por primera vez en el año 2010, con el incondicional impulso del entonces director del DIE, el profesor Nicolás Beltrán Maturana. Los tres primeros graduados del programa, dictado en un formato de magíster profesional al estilo de MBA de las telecomunicaciones con elementos de Informática, incorporando las tecnologías inalámbricas de punta en esos días, hacen sus recuerdos: “El ingreso y estadía en el programa MIRC se debe en gran parte al director del departamento de ese momento, el profesor Sr. Nicolás Beltrán, quién siempre me ayudo en el aspecto académico y administrativo“, dice Alberto Castro. Por su parte, Jorge Sandoval, al igual que Castro, un profesional de primera línea en nuestra industria, comenta: “La formación que recibí en el MIRC me abrió muchas puertas y el mercado reconoció mi condición de magíster aplicado a las necesidades de nuestra industria y con gran potencial de actualización, especialmente en las tecnologías y los servicios inalámbricos“. El tercero de la primera generación de graduados, Minflen Torres, también destacó por su orientación a las tecnologías inalámbricas dada su sólida formación en el MIRC, desarrollando una excelente carreta profesional en Entel, operador en el que trabaja hasta la actualidad. La llegada del profesor Claudio Estévez en el año 2013 como coordinador al programa, le dio impulso a un programa diversificado que incluyó tópicos de Cloud Computing, IoT, Big Data Analytics, Evolución de 4G a 5G, Smart Cities, Regulación y Economía en las Telecomunicaciones, entre otros  temas de punta tanto tecnológica como de negocios, imprimiendo un enfoque fuertemente orientado a las necesidades de la industria de telecomunicaciones de estos días en que los operadores convergentes son una realidad que coexiste con los operadores Over The Top y los operadores virtuales.
-
+Es en ese contexto en que el programa se dicta por primera vez en el año 2010, con el incondicional impulso del entonces director del DIE, el profesor Nicolás Beltrán Maturana. Los tres primeros graduados del programa, dictado en un formato de magíster profesional al estilo de MBA de las telecomunicaciones con elementos de Informática, incorporando las tecnologías inalámbricas de punta en esos días, hacen sus recuerdos: “El ingreso y estadía en el programa MIRC se debe en gran parte al director del departamento de ese momento, el profesor Sr. Nicolás Beltrán, quién siempre me ayudo en el aspecto académico y administrativo“, dice Alberto Castro. Por su parte, Jorge Sandoval, al igual que Castro, un profesional de primera línea en nuestra industria, comenta: “La formación que recibí en el MIRC me abrió muchas puertas y el mercado reconoció mi condición de magíster aplicado a las necesidades de nuestra industria y con gran potencial de actualización, especialmente en las tecnologías y los servicios inalámbricos“. El tercero de la primera generación de graduados, Minflen Torres, también destacó por su orientación a las tecnologías inalámbricas dada su sólida formación en el MIRC, desarrollando una excelente carreta profesional en Entel, operador en el que trabaja hasta la actualidad.
+La llegada del profesor Claudio Estévez en el año 2013 como coordinador al programa, le dio impulso a un programa diversificado que incluyó tópicos de Cloud Computing, IoT, Big Data Analytics, Evolución de 4G a 5G, Smart Cities, Regulación y Economía en las Telecomunicaciones, entre otros  temas de punta tanto tecnológica como de negocios, imprimiendo un enfoque fuertemente orientado a las necesidades de la industria de telecomunicaciones de estos días en que los operadores convergentes son una realidad que coexiste con los operadores Over The Top y los operadores virtuales.
+ 
 El cuerpo académico, tanto en el claustro como en el equipo extendido de profesionales que trabajan en la industria, ha evolucionado desde Beltrán hasta Estévez para mantener actualizada la oferta de materias, siempre considerando las necesidades del país, la formación y en el perfeccionamiento de profesionales que destaquen por su visión sistémica y sus sólidos conocimientos tanto teóricos como prácticos.
 
 
 \subsection{Proyecto académico de la unidad}
 
-Este Programa otorga una formación con énfasis en la ingeniería avanzada y tecnologías modernas de las redes de comunicación, que permitan a los graduados contribuir al desarrollo de sus países y satisfacer las necesidades de la sociedad. Ofrece una formación profunda para aquellas personas que desean orientar sus estudios hacia actividades de innovación tecnológica y docencia superior.
+Este Programa otorga una formación con énfasis en la ingeniería avanzada y tecnologías
+modernas de las redes de comunicación, que permitan a los graduados contribuir al desarrollo de sus países y satisfacer las
+necesidades de la sociedad. Ofrece una formación profunda para
+aquellas personas que desean orientar sus estudios hacia actividades de innovación tecnológica y docencia superior.
 
-Lo(a)s ingeniero(a)s que ingresan pueden profundizar sus estudios en áreas como Smart Cities, Internet de las Cosas, Cloud Computing,  técnicas de modulación, protocols de acceso, protocolos de transporte, enrutamiento, comunicación vehicular, eficiencia energética en sistemas de comunicación, modelamiento de redes, calidad de servicio y experiencia en redes móviles, comunicación inalámbrica avanzada,  seguridad de redes y muchos otros tópicos más. El cuerpo académico cubre una amplia diversidad de tópicos, esto para poder cumplir los objetivos del programa.
+Lo(a)s ingeniero(a)s que ingresan pueden profundizar sus estudios en áreas como Smart Cities, Internet de las Cosas, Cloud Computing, 
+técnicas de modulación, protocols de acceso, protocolos de transporte, enrutamiento, comunicación vehicular, eficiencia energética
+en sistemas de comunicación, modelamiento de redes, calidad de servicio y experiencia en redes móviles, comunicación inalámbrica avanzada, 
+seguridad de redes y muchos otros tópicos más. El cuerpo académico cubre una amplia diversidad de tópicos, esto para poder cumplir 
+los objetivos del programa.

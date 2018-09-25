@@ -1,0 +1,11 @@
+function profe = datos_profe( str )
+filename = ['./data/', str, '.xls'];
+sheet = 1;
+[num, txt, raw] = xlsread(filename,sheet);
+profe.nombre = txt{2}(2,1);
+profe.segundo = txt{2}(2,2);
+profe.paterno = txt{2}(2,3);
+profe.materno = txt{2}(2
+profe = {num, txt, raw}; %, edad, pubs};
+end
+

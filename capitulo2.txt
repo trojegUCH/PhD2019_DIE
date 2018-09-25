@@ -1,5 +1,3 @@
-%% TÍTULO DEL CAPÍTULO "CRITERIOS DE EVALUACIÓN" 
-
 Toda la información del presente capítulo ha sido obtenida de las diferentes fuentes que tiene la
 Universidad de Chile tanto físicas como digitales que se especifican a lo largo del documento.
 Además, se utilizó la información obtenida de una encuesta realizada a estudiantes, graduados
@@ -9,23 +7,25 @@ resultados de la encuesta pero sus detalles son presentados en la Sección \ref{
 
 \section{Definición Conceptual}
 
-El <@programa@> (en adelante mencionado indistintamente por su nombre completo o como ``el Programa''), \trg{se creó mediante el Decreto Exento N$^\circ$~0031109 de agosto del año 2004 [\ref{reg_doct_DIE}] y comenzó a recibir alumnos el año 2005. Este decreto establece la siguiente definición del Programa:}
+El <@programa@> (en adelante mencionado
+indistintamente por su nombre completo o como ``el Programa''), se encuentra en concordancia
+con el Reglamento General de Estudios Conducentes a los Grados de Magíster y Doctor, Decreto
+Universitario N$^\circ$~0028011 de octubre del año 2010 de la Universidad de Chile [\ref{reg_mag_doc}]. Este
+Reglamento en su artículo 23 establece que:
 
-\textit{``El Programa está orientado a la formación de especialistas que posean un amplio dominio de la Ingeniería Eléctrica y que sean capaces de hacer aportes al avance de esta disciplina científico-tecnológica. Los graduados del Programa estarán capacitados para desempeñar cargos académicos en instituciones de educación superior, tanto en docencia como en investigación. Asimismo, podrán realizar tareas de investigación y desarrollo en organismos y empresas del área.''}
+\textit{``Un Programa conducente al grado de Magíster debe entregar conocimientos y competencias que
+habiliten a los graduados para abordar asuntos complejos en forma sistemática y creativa. Estos
+deben demostrar originalidad en la aplicación del conocimiento a través del planteamiento y la
+resolución de problemas. Los Programas podrán orientarse al desarrollo de capacidades para:
+La investigación, la innovación tecnológica, la creación artística o el desempeño profesional
+superior.''}
 
-\trg{Esta definición} se encuentra en concordancia con el Reglamento General de Estudios Conducentes a los Grados de Magíster y Doctor, Decreto Universitario N$^\circ$~0028011 de octubre del año 2010 de la Universidad de Chile [\ref{reg_doct_UCH}]. \trg{Este Reglamento en su artículo 32 establece que:}
-
-\textit{``El grado académico de Doctor es el más alto que otorga la Universidad. El objetivo de los programas conducentes al grado de Doctor es formar graduados con un conocimiento amplio de su disciplina y capacitados para realizar en forma independiente investigación o creación artística original, cuyos resultados sean aportes significativos al conocimiento y desarrollo de las disciplinas y sus aplicaciones.''}
-
-\trg{Estas definiciones concuerdan con las entregadas por la Comisión Nacional de Acreditación (CNA), que en su Resolución Exenta DJ N$^\circ$~006-4 de abril de 2013 establece que:}
-
-\textit{``Los programas de Doctorado corresponden a estudios conducentes al más alto grado otorgado por una o más universidades. Comprende un proceso sistemático de investigación o creación que culmina con la elaboración, defensa y aprobación de una tesis que amplía las fronteras del conociminento en el o las áreas involucradas.''}
-
-\textit{``Deben estar sustentados por académicos con líneas de investigación activas y productividad acorde a las mismas. Además, los programas deben estar radicados en una institución de educación superior que cuente con políticas, recursos y mecanismos para la formación de postgrado y un entorno adecuado para la actividad académica de nivel doctoral.''}
-
-\trg{Los detalles de estos criterios respecto al proceso formativo, cuerpo académico y características institucionales, son precisados en las siguientes secciones.}
-
-%\trg{La ejecución del programa y los procesos de graduación son detallados en la Sección \emph{Características y Resultados del Programa}, mientras que las características de los académicos e institución son precisadas en las Secciones Sección \emph{Cuerpo Académico} y  , respectivamente.}
+En este contexto, el Programa se ha definido con el objetivo de ofrecer una formación profunda
+en las redes de comunicaciones. Está diseñado para aquellas personas que deseen orientar
+sus estudios hacia actividades principalmente de desarrollo y docencia superior. Es así como el
+Programa corresponde a un Magíster de carácter profesional, presencial a tiempo completo y de
+jornada vespertina. Esto es plenamente concordante con lo definido por la CNA para los Programas
+de Magíster. 
 
 % El Programa posee una articulación natural con la Carrera de Ingeniería Civil
 %Eléctrica (ICE) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile, del
@@ -36,7 +36,7 @@ El <@programa@> (en adelante mencionado indistintamente por su nombre completo o
 %Se destaca el caso de los estudiantes que optan por doble titulación en el momento de realizar su
 %trabajo de titulación en paralelo con la Tesis de Magíster, permitiendo en algunos casos el doble
 %grado de Ingeniero y Magíster en 6 años y medio. Todo esto en concordancia con el Reglamento
-%General de Magíster y Doctorado de la Universidad de Chile [\ref{reg_doct_UCH}] y con el reglamento Interno
+%General de Magíster y Doctorado de la Universidad de Chile [\ref{reg_mag_doc}] y con el reglamento Interno
 %de Magíster [A.8]. Asimismo, el carácter académico del Magíster permite la articulación con el
 %Programa de Doctorado en Ingeniería Eléctrica en forma natural. Dicha articulación se desarrolla
 %a nivel académico con estudiantes de Magíster que continúan en el Doctorado. Desde la Dirección
@@ -48,9 +48,7 @@ El <@programa@> (en adelante mencionado indistintamente por su nombre completo o
 \section{Contexto Institucional}
 \label{contexto_institucional}
 
-\subsection{Entorno Institucional}
-
-\trg{El <@programa@> es único en la Universidad de Chile enfocado en la Ingeniería Eléctrica, y uno de los 3 acreditados existentes a nivel nacional. Destaca que este programa cuenta con 8 años de acreditación, el mayor periodo respecto a sus equivalentes\footnote{Fuente: www.cnachile.cl}.}
+\subsection{Estructura Organizacional Institucional}
 
 \subsubsection{Vicerrectoría de Asuntos Académicos}
 
@@ -71,7 +69,7 @@ principalmente en su gestión curricular y procesos de acreditación, y mantiene
 actualizada de la calidad académica de la Universidad.
 
 Según el articulo 16 del Reglamento General de Estudios Conducente a los Grados de Magíster
-y Doctor (Decreto Universitario N$^o$0028011 de 5 de octubre de 2010) [\ref{reg_doct_UCH}], la VAA velará
+y Doctor (Decreto Universitario N$^o$0028011 de 5 de octubre de 2010) [\ref{reg_mag_doc}], la VAA velará
 por la calidad de los Programas de postgrado, sometiéndolos a acreditación interna y externa,
 estableciendo los organismos y procedimientos para cada caso. En particular según el articulo 17
 del mismo reglamento, para efecto de la acreditación interna la VAA deberá considerar, al menos:
@@ -98,13 +96,13 @@ con la Vicerrectoría de Investigación y Desarrollo, y la Dirección de Relacio
 (dependiente de Rectoría) de la Universidad de Chile.
 
 En cumplimiento de su misión, brinda asistencia en la formulación, revisión y actualización
-de Programas de Magíster y Doctorado y de especialización profesional, y homogeniza normas y
+de Programas de Magíster y Doctorado y de especialización profesional, y homogeneiza normas y
 reglamentos atingentes a la materia. Por otra parte, administra la asignación de recursos de becas
 para estudiantes meritorios y desarrollo de tesis.
-Asimismo, promueve el ingreso de alumnos extranjeros a los Programas de postgrado y de
+Asimismo promueve el ingreso de alumnos extranjeros a los Programas de postgrado y de
 especialización.
 
-%\subsubsection{Acreditación Institucional 2011 - 2018}
+\subsubsection{Acreditación Institucional 2011 - 2018}
 
 %El 21 de diciembre de 2011 la Universidad de Chile recibió oficialmente la acreditación
 %institucional por parte de la Comisión Nacional de Acreditación - CNA, por el periodo máximo
@@ -149,30 +147,16 @@ especialización.
 
 \subsubsection{Escuela de Postgrado}
 
-El enlace de los Programas de Postgrado de la FCFM \trg{(mediante de sus respectivos Comités Académicos)} con la institucionalidad pertinente (Departamento de Postítulo y Postgrado de la Universidad de Chile (DPP)) es a través de la Escuela de Postgrado. Esta tiene como función organizar, administrar e impartir los estudios conducentes a la obtención de grados académicos de Magíster y Doctor. Su máxima autoridad es su Director, quien en conjunto con el Consejo de la Escuela de Postgrado pondrán en práctica las políticas de desarrollo de la docencia de postgrado.
+El enlace de los Programas de Postgrado de la FCFM con la institucionalidad pertinente
+(Departamento de Postítulo y Postgrado de la Universidad de Chile (DPP)) es a través de la Escuela
+de Postgrado. Esta tiene como función organizar, administrar e impartir los estudios conducentes
+a la obtención de grados académicos de Magíster y Doctor. Su máxima autoridad es su Director,
+quien en conjunto con el Consejo de la Escuela de Postgrado pondrán en práctica las políticas de
+desarrollo de la docencia de postgrado.
 
-La Escuela de Postgrado asegura el funcionamiento operacional y académico de todos los Programas de Postgrado de la FCFM. Además permite la sinergia de los mismos, la construcción de criterios comunes, el crecimiento orgánico y el mejoramiento continuo.
-
-\subsubsection{Comité Académico}
-
-\trg{La administración del Programa a cargo de la Escuela de Postgrado, radica en el Comité Académico del Doctorado en Ingeniería Eléctrica. Este Comité está compuesto por al menos 3 académicos (profesores titulares o asociados) con el grado de doctor, uno de los cuales actúa como Coordinador del Programa.}
-
-\trg{El Comité Académico tiene entre sus funciones:}
-
-\trg{
-\begin{itemize}
-	\item Estudiar y calificar los antecedentes de los postulantes y proponer a la Escuela de Postgrado  la admisión o rechazo de las postulaciones. Dichas proposiciones  deberán ser fundamentadas.
-	\item Designar el tutor a quien le corresponderá supervisar el cumplimiento de las exigencias del Programa por parte del alumno.
-	\item Aprobar las actividades académicas que deberá realizar cada postulante o candidato al Doctorado.
-	\item Proponer a la Escuela de Postgrado las comisiones y fechas de exámenes de calificación, los profesores guías de tesis y los integrantes de las comisiones de examen de grado.
-	\item Proponer el Tema de Tesis a la Escuela de Postgrado, de común acuerdo con el candidato y en conformidad con los procedimientos y la reglamentación vigente.
-	\item Evaluar la calidad, originalidad y aporte a la frontera del conocimiento del trabajo realizado y decidir si este alcanzó los estándares requeridos para una Tesis de Doctorado.
-\end{itemize}
-}
-
-\subsubsection{Programa de Doble Grado}
-
-\trg{El <@programa@> cuenta con un convenio con la Universidad de Nottingham [\ref{conv_UoN}] desde el año 2013, que ...}
+La Escuela de Postgrado asegura el funcionamiento operacional y académico de todos los
+Programas de Postgrado de la FCFM. Además permite la sinergia de los mismos, la construcción
+de criterios comunes, el crecimiento orgánico y el mejoramiento continuo.
 
 \subsubsection{Normativas y Reglamentos}
 
@@ -180,29 +164,27 @@ El Programa se rige por los reglamentos de la Universidad de Chile nombrados a c
 que se adjuntan en los anexos respectivos.
 
 El principal reglamento de postgrado de la Universidad de Chile es el Reglamento General
-de Estudios Conducentes a los Grados de Magíster y Doctor [\ref{reg_doct_UCH}]. Además posee un reglamento
-general propio del Programa [\ref{reg_doct_DIE}].
+de Estudios Conducentes a los Grados de Magíster y Doctor [\ref{reg_mag_doc}]. Además posee un reglamento
+general propio del Programa [\ref{reg_mirc}].
 
 Dada la naturaleza de la Universidad de Chile, se exige tener un reglamento general con
 las características definidas para éste, pero además se hace necesario y recomendable tener un
 reglamento interno donde se estipulan, entre otros temas, los requisitos operativos y de gestión del
 Programa. Actualmente se encuentra vigente el reglamento general del Programa del año 2006.
 Además, está en fase de tramitación en los cuerpos colegiados de la Universidad de Chile, el nuevo
-reglamento general del Programa, ambos en el Anexo correspondiente [\ref{reg_doct_DIE}].
+reglamento general del Programa, ambos en el Anexo correspondiente [\ref{reg_mirc}].
 
 La estructura reglamentaria de la Universidad de Chile es clara en lo que respecta a los
-Programas conducentes a los grados de magister y doctorado [\ref{reg_doct_UCH}]. Esta reglamentación define
+Programas conducentes a los grados de magister y doctorado [\ref{reg_mag_doc}]. Esta reglamentación define
 un marco sobre el cual se regulan los Programas tocando aspectos tales como la naturaleza del
 Programa, sus objetivos y perfil de graduación, su creación, la administración, la conformación
 del claustro, las responsabilidades del comité académico, las responsabilidades de la escuela
 de postgrado, la acreditación y procesos de aseguramiento de calidad. Adicionalmente en este
-Reglamento hay disposiciones específicas para los Programas de Doctorado que tocan aspectos
+Reglamento hay disposiciones específicas para los Programas de Magister que tocan aspectos
 relativos a postulación y criterios de selección, plan de formación, proyecto de grado, actividad
 de graduación, extensión mínima y máxima del Programa, homologación de UDs, criterios de
-aprobación, entre otros. 
-
-Complementando lo anterior el Programa consta de un Reglamento
-General [\ref{reg_doct_DIE}], que establece aspectos reglamentarios
+aprobación, entre otros. Complementando lo anterior el Programa consta de un Reglamento
+General [\ref{reg_mirc}]. El primero establece aspectos reglamentarios
 específicos que definen con mayor precisión el Programa, en el marco del Reglamento General de
 la Universidad de Chile. Un ejemplo de ello es la definición concreta de los objetivos del Programa,
 su plan de formación y su extensión en lo que respecta a número de UDs. Dichos reglamentos son
@@ -212,7 +194,6 @@ de las disposiciones operativas del Programa, como son, por ejemplo, estipular e
 ayuda de viajes y los criterios arancelarios. Los Reglamentos Generales e Internos del Programa
 se actualizan y revisan periódicamente por el Comité Académico del Programa, como se evidencia
 en la renovación de los mismos en los últimos años.
-
 
 \subsection{Sistema de Organización Interna}
 
@@ -334,7 +315,7 @@ para la administración eficiente de los Programas.
 El Programa de <@programa@>, es administrado por la
 Escuela de Postgrado de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 De acuerdo al Reglamento General de Estudios Conducentes a los Grados de Magíster y Doctor,
-Decreto Universitario No0028011 de octubre del año 2010, de la Universidad de Chile [\ref{reg_doct_UCH}], la
+Decreto Universitario No0028011 de octubre del año 2010, de la Universidad de Chile [\ref{reg_mag_doc}], la
 Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile debe poseer una Escuela
 de Postgrado, la cual se encarga de la administración académica de los Programas de magíster
 y doctorado. Para efectos de dicha administración, la Escuela de Postgrado es dirigida por un
@@ -348,7 +329,7 @@ de ellos como Coordinador. Los miembros del Comité Académico duran dos años e
 pudiendo ser nominados por otros períodos.
 
 En concordancia con el Reglamento General de Estudios Conducentes a los Grados de
-Magíster y Doctor de la Universidad de Chile [\ref{reg_doct_UCH}] en sus articulos 6 y 7, el Comité Académico se
+Magíster y Doctor de la Universidad de Chile [\ref{reg_mag_doc}] en sus articulos 6 y 7, el Comité Académico se
 responsabiliza por gestionar los aspectos académicos del Programa, velando por el cumplimiento
 de sus objetivos, por el mejoramiento continuo del Programa y por la formación de sus estudiantes,
 de acuerdo a estándares de calidad establecidos por la Universidad de Chile.
@@ -400,7 +381,7 @@ total y continua del claustro en el desarrollo del Programa.
 
 \section{Características y Resultados del Programa}
 
-\subsection{Carácter, Objetivos y Perfil de Egreso}
+\subsection{Carácter, objetivos y perfil de egreso}
 
 \subsubsection{Definición del Programa}
 
@@ -413,7 +394,7 @@ profesores guías de tesis.
 
 El Programa se encuentra perfectamente alineado con el perfil que establece la Universidad de
 Chile. Este perfil se define explícitamente a través del Reglamento General de estudios conducentes
-a los grados de Magíster y Doctor [\ref{reg_doct_UCH}]. En su artículo 23, el reglamento estipula:
+a los grados de Magíster y Doctor [\ref{reg_mag_doc}]. En su artículo 23, el reglamento estipula:
 
 ``Un Programa conducente al grado de Magister debe entregar conocimientos y competencias que
 habiliten a los graduados para abordar asuntos complejos en forma sistemática y creativa. Estos
@@ -426,7 +407,7 @@ Por tanto, el Programa está dirigido a aquellas personas que deseen orientar su
 las actividades de innovación, desarrollo y docencia superior, en la disciplina de
 Ingeniería Eléctrica con especialidad en Redes de Comunicaciones.
 
-El Programa se rige por el reglamento General del Programa [\ref{reg_doct_DIE}]. 
+El Programa se rige por el reglamento General del Programa [\ref{reg_mirc}]. 
 Dada las normas de la Universidad de Chile, se exige que los progamas tengan
 un reglamento general que contenga las definiciones básicas del Programa. Adicionalmente es
 necesario y recomendable contar con un reglamento interno donde se estipulan, entre otros temas,
@@ -535,7 +516,7 @@ de acuerdo con que el perfil de graduación era conocido.
 
 Es importante también tener en cuenta que, reglamentariamente, se reconoce la importancia de
 la revisión del perfil de egreso y el plan de formación del Programa. Según el Reglamento General
-de estudios conducentes a los grados académicos de Magíster y Doctorado [\ref{reg_doct_UCH}], en su artículo 17,
+de estudios conducentes a los grados académicos de Magíster y Doctorado [\ref{reg_mag_doc}], en su artículo 17,
 se dice que:
 
 ``El Comité Académico del Programa deberá elaborar, al menos cada cinco años, un informe
@@ -547,7 +528,7 @@ General el 2010, el primer plazo de revisión es el presente año <#ano_actual#>
 proceso de autoevaluación que se está llevando a cabo.
 
 %Finalmente, respecto a la difusión, el perfil de egreso y los objetivos del Programa son descritos
-%en el Reglamento General [\ref{reg_doct_DIE}]. Adicionalmente en esta misma página se presenta
+%en el Reglamento General [\ref{reg_mirc}]. Adicionalmente en esta misma página se presenta
 %explícitamente la información del perfil de egreso, los objetivos del Programa, el plan de formación,
 %el claustro del Programa y la información de las líneas de especialización cultivadas en el Programa.
 
@@ -594,7 +575,7 @@ proceso de autoevaluación que se está llevando a cabo.
 Quienes postulan a los Programas de la Facultad de Ciencias Físicas y Matemáticas, lo pueden
 realizar a través de su Escuela de Postgrado mediante un formulario en línea.
 
-Los requisitos de admisión se presentan en el Reglamento General, artículo 24 [\ref{reg_doct_UCH}]. En éste, se explicita que
+Los requisitos de admisión se presentan en el Reglamento General, artículo 24 [\ref{reg_mag_doc}]. En éste, se explicita que
 el postulante debe ser Licenciado en Ciencias de la Ingeniería, mención Eléctrica, o poseer un
 grado de formación equivalente que asegure una base de conocimiento satisfactoria para los fines
 y exigencias del Programa. De forma específica indica lo siguiente:
@@ -792,7 +773,7 @@ del Comité Académico mantenerla actualizada [\ref{electivos}].
 Adicionalmente, previa autorización del Comité del Programa, los alumnos podrán convalidar
 cursos de nivel de postgrado de otras Facultades o Universidades, que no tengan convenio con la Universidad de Chile.
 
-Finalmente, y según se estipula en el articulo 26 del reglamento General [\ref{reg_doct_UCH}], las actividades
+Finalmente, y según se estipula en el articulo 26 del reglamento General [\ref{reg_mag_doc}], las actividades
 curriculares que el estudiante deberá realizar, así como su secuencia, serán aprobadas por el
 Director de la Escuela con el acuerdo del Comité Académico respectivo y esto a solicitud del
 estudiante con el acuerdo de su profesor guía de tesis, según corresponda.
@@ -819,7 +800,7 @@ esto es un tema a tratar y mejorar en el plan de desarrollo.
 
 \noindent\textbf{Defensa de Tesis}
 
-Según el Reglamento General en su Artículo 29 [\ref{reg_doct_UCH}] se establece que:
+Según el Reglamento General en su Artículo 29 [\ref{reg_mag_doc}] se establece que:
 ``Los Programas conducentes al grado de Magíster culminarán con la aprobación de un examen
 de grado que se rendirá en la fecha que determine el Director de la Escuela. Para acceder al
 examen de grado se requerirá la aprobación previa del documento final de la tesis o actividad
@@ -961,7 +942,7 @@ de excelencia evaluado por sus publicaciones. La Comisión revisa tanto el manus
 presentación final en términos de calidad, originalidad y aporte a la frontera del conocimiento del
 trabajo realizado por el candidato con el objeto de pronunciarse sobre si este proyecto de grado alcanzó
 los estándares requeridos para una Tesis de Magíster de la Universidad de Chile, ver Articulo 28
-del Reglamento General de la Universidad de Chile [\ref{reg_doct_UCH}]. En particular, este Reglamento General
+del Reglamento General de la Universidad de Chile [\ref{reg_mag_doc}]. En particular, este Reglamento General
 señala que:
 
 ``La tesis deberá aportar creativamente a la profundización en un tema específico del
@@ -1001,7 +982,7 @@ Universidad de Chile.
 
 \noindent\textbf{Difusión de Requisitos y Proceso de Graduación}
 
-Los requisitos del proceso de graduación son desarrollados en el Reglamento General del Programa [\ref{reg_doct_DIE}]. Todos estos
+Los requisitos del proceso de graduación son desarrollados en el Reglamento General del Programa [\ref{reg_mirc}]. Todos estos
 reglamentos son públicos y se encuentran disponibles en la páginas web de la Escuela de Postgrado de la FCFM.
 
 Respecto a la difusión de los requisitos, el primer vínculo con el estudiante es su profesor guía
@@ -1013,11 +994,11 @@ los estudiantes por medio de charlas informativas una vez por año académico.
 \subsubsection{Duración del Programa}
 
 El plan de estudios comprende 150 UDs que se recomiendan dividir en cuatro semestres de acuerdo
-a la Tabla \ref{distribucion_uds}. En plena concordancia con el Reglamento General en su Artículo 25 [\ref{reg_doct_UCH}], el
+a la Tabla \ref{distribucion_uds}. En plena concordancia con el Reglamento General en su Artículo 25 [\ref{reg_mag_doc}], el
 estudiante no podrá permanecer menos de un año en el Programa. Esto asegura la entrega de una
 tesis de calidad, entendiendo que al menos debe haber una dedicación de un año al proyecto de grado.
 Esto en virtud que los cursos obligatorios del Programa, asociados al Proyecto de Grado I y II, no pueden
-ser convalidados en concordancia con lo señalado en el Articulo 21 del Reglamento General [\ref{reg_doct_UCH}].
+ser convalidados en concordancia con lo señalado en el Articulo 21 del Reglamento General [\ref{reg_mag_doc}].
 
 \begin{table}[!ht]
 \centering
@@ -1192,9 +1173,7 @@ que perduran en el tiempo en la gran mayoría de los casos.
 
 \section{Cuerpo Académico}
 
-%\subsection{Características Generales}
-
-%\subsection{Presentación del Cuerpo Académico}
+\subsection{Presentación del Cuerpo Académico}
 
 El cuerpo académico se muestra en la Tabla \ref{cuerpo_acad}, donde se puede ver que está compuesto de 4 profesores del claustro 
 y 9 profesores colaboradores.
@@ -1249,8 +1228,7 @@ que los estudiantes del Programa participan activamente en estos proyectos en ca
 %y estudiantes, la gestión y responsabilidad académica está distribuida homogéneamente entre los
 %profesores del claustro.
 
-\subsection{Trayectoria, Productividad y Sustentabilidad}
-%\subsection{Análisis del cuerpo académico por dimensiones relevantes}
+\subsection{Análisis del cuerpo académico por dimensiones relevantes}
 
 \subsubsection{Productividad}
 
@@ -1371,7 +1349,7 @@ más nos enorgullece del Programa.
 
 %Respecto al sistema de guía o seguimiento de los estudiantes, por diseño, la responsabilidad en
 %primera instancia recae en la figura del profesor guía de tesis. Según el Reglamento General
-%de Magíster [\ref{reg_doct_DIE}], el Comité Académico nombra un guía desde la incorporación del estudiante
+%de Magíster [\ref{reg_mirc}], el Comité Académico nombra un guía desde la incorporación del estudiante
 %el primer semestre. Los profesores guías están informados de los reglamentos de nuestros
 %Programas, donde se estipulan entre otras cosas los objetivos, el plan de estudios, los objetivos de
 %graduación, plazos y cumplimiento de compromisos formales (defensa de tesis). Adicionalmente
@@ -1405,7 +1383,7 @@ el artículo precedente, o una labor profesional destacada en el ámbito de su q
 académico.''
 
 Adicionalmente el Reglamento General de estudios conducentes a los grados académicos de
-Magíster y Doctor de la Universidad de Chile, párrafo 2, artículo 12 [\ref{reg_doct_UCH}], establece que para la
+Magíster y Doctor de la Universidad de Chile, párrafo 2, artículo 12 [\ref{reg_mag_doc}], establece que para la
 creación de un Programa de magíster o doctorado:
 
 ``Cada Programa será desarrollado por un claustro conformado por académicos que cultiven las
@@ -1416,7 +1394,7 @@ será pública. Los académicos que integren el claustro de un Programa conducen
 Magíster deberán ser profesores de cualquier carrera o categoría académica.''
 
 Las normas básicas de la estructura, organización y administración del Programa se encuentran
-estipuladas en el Reglamento General del Programa [\ref{reg_doct_DIE}]. Es importante en este punto mencionar
+estipuladas en el Reglamento General del Programa [\ref{reg_mirc}]. Es importante en este punto mencionar
 que hay una nueva propuesta Reglamento General del Programa en proceso de revisión desde
 el primer semestre del 2015. Adicionalmente, el Programa tiene un Reglamento Interno con
 disposiciones específicas para regir el Programa dentro del marco otorgado por el Reglamento
@@ -1427,7 +1405,7 @@ gestión y coordinación del Programa.
 
 \subsubsection{Del Comité Académico de Postgrado}
 
-El Reglamento General de la Universidad de Chile [\ref{reg_doct_UCH}] establece:
+El Reglamento General de la Universidad de Chile [\ref{reg_mag_doc}] establece:
 
 ``El Programa constará de Comité Académico nombrado por el Director de Escuela de postgrado
 de la FCFM a proposición del claustro académico del Programa, con el acuerdo del Consejo de
@@ -1457,7 +1435,7 @@ y/o reconocidos por la Universidad.
 \subsubsection{Del Ingreso, Permanencia y Evaluación del Claustro Académico}
 \label{ing_perm_eval}
 
-El Reglamento General de la Universidad de Chile [\ref{reg_doct_UCH}] en su articulo 12 establece que:
+El Reglamento General de la Universidad de Chile [\ref{reg_mag_doc}] en su articulo 12 establece que:
 
 ``El ingreso de un académico al claustro, y su posterior permanencia, será propuesta por el Comité
 Académico y aprobada por el Consejo de Escuela de Postgrado de la Facultad de Ciencias Físicas
@@ -1501,7 +1479,7 @@ completo a sus quehaceres académicos y docentes dentro de la universidad.
 
 \subsubsection{Del sistema guías}
 
-En concordancia con el reglamento general [\ref{reg_doct_UCH}] en su artículo 26, al momento del ingreso del
+En concordancia con el reglamento general [\ref{reg_mag_doc}] en su artículo 26, al momento del ingreso del
 estudiante al Programa la coordinación define su guía entre los académicos del claustro. Este
 cumple el rol de orientar al estudiante en sus actividades académicas. Adicionalmente, para la
 ejecución de la tesis el estudiante constará con un profesor guía de tesis nombrado por el Comité
@@ -1631,7 +1609,7 @@ IEEE,
 %(ya se han hecho dos llamados a la fecha) y ha sido positivamente evaluado por los estudiantes
 %activos del Programa como se constata en el ítem 7 de la encuesta (3.4.1).
 
-\subsection{Vinculación con el Medio}
+\subsubsection{Vinculación con el Medio}
 \label{vinculacion_medio}
 
 El Programa tiene un vínculo con el medio a través de la investigación. Existen colaboraciones 
@@ -1725,7 +1703,7 @@ la Facultad.
 \subsection{Reglamentación}
 
 La estructura reglamentaria de la Universidad de Chile es clara en lo que respecta a los Programas
-conducentes a los grados de magister y doctorado [\ref{reg_doct_UCH}]. Esta reglamentación define un marco
+conducentes a los grados de magister y doctorado [\ref{reg_mag_doc}]. Esta reglamentación define un marco
 sobre el cual se regulan los Programas tocando aspectos tales como la naturaleza del Programa,
 sus objetivos y perfil de graduación, su creación, la administración, la conformación del claustro,
 las responsabilidades del comité académico, las responsabilidades de la escuela de postgrado, la
@@ -1733,7 +1711,7 @@ acreditación y procesos de aseguramiento de calidad. Adicionalmente en este Reg
 disposiciones especificas para los Programas de Magister que tocan aspectos relativos a postulación
 y criterios de selección, plan de formación, proyecto de grado, actividad de graduación, extensión
 mínima y máxima del Programa, homologación de UDs, criterios de aprobación, entre otros.
-Complementando lo anterior, el Programa mantiene un Reglamento General [\ref{reg_doct_DIE}]. El Reglamento General del
+Complementando lo anterior, el Programa mantiene un Reglamento General [\ref{reg_mirc}]. El Reglamento General del
 Programa fue aprobado el 2016.
 
 
@@ -1768,7 +1746,7 @@ futuro de éste.
 \subsection{Plan de Desarrollo}
 
 La elaboración y ejecución del plan de desarrollo se encuentra a cargo del Comité Académico
-del Programa, liderado por su coordinador (artículo 17 Reglamento General [\ref{reg_doct_UCH}]). Los recursos
+del Programa, liderado por su coordinador (artículo 17 Reglamento General [\ref{reg_mag_doc}]). Los recursos
 para su ejecución provienen de recursos del Programa y del Departamento de Ingeniería Eléctrica.
 En la ejecución del plan, el Comité recibe apoyo del equipo de gestión docente (jefe de estudios
 y secretaria de postgrado). El plan de desarrollo que se desprende del presente proceso de

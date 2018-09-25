@@ -1,0 +1,640 @@
+﻿\section{Organización}
+
+Para enfrentar el actual proceso de acreditación, el Comité Académico del Programa constituyó un
+comité ad hoc dedicado a llevar a cabo el presente proceso de autoevaluación. Este comité cuenta
+con el apoyo del Departamento de Ingeniería Eléctrica en términos administrativos y financieros.
+
+La Figura 3.1 muestra el organigrama de dicho equipo y está integrado por:
+
+\begin{itemize}
+	\item Coordinador de Acreditación: Dr. Patricio Mena, Profesor Asociado.
+	\item Comité Académico:
+	\begin{itemize}
+		\item Dr. Patricio Mena, Profesor Asociado.
+		\item Dr. Marcos Orchard, Profesor Asociado.
+		\item Dr. Javier Ruiz del Solar, Profesor Titular.
+		\item Dr. Jorge Silva, Profesor Asociado (Coordinador de Postgrado)
+		\end{itemize}
+	\item Equipo Ejecutivo:
+	\begin{itemize}
+		\item Mg. Andrés Caba, Jefe de Estudios.
+		\item Ing. Karel Mundnich, Ingeniero Civil Eléctrico.
+		\item MSc. Pablo Tapia.
+		\item BSc. Liliana Zurita.
+	\end{itemize}
+	\item Claustro.
+	\item Estudiantes del programa.
+	\item Egresados del programa.
+	\item Institucionalidad:
+	\begin{itemize}
+		\item Dirección de Postgrado y Postítulo.
+		\item Escuela de Postgrado.
+		\item Otras Direcciones y Escuelas.
+	\end{itemize}
+\end{itemize}
+
+% Figura 3.1
+
+\section{Participación}
+
+Se ha definido el proceso como altamente participativo, en cada etapa se ha considerado la
+participación e iteración de los distintos estamentos indicados anteriormente.
+
+\begin{itemize}
+	\item El proceso partió con una reunión formal en la Dirección de Postgrado y Postítulo de la Universidad de Chile (16 de Enero de 2015).
+	\item Se realizó una reunión con las autoridades de la Escuela de Postgrado para dar inicio formal al proceso de autoevaluación (27 Enero de 2015).
+	\item Desde marzo a septiembre el comité de acreditación trabajó en forma individual y se reunió una vez por semana para resvisar los avances.
+	\item Desde mayo a septiembre se realizaron jornadas semanales más extensas de trabajo de consolidación y debate. Se suma a estas instancias al coordinador del programa.
+	\item Desde mayo a septiembre se realizó una presentación mensual al Comité Académico del Programa con los principales avances y se discutieron los temas atingentes.
+	\item Se realizaron reuniones informativas y de discusión con los estudiantes del programa (13 de Mayo de 2015).
+	\item Se realizaron reuniones informativas y de discusión con el claustro del programa.
+	\begin{itemize}
+		\item 15 de Abril de 2015. Introducción.
+		\item 25 de Agosto de 2015. Discusión sobre los resultados del Programa.
+		\item 2 de Septiembre de 2015. Discusión sobre las fortalezas y debilidades del Programa, y plan de desarrollo.
+	\end{itemize}
+\end{itemize}
+
+\section{Mecanismos para determinar Fortalezas y Debilidades}
+
+Jornadas participativas:
+
+\begin{itemize}
+	\item Equipo Acreditación
+	\item Comité Académico del programa
+	\item Claustro
+	\item Estudiantes del programa
+\end{itemize}
+
+En estas jornadas se presentó la información recabada a lo largo del proceso así como la información consolidada de las encuestas. El detalle sobre los periodos de realización de estas jornadas puede consultarse en la Sección 3.2.
+
+\section{Encuestas Acreditación}
+
+El equipo de acreditación en conjunto con la escuela de Postgrado desarrollaron y aplicaron
+encuestas a estudiantes, graduados y académicos del programa. Esto con la finalidad de enriquecer
+la autoevaluación e identificar fortalezas y debilidades del Programa. Se presentan a continuación
+los resultados más relevantes\footnote{El detalle de las encuestas se encuentra en los anexos y encuestas individuales [A.17] y encuestas consolidadas [A.28]}.
+
+\subsection{Consolidado Encuestas}
+
+\subsubsection{Entorno Institucional}
+
+De la Tabla 3.1, se aprecia que tanto la normativa como el plan de formación tienen porcentajes
+altos de conocimiento (se muestran los porcentajes sumados de Muy de Acuerdo y Acuerdo). En
+el caso de los estudiantes se nota una disminución del nivel de conocimiento en ambos aspectos
+comparado con los académicos y egresados. Se identifica una oportunidad de mejora en lo que se
+refiere sobre todo a dar a conocer la normativa que regula el programa a los estudiantes.
+
+\subsubsection{Requisitos de Admisión y Proceso de Selección}
+
+De la Tabla 3.2, se aprecia un consenso en que tanto los requisitos de postulación y selección son
+conocidos, así como los requisitos y criterios de admisión son claros.
+
+\subsubsection{Carácter, Objetivos y Perfil de Egreso}
+
+De la Tabla 3.3, se observa un interesante punto en lo que se refiere a la identificación de estudiantes
+y egresados con el carácter del magíster. Este punto es de relevancia por varios aspectos:
+
+\begin{itemize}
+	\item La diversidad en el ejercicio una vez graduados. Esto es, los graduados distinguen que el
+programa entrega competencias transversales y de nivel superior que bien puede servirles en
+el ámbito profesional.
+	\item La articulación (e integración) del programa con la carrera de pregrado del departamento
+(Ingeniería Civil Eléctrica) hace que el carácter profesional de la misma trascienda al
+programa de Magíster.
+\end{itemize}
+
+\subsubsection{Sistema de Organización Interna}
+
+De la Tabla 3.4, en general se aprecia una alta evaluación del sistema de organización interna.
+Destaca nuevamente que los estudiantes son los más críticos en estos tópicos. Se identifica espacios
+de mejora en el seguimiento a los estudiantes.
+
+\subsubsection{Estructura del Programa y Plan de Estudios}
+
+De las Tabla 3.5, se aprecia en general un consenso y alta evaluación en la estructura y el plan
+de estudios. Sin embargo, hay una importante oportunidad de mejora en la pertinencia de los
+contenidos de los cursos con respecto a las demandas actuales de la disciplina del programa. Cabe
+mencionar que en general aunque los estudiantes creen que los cursos no entregan herramientas
+adecuadas, una vez que han egresado se encuentran satisfechos (hay correlación con lo que
+muestran los resultados de las encuestas). En el desarrollo de las clases se hará énfasis en destacar
+la pertinencia y el enlace con las demandas actuales.
+
+\subsubsection{Académicos}
+
+De la Tabla 3.6, hay consenso y muy buena evaluación en todo lo referente al cuerpo académico
+del programa en todos los grupos encuestados. Esto reafirma lo expuesto a lo largo del informe de
+autoevaluación.
+
+\subsubsection{Apoyo Institucional e Infraestructura}
+
+De la Tabla 3.7, en general se aprecia una visión consensuada del alto nivel de apoyo institucional
+e infraestructura. Se aprecia un espacio de mejora en los laboratorios y/o talleres.
+
+En el caso de los mecanismos de apoyo a pasantías se aprecia una alta evaluación de
+los estudiantes donde se puede apreciar que los instrumentos de apoyo que se han estado
+implementando en los últimos semestres son bien evaluados por los estudiantes.
+
+\subsubsection{Vinculación con el Medio}
+
+De la Tabla 3.8, es apreciable la necesidad de trabajar en la vinculación con el medio en el
+programa.
+\begin{itemize}
+	\item En términos de visibilidad País los estudiantes y los egresados lo evalúan bajo, lo que deja
+una importante oportunidad de mejora.
+	\item En cuanto a Vinculación con el medio externo son los egresados quienes son más críticos
+en su evaluación. Este punto será prioritario. Considerar que el carácter académico del
+Magíster se ve restringido por el ecosistema chileno. En el análisis individual se aprecia que
+los egresados distinguen que hay vinculación con el medio pero incipiente. Este tema es una
+preocupación institucional y departamental. Existe actualmente la unidad de Extensión del
+DIE (ECODIE) y el Alumni DIE.
+\end{itemize}
+
+\subsubsection{Evaluación General}
+
+De la Tabla 3.9, el total de evaluaciones se sitúa sobre el 80\% de cumplimiento demostrando que todos los grupos
+tienen una alta valoración del programa. Es particularmente alto el porcentaje tanto de estudiantes como de egresados
+que recomendaría el programa.
+
+Como resumen se puede apreciar altas evaluaciones así como un alto grado de satisfacción con el programa. Más
+allá de las oportunidades de mejora detectadas tanto en el análisis consolidado de las encuestas como en el proceso de
+autoevaluación, tanto a nivel de programa como a nivel institucional perseguimos la mejora continua como parte de
+nuestro sello como Universidad de Chile.
+
+\subsection{Dimensiones Individuales}
+
+\subsubsection{Estudiantes}
+
+De las Tablas 3.10 y 3.11, tanto la evaluación del tutor como del profesor guía superan el 90\% de valoración en todos
+los aspectos encuestados.
+
+\subsubsection{Caracterización Egresados}
+
+De la Tabla 3.12 destaca el 23.5\% que continua inmediatamente estudios de Doctorado. Así como en la actualidad hay
+un 41,2\% que se encuentra con un Doctorado en curso o terminado.
+
+\subsubsection{3.4.2.3 Progresión de Estudiantes y Evaluación de Resultados}
+
+De la Tabla 3.13 y en línea con lo expresado en el análisis de Vinculación con el medio, la posibilidad y necesidad cierta
+de un contacto fluido con los egresados ha sido y es una preocupación no tan solo del Programa sino del Departamento
+de Ingeniería Eléctrica. Es por ello que desde el año 2014 el Departamento ha creado formalmente la instancia del
+Alumni DIE, unidad encargada del vínculo permanente con los exalumnos. Además la unidad de ECODIE dedicada a
+Extensión del Departamento.
+
+En cuanto a la valoración del programa como aporte al desempeño, se aprecia una alta valoración. No obstante, se
+aprecia que el programa no aporta una mejora inmediata en términos de renta. Esto se debe principalmente a su perfil
+académico (investigación y desarrollo) que no encuentra directamente eco en el mercado laboral chileno. También
+incide el hecho de que los egresados de articulación se desenvuelve en un medio en que ya la renta de un Ingeniero
+de la Universidad de Chile es alta, por lo que el incremental es probablemente más perceptible una vez avanza en su
+carrera laboral. Esta última razón probablemente explique también la posibilidad de acceder a un mejor puesto laboral.
+
+\section{Fortalezas y Debilidades por cada Criterio de Evaluación, priorizadas}
+
+A lo largo de este Capítulo se desarrollan las fortalezas en base a lo descrito a través del informe. Además, se destacan
+las debilidades y oportunidades, con el objetivo de enlazar las debilidades con las oportunidades de mejora que serán
+propuestas en extenso en el Plan de Desarrollo.
+
+\subsection{Contexto Institucional}
+
+\textbf{Fortalezas:}
+
+\begin{itemize}
+	\item \textbf{Universidad de Calidad en Investigación y Docencia de Postgrado:} Tal como fue destacado en el Capítulo
+1, los indicadores de investigación institucional son sobresalientes y sustentan el desarrollo de sus programas
+de postgrado. Lo anterior está fuertemente reafirmado por los resultados de la acreditación institucional y
+especificado en la resolución final de la CNA [A.9]. Cabe destacar que la acreditación institucional considera y
+destaca como fortalezas las áreas de Investigación y docencia de Postgrado.
+	\item \textbf{Marco regulatorio:} La reglamentación y los mecanismos de regulación de los programas de postgrado de la
+Universidad de Chile son claros, adecuados y conocidos. Este punto se destaca en la acreditación institucional
+en lo que respecta a las áreas de docencia de Postgrado [A.9]. Se suma a esto la existencia de un marco
+reglamentario general para todos los programas de postgrado (Reglamento General de Estudios conducente
+a los grados académicos de Magíster y Doctor, aprobado por DU No0028011, de 2010, [A.7]. En éste se
+estipula el carácter de los programa, su definición y objetivo, los distintos órganos institucionales (locales
+y globales) que son responsables de conducirlo y garantizar con ello su adecuado funcionamiento, en lo
+operativo, y los procesos continuos de aseguramiento de calidad en lo estratégico. Este reglamento general
+junto a los Reglamentos Generales e Internos del Programa, dan un contexto reglamentario sólido que facilita
+la conducción de los programas de postgrado [A.7] [A.8]. Este punto es destacado con una alta valoración en
+todos los grupos encuestados (ver Sección 3.4.1.1).
+	\item \textbf{Orgánica Institucional Sólida:} Se destaca la existencia de un aparato institucional en distintas instancias para
+dar seguimiento a los aspectos operativos y al mismo tiempo permitir la ejecución de políticas estratégicas
+con miras a garantizar el continuo mejoramiento de los programas. A nivel institucional, se encuentra la
+Vicerrectoría de Asuntos Académicos (VAA) de la Universidad de Chile. A Nivel de la Facultad de Ciencias
+Físicas y Matemáticas, se encuentra la Escuela de Postgrado que es la responsable formal de la administración
+del Programa (desarrollado en extenso en el Capítulo 2). Finalmente a nivel de la unidad académica está
+el Comité Académico cuya principal responsabilidad es llevar adelante y ejecutar las responsabilidades del
+programa, según se detalla en el Reglamento General [A.7].
+\end{itemize}
+
+\textbf{Oportunidades:}
+
+\begin{itemize}
+	\item \textbf{La gestión del Programa presenta oportunidades de perfeccionamiento y mejoramiento.} Se observan
+posibilidades de mejoras en las definiciones y el trabajo conjunto con la Escuela de Postgrado, mejoras en la
+definición de roles y funciones internas. Para esto se propone un rediseño de la gestión interna del Programa
+y por ende la introducción de una organización interna de gestión con atribuciones y responsabilidades claras.
+Esta unidad de gestión será diseñada como complemento al rol del Comité Académico, que por ende debiese
+enfocar más de su tiempo a temas académicos y estratégicos del programa. Dicho rediseño será parte del Plan
+de Desarrollo y se espera incluirlo en el Reglamento Interno del Programa (ver Plan de Desarrollo, Sección
+[3.6]).
+\end{itemize}
+
+\subsection{Sistema de Organización Interna}
+
+\textbf{Fortalezas:}
+
+\begin{itemize}
+	\item Según lo indicado en la encuesta (ver Sección 3.4.1.4) hay un porcentaje mayoritario, en cada uno de los
+grupos, que indica que \textbf{el Programa funciona de manera eficiente y ordenada en términos académicos}
+(93.3\%, 82.6\% y 94.1\% de los académicos, estudiantes y egresados, respectivamente, indican estar muy de
+acuerdo y de acuerdo con esta afirmación).
+	\item Lo mismo se observa en líneas generales respecto a la \textbf{eficiencia de la administración del programa} (73.9\%
+y 94.1\% de los estudiantes y egresados, respectivamente, indican estar muy de acuerdo y de acuerdo con esta
+afirmación).
+\end{itemize}
+
+\textbf{Debilidades:}
+
+\begin{itemize}
+	\item Hay un espacio de mejora en los aspectos de gestión del programa. Esto se abordará como un rediseño del
+sistema de gestión del programa, como ya se mencionó anteriormente (ver Plan de Desarrollo).
+\end{itemize}
+
+\subsection{Características y Resultado del Programa}
+
+\textbf{Fortalezas:}
+
+\begin{itemize}
+	\item \textbf{Los graduados del Magíster en Ciencias de la Ingeniería, mención Eléctrica, son personas que
+demuestran originalidad en la aplicación del conocimiento a través del planteamiento y la resolución
+de problemas en el ámbito de Ingeniería Eléctrica.} Esto se evidencia en la encuesta a los egresados (ver
+Sección 3.4.1.2) del Programa donde el 94.1% declaran estar muy de acuerdo y de acuerdo en que el Programa
+cumplió sus objetivos y el perfil de egreso declarado por éste.
+	\item \textbf{El Programa muestra evidencias de cumplimiento sobresaliente de los objetivos declarados}, esto medido
+en el número de publicaciones ISI donde estudiantes y graduados del Programa participan (ver Sección 2.3.4.3).
+Además se evidencian egresados en programas de doctorados internacionales y estudiantes que siguen estudios
+de doctorado en nuestro programa, según la información entregada por la encuesta a egresados (ver Sección
+3.4.2.2).
+	\item \textbf{Se evidencia una activa participación de los estudiantes del Programa en proyectos de investigación
+concursables en calidad de tesistas.} Esto ratifica que existe un contexto formal en el Programa donde los
+estudiantes deben contribuir para lograr los objetivos formativos esperados de un magíster académico.
+	\item \textbf{Cada línea de investigación está compuesta por al menos 4 académicos del claustro, todo ellos activos
+en investigación.} Todas las líneas tienen académicos consolidados y académicos jóvenes con potencial de
+desarrollo. Esto evidencia un claustro diverso compuesto por académicos con consolidación internacional que
+le da peso al Programa y coherencia con los objetivos formativos de éste. Por otro lado, la baja edad promedio
+de los miembros del claustro (37 años) permite proyectar el Programa en el mediano-largo plazo.
+	\item \textbf{Se evidencia un cuerpo académico sólido y activo en términos de participación en proyectos concursables
+y contribuyendo positivamente a indicadores de productividad} (ver Sección [2.4]). En esta línea, el 100\% de
+los estudiantes activos, egresados y académicos del Programa declaran estar muy de acuerdo y de acuerdo que
+el cuerpo académico tienen una importante trayectoria académica (publicaciones, investigaciones y docencia)
+	\item En resumen, \textbf{las líneas de investigación muestran resultados sobresalientes en términos de publicaciones y
+de proyectos ejecutados.} Además hay varias líneas de investigación que se han fortalecido así como una buena
+cantidad de investigadores jóvenes en el claustro.
+	\item \textbf{La actividad de graduación del Programa es una instancia que permite constatar el cumplimiento de
+los objetivos del programa.} Como evidencia los egresados declaran en un 94.1\% estar muy de acuerdo y de
+acuerdo que la actividad de graduación respondió adecuadamente al enfoque del Programa y el perfil de egreso
+declarado por éste.
+	\item Se destaca la \textbf{alta valoración de los estudiantes encuestados a la labor del profesor tutor y profesor guía}
+(ver Sección 3.4.2.1), quienes juegan un rol central en garantizar que nuestros egresados cumplan el perfil de
+egreso declarado en el programa.
+\end{itemize}
+
+\textbf{Debilidades:}
+
+\begin{itemize}
+	\item No se detectan debilidades en esta dimensión.
+\end{itemize}
+
+\subsection{Progresión de estudiantes:}
+
+\textbf{Fortalezas}
+
+\begin{itemize}
+	\item Por diseño, \textbf{el Comité Académico del Programa asigna un tutor para guiar y supervisar el trabajo del
+estudiante desde el momento que ingresa al programa} [A.7]. La figura del tutor vela por la adecuada
+progresión del estudiante, y juega un rol central en la definición del plan de formación del estudiante y
+la orientación y definición de los objetivos y alcances de su tesis. Este diseño permite una estrategia de
+seguimiento descentralizada, lo que facilita un trato personalizado y de calidad para con los estudiantes desde
+su ingreso al Programa hasta su graduación. Como evidencia de la guía personalizada del tutor para con los
+estudiantes del programa, el Programa actualmente tiene un razón de 2.5 estudiantes por académico del claustro.
+	\item Por otro lado la \textbf{efectividad del rol del tutor se evidencia en la encuesta a estudiantes} (ver Sección 3.4.2.1)
+donde se indica que la figura del tutor es relevante en el desarrollo de los objetivos y del plan de estudio con
+una nota promedio de 6.4 (escala de 1 a 7). Por otro los estudiantes evalúan el rol del tutor en su cercanía,
+accesibilidad, pertinencia técnica e idoneidad con nota promedio 6.8 (escala de 1 a 7).
+	\item \textbf{El Comité Académico del Programa, regularmente revisa la situación de los estudiantes en términos de
+progresión.} Hay evidencia de reuniones del coordinador con los estudiantes y notificaciones para informar
+respecto al cumplimiento de los plazos del programa.
+	\item Del punto de vista de las herramientas de seguimiento y la gestión del programa, \textbf{existen instancias recientes
+de mejoramiento dentro de los que se destaca el sistema U-campus y la contratación de un nuevo equipo
+de gestión del programa} compuesto por el Jefe de Estudios y la Secretaria de Postgrado.
+	\item \textbf{Se evidencia una tasa de titulación promedio alta} (considerando el carácter académico del programa) que es
+de 77\%. La titulación de los estudiantes de articulación es de 84\%.
+	\item Respecto \textbf{al tiempo de permanencia el promedio corregido de permanencia es de 28.83 meses.} Este
+promedio es levemente superior al tiempo de diseño del Programa (24 meses) e inferior al tiempo máximo
+de 36 meses declarado en el Reglamento General de la Universidad de Chile.
+	\item Se evidencia una \textbf{baja tasa de deserción:} 11\% global y 8\% de articulación. Estos casos se encuentran
+adecuadamente justificados.
+\end{itemize}
+
+\textbf{Debilidades:}
+
+\begin{itemize}
+	\item Aun cuando en promedio el tiempo de titulación se considera razonable considerando el diseño del Programa
+(24 meses) y su carácter, \textbf{se constata un espacio de mejora en esta dimensión.} Esto es particularmente claro
+en el caso de los estudiantes externos. Dentro de las medidas que se han adoptado, destaca el nuevo plan de
+formación del Programa que contempla que el segundo año sea de dedicación exclusiva al trabajo de Tesis y una
+disminución de los cursos electivos del programa. Además se perfeccionan las instancias formales de entregas
+de informes de avance en los ramos obligatorios del plan de formación, Tesis I y Tesis II del programa. Esto se
+desarrollará en extenso en el Plan de Desarrollo.
+	\item Otra dimensión perfectible y donde hay espacios para mejorar es la \textbf{tasa de titulación de estudiantes externos.}
+En esta línea, el Plan de Desarrollo destaca la modificación del plan de formación y la introducción formal de
+cursos de nivelación como electivos del Programa.
+	\item \textbf{Se evidencia un espacio de mejora en lo que respecta al seguimiento de estudiantes desde la
+administración/coordinación del Programa}, en virtud del resultado de la encuesta a estudiantes activos del
+Programa (ver Sección 3.4.2.3).
+\end{itemize}
+
+\subsection{CUERPO ACADÉMICO}
+
+\textbf{Fortalezas:}
+
+\begin{itemize}
+	\item \textbf{22 de los 23 miembros del claustro académico del Programa son profesores de jornada completa} (44 horas
+de dedicación semanal a actividades académicos) activos en investigación. Esto es completamente coherente
+con el carácter de Programa y es al mismo tiempo su sustento basal.
+	\item \textbf{El claustro se ha consolidado desde la última acreditación}, con mayor cantidad de profesores titulares (6
+de 23) y con la incorporación de académicos jóvenes. Dentro de este contexto, 91\% de los miembros del
+claustro han obtenidos sus doctorados en el extranjero en prestigiosas universidades y el 100\% tiene redes de
+colaboración internacional y cuenta con reconocimiento internacional, medido esto último en publicaciones ISI
+y en participaciones activas en conferencias de las respectivas disciplinas del programa.
+	\item En estos últimos 10 años el \textbf{cuerpo académico se ha diversificado e internacionalizado.} En la actualidad
+tenemos un número importante de académicos extranjeros.
+	\item A nivel del marco institucional de la Universidad de Chile, \textbf{existen garantías para que los académicos de
+jornada completa de la unidad que alberga este Programa mantengan una dedicación y sean productivos
+en investigación.} Para ello existen procesos formales de evaluación y calificación institucionales que velan por
+la adecuada progresión y consolidación del cuerpo académico del programa.
+	\item En las actualidad se constata la \textbf{existencia de áreas de investigación balanceadas y con buena proyección en
+el corto y mediano plazo.}
+	\item \textbf{Todos los académicos participan y lideran proyectos concursables de investigación.} Se destaca la
+significativa participación en proyectos Fondecyt (regular, iniciación) y proyectos de carácter interdisciplinario
+y colaborativo (Institutos Milenio, centros basales, Fondap, Anillos, etc.).
+	\item \textbf{Los académicos del claustro mantienen una productividad consistente en el tiempo en términos de
+publicaciones ISI.} En el último periodo se observa un aumento superando la barrera de los 2 artículos por
+académico por año.
+	\item \textbf{El 100\% de los egresados y estudiantes encuestados del Programa considera que el cuerpo académico
+es idóneo} en virtud del carácter del Programa en aspectos relacionados a: conocimiento, actualización en las
+temáticas que desarrollan y su manejo teórico (ver Sección 3.4.1.6).
+	\item \textbf{El 100\% de los egresados y estudiantes encuestados del Programa declara que la trayectoria del cuerpo
+académico es importante y coherente} con la naturaleza del Programa (ver Sección 3.4.1.6).
+\end{itemize}
+
+\textbf{Debilidades:}
+
+\begin{itemize}
+	\item No se detectan debilidades en esta dimensión.
+\end{itemize}
+
+\textbf{Oportunidades:}
+
+\begin{itemize}
+	\item \textbf{Los profesores presentan una alta carga de trabajo debido a la multiplicidad de funciones y a la gran
+cantidad de proyectos en los que participan. Teniendo en cuenta que una porción de dicha carga es en
+funciones administrativas, se posibilita un espacio de mejora.} En esta línea recientemente se han creado
+y fortalecido las instancias para alivianar los aspectos administrativos del Programa, que en su diseño original
+recaen en el Comité Académico y el Claustro del Programa. En particular se amplió el equipo de gestión
+docente por medio la contratación de una nueva secretaria y la incorporación de un Jefe de Estudios. La figura
+del Jefe Estudios contratado en 2014 con un perfil profesional es un hecho inédito y un mecanismo que permite
+desarrollar el Programa. Además, una parte de las funciones administrativas se han trasladado a la Escuela de
+Postgrado, análogamente a lo que ocurre en forma consolidada con la Escuela de Pregrado de la FCFM.
+\end{itemize}
+
+\subsection{RECURSOS DE APOYO}
+
+\textbf{Fortalezas:}
+
+\begin{itemize}
+	\item \textbf{El Programa cuenta con variados y complejos laboratorios de docencia e investigación} (Autoevaluación
+5.1.1). Esto permite una formación integral de los estudiantes. Los laboratorios de investigación se mantienen
+actualizados con los fondos de investigación obtenidos por los académicos responsables de ellos.
+	\item \textbf{El Programa cuenta con una amplia selección de material bibliográfico} (Autoevaluación 5.1.2).
+	\item \textbf{Los miembros del claustro participan activamente en actividades de divulgación de su investigación}
+(Autoevaluación 5.2.1). Para fomentar también la participación de estudiantes, se ha extendido el beneficio
+de asistencia a congresos a los estudiantes del Programa. Este beneficio estaba anteriormente enfocado a
+estudiantes de doctorado.
+	\item \textbf{El Programa se encuentra fuertemente integrado a las actividades del Departamento de Ingeniería
+Eléctrica y de la Facultad} (Autoevaluación 5.2.3). De esta manera se beneficia y nutre del excelente cuerpo
+académico y centros de investigación de los que ambos disponen.
+	\item \textbf{El apoyo institucional}, destacado fuertemente en los Capítulos I y II de este informe, \textbf{muestra evidencia de
+que facilita y fomenta los vínculos a nivel internacional.} Esto es fácilmente comprobable en lo referente a
+los académicos y a los egresados que continúan estudios fuera de Chile.
+\end{itemize}
+
+\textbf{Debilidades:}
+
+\begin{itemize}
+	\item De los resultados de la encuesta (ver Sección 3.4.1.7 ), es posible identificar que los laboratorios docentes
+necesitan una politica de revisión y actualización para mantenerlos vigentes.
+	\item De los resultados de la encuesta (ver Sección 3.4.2.3 ), se observa además un espacio de mejora en lo que
+respecta a formalizar y sistematizar la vinculación con el medio externo.
+\end{itemize}
+
+\textbf{Oportunidades:}
+
+\begin{itemize}
+	\item El Programa cuenta con amplias relaciones internacionales (ver Sección 2.5.1). Sin embargo, ello no se ha
+traducido en convenios de cotutelas y pasantías y afines formalizados y sistematizados.
+\end{itemize}
+
+\subsection{CAPACIDAD DE AUTORREGULACIÓN}
+
+\textbf{Fortalezas:}
+
+\begin{itemize}
+	\item \textbf{La estructura reglamentaria de la Universidad de Chile es clara} en lo que respecta a los programas
+conducentes a los grados de magíster y doctorado [A.7].
+	\item \textbf{En lo que respecta a aseguramiento de la calidad y los procesos de acreditación, el estándar de la
+Universidad de Chile es alto y define objetivos claros y responsabilidades concretas} (ver Párrafo 3 del
+Reglamento General de la Universidad de Chile [A.7]).
+	\item \textbf{El estándar de la Universidad de Chile en su reglamentación vigente define procesos formales de
+autoevaluación cada 5 años como máximo} (artículo 17 Reglamento General de la Universidad de Chile [A.7]).
+	\item Coherente con la reglamentación, \textbf{hay entidades académicas y administrativas encargadas de seguir y
+velar por el continuo proceso de mejora del Programa.} En orden de jerarquía, se reconoce una unidad
+en la Vicerrectoría de Asuntos Académicos (VAA) a nivel central de la Universidad de Chile que supervisa
+a los programas en lo referente a planes de mejora y brinda seguimiento y apoyo a los procesos formales
+de autoevaluación. A nivel local, se encuentra la Escuela de Postgrado de la Facultad de Ciencias Físicas y
+Matemáticas, liderada por su director, que es la responsable que todos los programas impartidos en la Facultad
+cumplan los estándares y criterios esperados [A.7]. Adicionalmente esta unidad ofrece apoyo y seguimiento a
+los procesos de autoevaluación. Finalmente el Comité Académico del Programa, liderado por su coordinador,
+es el encargado de liderar los aspectos de análisis y mejora continua del Programa y de ejecutar los procesos
+formales de autoevaluación.
+	\item Hay evidencia que acredita que \textbf{la capacidad de autorregulación del Programa es un proceso continuo.} Esto
+se evidencia en las continuas reuniones del Comité Académico del Programa donde una proporción importante
+del tiempo se abordan temas estratégicos y se proponen medidas para mejorar los aspectos académicos y
+de gestión del Programa. Prueba de ello son los periódicos cambios hechos a los reglamentos internos del
+Programa, y la reciente elaboración de un nuevo Reglamento General del Programa que se hace cargo de
+mejoras evidenciadas en el presente proceso de autoevaluación (detalles en Plan de Desarrollo 3.6).
+	\item \textbf{A nivel central los procesos de mejoramiento son continuos.} Prueba de ello son los continuos esfuerzos
+por mejorar los aspectos académicos y de gestión de todos los programas, por medio de modificaciones
+reglamentarias para definir estándares altos en estas materias. También a nivel de la Escuela de Postgrado
+se observa un rediseño de sus procesos de gestión y organigrama para asegurar que los procesos y servicios
+ofrecidos sean eficientes y cumplan altos estándares. Evidencia de esto son las continuas reuniones de la Escuela
+de Postgrado con todos los coordinadores de programas, donde se abordan y proponen medidas para mejorar
+la calidad de todos los programas, en sus aspectos académicos y de gestión. Otra evidencia es la creación del
+nuevo Reglamento General conducente a los grados de Magíster y Doctorado (Octubre 2010), que sin duda
+establece estándares muy elevados en lo que respecta a la capacidad de autorregulación y las definiciones que
+facilitan dichos procesos.
+\end{itemize}
+
+\textbf{Debilidades:}
+
+\begin{itemize}
+	\item \textbf{En capacidad de autorregulación se observa un espacio de mejora en lo que respecta a la gestión del
+Programa} y, por otro lado, \textbf{se ve una oportunidad para mejorar los procesos de evaluación permanentes de
+su desempeño.} En lo primero, la idea es proponer un nuevo diseño de la gestión administrativa del Programa,
+que permita relajar el tiempo que actualmente utiliza el coordinador y su comité en temas relacionados con
+la gestión administrativa del Programa. Esto permitiría hacer un uso más eficiente del tiempo del comité
+que redunde en una mayor dedicación a los aspectos de aseguramiento de la calidad del Programa y temas
+estratégicos. Por otro lado, la idea es que esta nueva unidad de gestión también trabaje en el diseño y generación
+de indicadores de desempeño (cualitativos y cuantitativos), para que de esta forma el comité tenga acceso a
+evidencia del desempeño a una tasa anual e idealmente semestral. Se suma a esto la idea de tener una toma de
+datos, vía encuesta, continua de los egresados del Programa.
+\end{itemize}
+
+\section{Plan De Desarrollo}
+
+El Plan de Desarrollo responde al desarrollo estratégico del Programa así como a las fortalezas, debilidades y
+oportunidades detectadas a lo largo del proceso de autoevaluación. Para la elaboración de las Tablas 3.14, 3.15 y
+3.16 que resumen este plan, se elabora una descripción general del conjunto de medidas centrales que se propone llevar
+a cabo en el corto y mediano plazo. Para ello cada medida es identificada con su nombre, una descripción general, su
+objetivo y de qué forma se hace cargo de las debilidades y oportunidades evidenciadas. Se destaca en el diseño del Plan
+de Desarrollo una visión sistémica, donde más que un conjunto de medidas aisladas que ataquen debilidades puntuales,
+se privilegia el desarrollo de medidas macro que apunten a superar un conjunto de debilidades (y potencien fortalezas),
+cuando sea posible.
+
+\begin{enumerate}
+	\item \textbf{NUEVO DISEÑO DE GESTIÓN DOCENTE:} Se propone el rediseño completo de la gestión docente del
+Programa involucrando el organigrama, el equipo profesional a cargo, descripción de las competencias del
+equipo, sus responsabilidades y atribuciones, y la forma en que sus actividades están interrelacionadas. Este
+rediseño involucra la identificación de todas las tareas de gestión docente, y el diseño de un flujo operativo.
+El objetivo es garantizar tiempos de respuesta en el acceso a información de las distintas etapas del Programa
+para los estudiantes, sus profesores guías, y el Comité Académico. Al mismo tiempo se espera que el diseño
+permita generar indicadores de la progresión de los estudiantes en el Programa en tiempo real, al mismo tiempo
+de indicadores a nivel del Programa que permitan evaluarlo de forma continua y con ello hacer más eficiente los
+insumos requeridos para los procesos de autoevaluación. Al final de este rediseño se espera generar: el nuevo
+organigrama del equipo de gestión docente, protocolos para todos los servicios ofrecidos a los estudiantes,
+tutores y coordinadores del Programa, nuevo reglamento interno del Programa. El plan es hacer el diseño el
+primer semestre de 2016, implementar una marcha blanca en el segundo semestre de 2016, y llegar al formato
+definitivo operando a partir de 2017.
+
+	\item \textbf{PROCESO DE SEGUIMIENTO Y AUTOEVALUACIÓN PERMANENTE:}
+Alineado con los nuevos estándares de aseguramiento de calidad que impone el nuevo Reglamento General
+de la Universidad de Chile, se espera implementar un sistema de seguimiento que permita hacer evaluaciones
+periódicas de los indicadores del Programa. En esta línea, se propone implementar un sistema de seguimiento
+del Programa que genere una instancia de revisión anual con los indicadores más importantes de éste.
+Dicha revisión será elaborada por el coordinador y revisado por el Comité Académico en primera instancia.
+Finalmente este informe será presentado a los miembros del claustro con el objeto de seguir los indicadores
+del Programa y evidenciar el cumplimiento del Plan de Desarrollo comprometido en este proceso. El primer
+informe se compromete para Diciembre del 2016 y así para los siguientes años. Complementando estas entregas
+anuales de seguimiento, se implementará un proceso completo de autoevaluación cada 5 años según lo indicado
+en el Reglamento General [A.7].
+El estándar y los criterios deben ser coherentes con los procesos vigentes a la fecha de la generación de dicho
+documento. El primero tendrá fecha de entrega Diciembre del 2020, independiente de los resultados del presente
+proceso. Finalmente, el objetivo de estas dos medidas es ir en línea con las nuevas exigencias impuestas por la
+Universidad de Chile respecto al aseguramiento de calidad de sus programas de Magíster y Doctorado.
+
+	\item \textbf{NUEVO PLAN DE FORMACIÓN:} En virtud de la evidencia observada en los tiempos de permanencia del
+Programa, la duración del trabajo de tesis y el desempeño de los estudiantes externos (no articulados), en
+este plan de desarrollo se propone hacer cambios en el Plan de Formación del Programa. Específicamente, se
+proponen cambios que apuntan a dos aspectos concretos:
+
+		\begin{enumerate}
+		\item Formalizar (en los cursos obligatorios del Programa) una dedicación exclusiva de un año al trabajo de tesis
+		\item Ampliar la oferta de cursos electivos incluyendo nuevos cursos de especialidad (post licenciatura) que tengan un carácter de formación general y de fundamentos.
+		\end{enumerate}
+
+La primera medida apunta a garantizar un incremento a la dedicación formal a la tesis en el Plan de Formación
+que, en conjunto con un mayor seguimiento, mejore el cumplimiento de los plazos esperados: 4 semestres en
+promedio y 6 semestres como máximo. En esta línea, se duplica la dedicación de los ramos de Tesis I y Tesis
+II de 12 créditos a 24 créditos. Por otro lado, para mantener el Programa en 4 semestres, se disminuyen de
+60 a 48 créditos los cursos electivos. Respecto a la segunda medida, el listado de cursos electivos incluirá un
+conjunto de cursos de formación general asociados a las líneas de especialización cultivadas en el Programa.
+Esto es una flexibilidad adicional que permite una mejor adaptación a las exigencias académicas del Programa
+a estudiantes externos (no articulados con el pregrado), donde se ha observado que requieren tomar cursos
+de nivelación (formación general) para poder posteriormente cursar con éxito materias más avanzadas de la
+disciplina escogida. A la fecha se ha propuesto el nuevo diseño y se ha discutido su estructura con el Comité
+Académico y el claustro del Programa. En los siguientes 6 meses se espera afinar los criterios que definen los
+cursos electivos del Programa y con ello llegar a la lista definitiva de electivos. Se espera que el nuevo Plan de
+Formación entre en vigencia el primer semestre del 2016.
+
+	\item \textbf{INFORMES DE PROGRESIÓN PARA LOS CURSOS DE TESIS:} Para aprobar los cursos de Tesis I y
+Tesis II (obligatorios), la coordinación solicitará un informe donde se acredite el estado del trabajo de tesis
+y el nivel de progreso logrado en el marco de dicho curso. Se espera que el informe desarrolle al menos los
+siguientes Capítulos del trabajo de tesis: introducción, metodología propuesta, resultados parciales y trabajo
+futuro. En específico la sección de trabajo futuro debe expresar de forma clara el nivel de progreso de la tesis y
+un plan de trabajo con plazos que respeten y hagan factible el término de la tesis en los plazos reglamentarios
+del Programa. Este documento debe ser presentado por el estudiante al Comité del Programa con el apoyo de
+su profesor guía. El comité revisará el documento y informará al estudiante respecto al progreso mostrado y si
+es necesario hacer modificaciones. En el caso de Tesis II este informe puede ser reemplazado por el documento
+de tesis terminado.
+
+	\item \textbf{NUEVAS MEDIDAS PARA EL SEGUIMIENTO DE ESTUDIANTES:} Complementando las medidas
+anteriormente elaboradas, se propone que cada profesor tutor y guía de tesis elabore un informe semestral
+indicando el desempeño de su estudiante tanto en el cumplimiento del plan de formación (cursos electivos),
+como en la progresión de su trabajo de tesis. Para ello se propone el diseño de una plataforma en línea (web)
+donde el profesor evalúe a su estudiante de forma cuantitativa en dimensiones estándares y también haya espacio
+para preguntas abiertas y comentarios. Esta información será analizada semestralmente por el coordinador para
+efectos de identificar posibles casos de riesgo. En complemento con las anteriores medidas, ésta apunta a
+mejorar la comunicación entre la coordinación del Programa y los profesores guías de tesis o tutores, para
+detectar de forma temprana posibles casos de estudiantes con mayor riesgo de no cumplir las exigencias
+del Programa, o que tengan un tiempo excesivo de permanencia en éste. En este escenario el coordinador
+programará reuniones con los estudiantes y tutores involucrados para discutir y definir planes de contingencia.
+Se propone diseñar este sistema durante el primer semestre del 2016 e implementarlo a partir del segundo
+semestre del 2016.
+
+	\item \textbf{ENCUESTA A LA SALIDA DEL PROGRAMA:} Se propone diseñar una encuesta a la salida del Programa
+para todos los estudiantes. Esto busca contar con mayor información a ser utilizada en los planes de
+mejoramiento y seguimiento del Programa. Se espera hacer el diseño de dicha encuesta el durante el 2016
+y partir su ejecución cada semestre a partir de Otoño del 2017.
+
+	\item \textbf{AYUDAS DE VIAJES:} Se propone ofrecer un Programa de ayuda de viaje permanente para los estudiantes
+del Programa con el objetivo de financiar parcial o totalmente la participación en conferencias internacionales.
+Se propone hacer dos llamados por año. Se pondrá prioridad en la presentación de trabajos en calidad de
+primer autor que sean producto del trabajo de tesis de los estudiantes. Esta medida busca mejorar la visibilidad
+del Programa a nivel internacional y, por otro lado, generar un incentivo positivo para nuestros estudiantes.
+Se comenzó con un plan piloto de este Programa de ayuda el presente año 2015 ofreciendo un total de 10
+becas de forma conjunta para los estudiantes de magíster y doctorado (ver Anexo [A.31]). Este Programa será
+revisado todos los años: actualizando los criterios de selección, los montos y cantidad de becas asignadas. Se
+espera mantener esta medida y propender a un patrón de aumento del monto asignado a este instrumento en los
+siguientes años.
+
+	\item \textbf{CHARLAS INFORMATIVAS SEMESTRALES:} El equipo de gestión docente y la coordinación se
+encargarán de ofrecer todos los semestres charlas informativas orientadas a los estudiantes que ingresen al
+programa. Estas charlas tienen el objetivo de informar a los estudiantes de todos los aspectos que son relevantes
+para su adecuada inserción en el programa. Dentro de ello se destaca la información de los Reglamentos
+Generales, Plan de Formación, Becas y ayudas disponibles, información de los aranceles, información del
+equipo de gestión docente y la coordinación, criterios de graduación, etc. El público objetivo son todos los
+estudiantes del programa, poniendo especial énfasis en los estudiantes externos (no articulación), donde se
+evidencia un espacio importante de mejora en esta dimensión. Esta medida ya fue adoptada el semestre otoño
+2015 y será de carácter permanente en los semestres que vienen. Además se confeccionará y entregará un
+material impreso que resuma los reglamentos y los aspectos principales.
+
+	\item \textbf{DIFUSIÓN:} Una medida concreta en esta línea es el rediseño completo de la plataforma web del Departamento
+de Ingeniería Eléctrica donde se propone hacer una mejora importante de sus contenidos para divulgar las
+actividades del Departamento y sus programas. Se considera que ésta es la plataforma central para divulgar
+el Programa y sus actividades de investigación. Adicionalmente como una forma de mantener las políticas de
+captación de alumnos externos, se contempla reforzar las campañas de difusión a nivel nacional e internacional.
+En este sentido actualmente la Escuela de Postgrado realiza giras en Latinoamérica realizando difusión de
+toda la oferta de Postgrados de la Facultad. La difusión en forma permanente ha permitido disponer de un
+tríptico y póster para el programa, el que ha sido repartido en distintas actividades de promoción, medida que
+se mantendrá en los años venideros. Se incluirá además el desarrollo de charlas de memoristas de postgrado
+abiertas a la comunidad como una forma de extensión y difusión.
+
+	\item \textbf{VÍNCULO CON EGRESADOS:} Se propone hacer jornadas informativas anuales y de encuentro con los
+egresados del programa, en el marco del plan de actividades de la unidad ALUMNIdie del Departamento de
+Ingeniería Eléctrica. Esta unidad del departamento busca generar vínculos formales con nuestros egresados para
+mantenerlos informados de las actividades del Departamento y explorar espacios de vinculación (programas
+de formación continua, proyectos, actualización de los perfiles de egreso de los programas, etc.). La unidad
+encargada de gestionar y llevar a cabo estas actividades es ALUMNIdie donde se cuenta con un presupuesto
+anual y personas responsables de llevar a cabo actividades de vinculación en beneficio del Departamento, sus
+programas y egresados. En esta dirección recientemente se ha habilitado una página web que será la plataforma
+preferente para vincularse con los egresados del programa\footnote{\url{http://www.alumnidie.cl}}.
+\end{enumerate}

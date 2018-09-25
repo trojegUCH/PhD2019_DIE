@@ -1,0 +1,229 @@
+La fortaleza de nuestras líneas de investigación se destaca en lo expuesto por la CNA en la
+resolución de la acreditación de la carrera de Ingeniería Civil Eléctrica [A.21]:
+
+``La actualización de los académicos de la Facultad, en sus áreas de especialidad, es
+permanente: es parte de los requisitos de contratación, ya que todo un nuevo docente debe
+contar con el grado de doctor; además, la Facultad cuenta con una política que fomenta la
+investigación, por lo que los académicos desarrollan proyectos conjuntos con pares a nivel nacional
+e internacional, publican constantemente en revistas y conferencias de prestigio y participan en
+los congresos principales del área. Está definido que académicos de jornada parcial de la carrera
+participen de instancias de planificación y gestión de la misma. Dada la eficaz vinculación con el
+medio externo que mantienen los académicos de la carrera, la injerencia del medio en sus instancias
+de planificación es permanente.''
+
+Además este ámbito se fortalece con la voluntad y tradición institucional en investigación y
+docencia de Postgrado, punto que también ha sido confirmado por la CNA en la resolución de la
+Acreditación Institucional [A.9].
+
+\subsubsection{Convenios de apoyo vigentes}
+
+Ya que todos nuestros académicos han realizado sus estudios doctorales en el extranjero y/o
+tienen experiencia internacional de algún tipo, han logrado mantener y desarrollar colaboraciones
+internacionales. Además, debido a su influencia a nivel nacional, también han logrado
+desarrollar colaboraciones a este nivel. Esto ha resultado en que un porcentaje importante de
+las publicaciones sean colaborativas, además de estudiantes de magíster que también participan
+de estas colaboraciones (ver Sección 5.2.1 del Formulario de Acreditación). Sin embargo, pocas
+de estas iniciativas se han formalizado debidamente en la forma de convenios o de desarrollo de
+cotutelas.
+
+\subsubsection{Actividades con participación de académicos y estudiantes del programa}
+
+En el periodo 2010-2014 los académicos y estudiantes del Programa han participado en 79
+actividades (promedio de 1 actividad por académico por año) de divulgación científica. De ellas,
+19 corresponden a eventos nacionales y 60 a internacionales. Esto evidencia la alta participación
+de los miembros del Programa en actividades de divulgación.
+
+La participación en estas actividades se da principalmente a través de los académicos de donde
+permea a los estudiantes. El financiamiento para la participación proviene principalmente de los
+proyectos de investigación de los académicos. Sin embargo, desde el 2015 el Comité de Postgrado
+ha extendido su apoyo de viajes hacia estudiantes del Programa de Magíster a través de un concurso
+donde se privilegia la presentación de trabajos en congresos internacionales [A.31].
+
+\subsubsection{Vinculación a través de la Investigación}
+
+Política de Facultad La FCFM tiene como preocupación central el desarrollo de investigación
+en ciencias y tecnología, además de la formación de recursos humanos del más alto nivel. Con un
+cuerpo de alrededor de 220 académicos de jornada completa, se ha logrado un nivel de competencia
+reconocido en la institución y en el ámbito nacional e internacional. A la fecha, 12 académicos de
+la Facultad han recibido el premio nacional de ciencias.
+
+La competitividad de la Facultad en investigación se manifiesta en su participación en
+diferentes fondos nacionales concursables. La Facultad tiene actualmente 112 proyectos Fondecyt
+regular en ejecución, 14 proyectos Fondef vigentes y 4 centros de excelencia en investigación en
+áreas prioritarias, 3 centros científicos y tecnológicos de excelencia con financiamiento basal, 3
+centros de investigación en energía, energía solar y geotérmica.
+
+Los académicos de la Facultad tienen una producción científica anual medida en N$^o$ de Papers
+ISI / N$^o$ de académicos jornada completa de 1.56 en 2012. La tendencia de productividad ha
+sido creciente, siendo de 334 papers ISI el 2012; de ellos, 178 papers en categoría ISI = Q1. La
+cantidad de citas totales recibidas por estas publicaciones ISI superó las 9.000 el 2012, mostrando
+una tendencia al alza que incluso supera al aumento general de la cantidad anual de publicaciones
+indexadas, lo que refleja la pertinencia e impacto de los resultados de las investigaciones realizadas
+en la Facultad.
+
+En 2013 se mantenían en régimen 184 proyectos de investigación e I\&D, entre los que se
+incluyen nueve programas mayores de investigación e I\&D, en los que participa el 95\% de los
+académicos con jornada completa. Estos proyectos también están integrados por post-doctorantes
+y estudiantes de postgrado.
+
+Actualmente la Facultad cuenta con 3 Centros de Facultad y 8 unidades de investigación
+avanzada, en los que están involucrados más del 60\% del cuerpo académico de jornada completa, 60
+post-doctorantes y 40 tesistas de doctorado. En ellos se realiza la mayor actividad de vinculación
+con el sector productivo y la sociedad, con énfasis en la creación de conocimiento, desarrollo
+y transferencia tecnológica. Cada uno es líder en su disciplina en el país. De estos centros
+destacamos a continuación 2 que son liderados por académicos del DIE, y otros 5 en los que
+participan fuertemente académicos del DIE.
+
+\begin{itemize}
+\item Centro Avanzado de Tecnología para la Minería (AMTC), Director: Dr. Javier Ruiz Del
+Solar (DIE)
+\item Centro de Investigaciones en Energía Solar (SERC-Chile), Director: Dr. Rodrigo Palma
+Behnke (DIE)
+\item Instituto de Sistemas Complejos de Ingeniería (ISCI), Director: Dr. Andrés Weintraub
+Pohorille
+\item Centro de Modelamiento Matemático (CMM), Director: Dr. Alejandro Jofré Cáceres,
+ajofre@dim.uchile.cl
+\item Instituto Milenio de Astrofísica (MAS), Director: Dr. Mario Hamuy,
+\item Centro Basal de Astrofísica y Tecnologías Afines (CATA), Director: Dr. María Teresa Ruiz
+\end{itemize}
+
+Departamento de Ingeniería Eléctrica El DIE tiene como misión la enseñanza superior
+(pregrado y postgrado), la investigación y la extensión en las distintas especialidades de la
+Ingeniería Eléctrica y disciplinas afines. Su actividad está fuertemente ligada al entorno
+universitario y se caracteriza por su vinculación con el sector productivo del país y con el ambiente
+académico internacional. Como unidad de la Universidad de Chile asume la responsabilidad
+nacional y pública que le corresponde. Existen estructuras organizacionales que aseguran el vínculo
+sistemático con el medio externo, como el Centro Avanzado de Tecnología para la Minería (AMTC
+por su sigla en inglés), el Centro de Energía y el Centro de Innovación del Litio, que son liderados
+por académicos y profesionales del DIE. La gran mayoría de los académicos jornada completa
+del DIE participa en alguna de estas iniciativas. Estos centros poseen personal especializado en
+transferencia tecnológica que se encarga de vincular la investigación y proyectos de pregrado con
+problemas aplicados en la industria.
+
+Centro de Energía
+
+Director: Guillermo Jiménez-Estévez, Doctor en Ingeniería Eléctrica.
+
+Sitio web: http://www.centroenergia.cl
+
+Personal: 3 doctores en Ingeniería Eléctrica, 8 ingenieros civiles eléctricos y mecánicos, 1
+diseñador, 2 administrativos
+
+Misión: Contribuir al ámbito energético, desarrollando e introduciendo soluciones
+tecnológicas novedosas y de calidad, relevantes para el desarrollo nacional y competitivas
+internacionalmente. Encauzar el potencial de la FCFM en investigación, innovación y desarrollo
+hacia asociaciones productivas con la industria y colaboraciones académicas estratégicas. La
+Figura 14 describe la relación del Centro de Energía con distintos actores del medio como son
+las empresas, universidades, acuerdos de cooperación, gestores y fondos concursables.
+
+A continuación se describen las tres áreas prioritarias de desarrollo en el Centro de Energía:
+
+Redes inteligentes y generación distribuida: El desarrollo de nuevas tecnologías de generación
+de electricidad, el aprovechamiento de los recursos energéticos distribuidos, y la participación
+activa de los usuarios finales en el control de sus respectivos consumos, constituyen una realidad
+que ha provocado un cambio de paradigma en la concepción de los sistemas eléctricos de
+potencia, migrando de las grandes plantas de electricidad a la inserción de pequeños Generadores
+Distribuidos (GD). Sin embargo, la inserción adecuada de GD obedece a mecanismos de
+coordinación para evitar, entre otros, congestiones de red y un deficiente aprovechamiento de los
+recursos, lo que origina el concepto de Smart Grids o Redes Inteligentes.
+
+Vehículos eléctricos y sistemas de acumulación: Soluciones técnicas para el diseño de autos
+eléctricos, investigación sobre sistemas de carga rápida para migración tecnológica hacia vehículos
+eléctricos y concentración de demanda energética para centros de carga.
+
+Desarrollo de herramientas de apoyo a la toma de decisiones: Planificación y operación
+de sistemas eléctricos de potencia, análisis técnico-económico de sistemas y redes eléctricas,
+estabilidad, determinación de generación eólica en Chile, guías para empresas y juego de la bolsa
+eléctrica, entre otras herramientas.
+
+Centro de Innovación del Litio
+
+Director: Jaime Alee, Ingeniero Civil Electricista, Universidad de Chile.
+
+Sitio web: http://www.pcil.cl
+
+Misión: Crear un espacio creativo para emprendedores, científicos y empresas que deseen
+participar en el gran reto de I+D de baterías de Litio y atacar de esta forma los problemas críticos
+de la industria de los vehículos eléctricos y energías renovables no convencionales.
+
+El proyecto CIL es una iniciativa del Centro de Energía de la FCFM, SQM, Rockwood Lithium
+y Marubeni quienes se unieron para fundar un proyecto de creación de un centro de investigación
+y desarrollo en torno a las baterías de Ion-Litio, como una forma de crear valor para la ciencia y la
+industria del país.
+
+Centro Avanzado de Tecnologías para la Minería
+
+Director: Javier Ruiz del Solar, Ph.D., Profesor Titular, DIE-UCHILE.
+
+Sitio web: http://www.amtc.cl
+
+Misión: Generar investigación multidisciplinaria de clase mundial, transferir nuevas
+tecnologías y formar capital humano avanzado respondiendo a los desafíos de una minería que
+asegure el bienestar y el desarrollo para Chile y el mundo.
+
+El Centro Avanzado de Tecnología para la Minería (AMTC por su sigla en inglés) fue
+creado en marzo de 2009, luego de ser seleccionado por el Programa de Investigación Asociativa
+de CONICYT en el marco del Programa de Financiamiento Basal para centros científicos y
+tecnológicos de excelencia. El AMTC ha logrado consolidar e integrar las actividades de 5 grupos
+de investigación con vasta experiencia en la formación de investigadores y profesionales de primer
+nivel, así como en el desarrollo de actividades científicas de excelencia. Éstos son: Exploración
+y Modelamiento de Yacimientos, Diseño y Planificación Minera, Procesamiento de Minerales y
+Metalurgia Extractiva, Automatización en Minería, Agua y Sustentabilidad Ambiental. Asimismo,
+el AMTC ha logrado establecer importantes acuerdos de cooperación e iniciativas conjuntas de
+investigación con centros científicos y tecnológicos de clase mundial. Entre sus socios cuenta con
+la participación de Codelco y BHP Billiton Metales Base, cuyos representantes son miembros de su
+Directorio, y un grupo humano compuesto por 167 investigadores. En la actualidad, el Centro posee
+un edificio institucional de cuatro plantas (1.232 m2), las cuales albergan las oficinas centrales, 10
+laboratorios de investigación y áreas de trabajo colaborativo.
+
+Proyectos Concursables y Publicaciones Los proyectos concursables obtenidos por los
+académicos del DIE en los últimos tres años, se detallan en la Tabla 2.4. Los académicos del
+DIE son directores de proyectos de investigación de envergadura como el fondo basal AMTC y el
+FONDAP de Energía Solar. Tienen un muy buen nivel de productividad en investigación, lo que se
+ve reflejado en la gran cantidad de publicaciones en revistas ISI, que se encuentran listadas en la
+página web del DIE, cuya evolución se resume en la Figura 2.7.
+
+\subsubsection{Vinculación con el medio nacional}
+
+Se cuenta con una creciente y sistemática interacción con el medio externo nacional, manifestada
+en proyectos conjuntos con empresas, abundante oferta de prácticas profesionales, diplomados y
+postítulos. Varios proyectos de investigación y desarrollo cuentan con partners industriales como
+por ejemplo proyectos Corfo-Innova y Fondef (ver lista completa en Tabla 2.4).
+
+El DIE definió el año 2008 una pauta con los niveles de cooperación con la industria y
+otras instituciones. Con varias instituciones/empresas se cuenta con un convenio especial de
+colaboración. Un ejemplo es el convenio firmado entre la Universidad de Chile y Associated
+Universities Inc. (AUI), que es el representante estadounidense del ALMA. A través de
+este convenio AUI financió USD\$382.000 para ayudar a formar el grupo de instrumentación
+astronómica en el DIE entre los años 2009 y 2013. Este convenio establece oportunidades para
+académicos y estudiantes de recibir entrenamiento gratuito en ALMA, entre otras cosas.
+
+El año 2010 se firmó un convenio de colaboración entre Transelec y la Universidad de Chile.
+Este convenio incluye aspectos docentes y de investigación, así como prácticas profesionales.
+
+El año 2010 se firmó un acuerdo de cooperación con la empresa ZTE, el cual contempla una
+serie de actividades de entrenamiento en comunicaciones móviles (GSM, UMTS, LTE), redes de
+acceso de alta velocidad VDSL/ADSL y sistemas de transmisión DWDM/PTN.
+
+En julio de 2011, se firmó un convenio de cooperación entre Huawei y la Universidad de
+Chile, el cual busca desarrollar un polo latinoamericano tanto para el entrenamiento como para la
+referencia tecnológica en la industria de las telecomunicaciones. En el marco de este acuerdo se
+instala en el DIE un laboratorio con tecnologías LTE/EPC, IMA y otras tecnologías emergentes
+por un valor de 5 millones de dólares. La segunda etapa del acuerdo, que se concreta en junio de
+2012, permite a los laboratorios del DIE contar con tecnología ALL IP por un valor de 4 millones
+de dólares.
+
+En enero de 2013 se firmó un acuerdo con la empresa alemana Rohde \& Schwarz, para contar
+con un equipamiento de última generación, el CMW 500 Wideband Radio Communication Tester,
+probador universal para probar la interfaz de aire de los dispositivos inalámbricos (celulares).
+
+\subsubsection{Vínculos con Sociedades Profesionales}
+
+A nivel nacional los académicos del DIE Rodrigo Palma y Doris Saéz han sido presidentes del
+IEEE (Instituto de Ingenieros Eléctricos), sección Chile. A nivel internacional, el profesor Pablo
+Estévez es actualmente Vicepresidente de Membresías de la Computational Intelligence Society
+(CIS) del IEEE , y además es el Presidente electo para el año 2015. Desde hace 10 años, el DIE
+en conjunto con el Capítulo chileno del IEEE CIS organiza la Escuela de Verano en Inteligencia
+Computacional12. Esta escuela está principalmente dirigida a estudiantes de postgrado y estudiantes
+de pregrado de los últimos años. A través de los años se han invitado como conferencistas
+distinguidos a una treintena de destacadas personalidades del ámbito académico mundial.

@@ -1,5 +1,3 @@
-%% TÍTULO "SÍNTESIS DEL PROCESO DE AUTOEVALUACIÓN"
-
 \section{Organización}
 
 Para enfrentar el actual proceso de acreditación, el Comité Académico del Programa constituyó un
