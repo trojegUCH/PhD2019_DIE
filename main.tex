@@ -38,6 +38,11 @@
 \addbibresource{bibliography.bib} % BibTeX bibliography file
 \defbibheading{bibempty}{}
 
+
+% marcas de modificaciones
+\newcommand{\trg}[1]{\textcolor{red}{#1}}
+
+
 \input{structure} % Insert the commands.tex file which contains the majority of the structure behind the template
 
 \renewcommand\spanishtablename{Tabla}
@@ -58,7 +63,7 @@
 \vspace*{0.5cm}
 {\Large \textbf{ACREDITACIÓN DEL PROGRAMA DE}}\par % Book title
 \vspace*{0.3cm}
-{\Huge \textbf{MAGÍSTER EN INGENIERÍA DE\\ REDES DE COMUNICACIONES}}\par % Author name
+{\Huge \textbf{DOCTORADO EN INGENIERÍA ELÉCTRICA}}\par % Author name
 \endgroup
 
 %----------------------------------------------------------------------------------------
@@ -69,7 +74,7 @@
 ~\vfill
 \thispagestyle{empty}
 
-\noindent \textsc{www.mirc.uchile.cl}\\ % URL
+\noindent \textsc{www.die.cl}\\ % URL
 
 %\noindent \textsc{Texmaker 4.5 \& Matlab 2016b}\\
 
@@ -99,8 +104,6 @@
 \chapter{Marco de Referencia}
 \input{capitulo1.tex}
 
-
-
 %----------------------------------------------------------------------------------------
 %	CHAPTER 2
 %----------------------------------------------------------------------------------------
@@ -108,7 +111,6 @@
 \chapterimage{proceso_formativo.jpg}
 \chapter{Criterios de Evaluación}
 \input{capitulo2.tex}
-
 
 %----------------------------------------------------------------------------------------
 %	CHAPTER 3
@@ -134,6 +136,9 @@
 \chapter{Avances del Proceso de Acreditación}
 \input{capitulo5.tex}
 
+%----------------------------------------------------------------------------------------
+%	ANEXOS
+%----------------------------------------------------------------------------------------
 
 \appendix
 \chapterimage{blank.jpg}
